@@ -1,0 +1,1863 @@
+[
+  {
+    "atomicNumber": 1,
+    "symbol": "H",
+    "name": "Hydrogen",
+    "nameZh": "氢",
+    "pinyin": "qīng",
+    "category": "Reactive nonmetal",
+    "group": 1,
+    "period": 1,
+    "block": "s",
+    "atomicMass": 1.008,
+    "stateAtRoomTemp": "gas",
+    "discovered": {
+      "year": 1766,
+      "by": "Henry Cavendish"
+    },
+    "nameMeaning": "From Greek hydro + genes, 'water maker'",
+    "zhRadical": {
+      "radical": "气",
+      "means": "gas",
+      "note": "The 气 (gas) radical — this element is a gas."
+    },
+    "crustAbundancePpm": 1400,
+    "charges": {
+      "common": [
+        1
+      ],
+      "all": [
+        -1,
+        1
+      ]
+    },
+    "description": "Hydrogen is the smallest and lightest atom in the whole universe: just one proton with one electron whizzing around it. It is also the most common element anywhere — about three quarters of all the stuff in space is hydrogen. Stars like our Sun are giant balls of hydrogen squeezing together to make light and heat.",
+    "funFacts": [
+      "If the periodic table were a race, hydrogen would win for being first AND lightest.",
+      "The Sun burns about 600 million tons of hydrogen every single second.",
+      "Two hydrogen atoms plus one oxygen atom make water — so you are mostly made of hydrogen by atom count.",
+      "Hydrogen gas is so light that a balloon filled with it floats up and away.",
+      "Rockets use liquid hydrogen as fuel because it packs a huge punch for its weight."
+    ],
+    "compounds": [
+      {
+        "formula": "H2O",
+        "name": "Water",
+        "nameZh": "水",
+        "about": "The most important compound on Earth — you drink it, swim in it, and are made of it."
+      },
+      {
+        "formula": "CH4",
+        "name": "Methane",
+        "nameZh": "甲烷",
+        "about": "Natural gas that cooks food on a stove; also what cows burp."
+      },
+      {
+        "formula": "NH3",
+        "name": "Ammonia",
+        "nameZh": "氨",
+        "about": "A sharp-smelling gas turned into fertilizer that grows much of the world's food."
+      },
+      {
+        "formula": "HCl",
+        "name": "Hydrochloric acid",
+        "nameZh": "盐酸",
+        "about": "A strong acid — your own stomach makes it to digest lunch."
+      },
+      {
+        "formula": "H2O2",
+        "name": "Hydrogen peroxide",
+        "nameZh": "过氧化氢",
+        "about": "Water with an extra oxygen; it fizzes on cuts and bleaches hair."
+      },
+      {
+        "formula": "H2SO4",
+        "name": "Sulfuric acid",
+        "about": "The world's most-produced chemical, used inside car batteries."
+      },
+      {
+        "formula": "C6H12O6",
+        "name": "Glucose",
+        "about": "The sugar plants make from sunlight and your body burns for energy."
+      },
+      {
+        "formula": "C2H6O",
+        "name": "Ethanol",
+        "about": "The alcohol in hand sanitizer and in some car fuels."
+      },
+      {
+        "formula": "NaOH",
+        "name": "Sodium hydroxide",
+        "about": "Also called lye — used to make soap and unclog drains."
+      },
+      {
+        "formula": "H2S",
+        "name": "Hydrogen sulfide",
+        "about": "The rotten-egg gas that bubbles out of swamps and volcanoes."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 2,
+    "symbol": "He",
+    "name": "Helium",
+    "nameZh": "氦",
+    "pinyin": "hài",
+    "category": "Noble gas",
+    "group": 18,
+    "period": 1,
+    "block": "s",
+    "atomicMass": 4.0026,
+    "stateAtRoomTemp": "gas",
+    "discovered": {
+      "year": 1868,
+      "by": "Pierre Janssen and Norman Lockyer"
+    },
+    "nameMeaning": "From Greek helios, 'sun'",
+    "zhRadical": {
+      "radical": "气",
+      "means": "gas",
+      "note": "The 气 (gas) radical — this element is a gas."
+    },
+    "crustAbundancePpm": 0.008,
+    "charges": {
+      "common": [
+        0
+      ],
+      "all": [
+        0
+      ]
+    },
+    "description": "Helium is the second lightest element and the ultimate loner — it almost never joins up with other atoms, so it has no real compounds. It was discovered on the Sun before anyone found it on Earth, by studying sunlight through a prism. Today we collect it from underground gas wells.",
+    "funFacts": [
+      "Helium was found on the Sun first — it is the only element discovered in space before Earth.",
+      "Breathing a little helium makes your voice squeaky because sound travels faster through it.",
+      "Helium is the only substance that never freezes solid, no matter how cold it gets, unless you also squeeze it.",
+      "Below −271 °C liquid helium becomes a 'superfluid' that can climb up the walls of its container.",
+      "Party balloons use only a tiny slice of our helium; most cools the giant magnets in hospital MRI scanners."
+    ],
+    "compounds": [],
+    "compoundsNote": "Helium is a noble gas and forms no stable everyday compounds. Chemists have only made fragile molecules like HeH+ (helium hydride) inside special equipment — it was also the very first molecule ever to form in the universe.",
+    "compoundsExamples": [
+      {
+        "formula": "HeH+",
+        "name": "Helium hydride ion",
+        "about": "Thought to be the first molecule ever made after the Big Bang; spotted in space in 2019."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 3,
+    "symbol": "Li",
+    "name": "Lithium",
+    "nameZh": "锂",
+    "pinyin": "lǐ",
+    "category": "Alkali metal",
+    "group": 1,
+    "period": 2,
+    "block": "s",
+    "atomicMass": 6.94,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1817,
+      "by": "Johan August Arfwedson"
+    },
+    "nameMeaning": "From Greek lithos, 'stone'",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 20,
+    "charges": {
+      "common": [
+        1
+      ],
+      "all": [
+        1
+      ]
+    },
+    "description": "Lithium is the lightest metal of all — so light it floats on water, though it fizzes and reacts the moment it touches it. It is soft enough to cut with a butter knife. Lithium is the superstar of rechargeable batteries in phones, laptops and electric cars.",
+    "funFacts": [
+      "Lithium is so light it would float on water — if it did not react with it first.",
+      "It must be stored under oil, because plain air makes it tarnish.",
+      "Lithium burns with a beautiful crimson-red flame, used in fireworks.",
+      "The battery in your phone shuttles lithium ions back and forth every time you charge it.",
+      "Lithium is one of only three elements made in the Big Bang itself, along with hydrogen and helium."
+    ],
+    "compounds": [
+      {
+        "formula": "LiCoO2",
+        "name": "Lithium cobalt oxide",
+        "nameZh": "钴酸锂",
+        "about": "The material inside most phone and laptop batteries."
+      },
+      {
+        "formula": "Li2CO3",
+        "name": "Lithium carbonate",
+        "nameZh": "碳酸锂",
+        "about": "The main lithium chemical mined from salt flats; also a medicine."
+      },
+      {
+        "formula": "LiCl",
+        "name": "Lithium chloride",
+        "nameZh": "氯化锂",
+        "about": "A salt so thirsty for water it is used to dry out air."
+      },
+      {
+        "formula": "LiOH",
+        "name": "Lithium hydroxide",
+        "nameZh": "氢氧化锂",
+        "about": "Scrubs carbon dioxide from the air on spacecraft and submarines."
+      },
+      {
+        "formula": "LiFePO4",
+        "name": "Lithium iron phosphate",
+        "nameZh": "磷酸铁锂",
+        "about": "A safe, long-lasting battery material used in many electric cars."
+      },
+      {
+        "formula": "LiF",
+        "name": "Lithium fluoride",
+        "about": "A crystal so clear it lets ultraviolet light pass straight through."
+      },
+      {
+        "formula": "LiAlSi2O6",
+        "name": "Spodumene",
+        "about": "The hard rock mineral that most of the world's lithium is dug out of."
+      },
+      {
+        "formula": "LiH",
+        "name": "Lithium hydride",
+        "about": "A powdery solid that stores hydrogen gas."
+      },
+      {
+        "formula": "LiNO3",
+        "name": "Lithium nitrate",
+        "about": "Used in red-colored fireworks and in heat-storing materials."
+      },
+      {
+        "formula": "LiAlH4",
+        "name": "Lithium aluminum hydride",
+        "about": "A powerful chemistry-lab tool for building new molecules."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 4,
+    "symbol": "Be",
+    "name": "Beryllium",
+    "nameZh": "铍",
+    "pinyin": "pí",
+    "category": "Alkaline earth metal",
+    "group": 2,
+    "period": 2,
+    "block": "s",
+    "atomicMass": 9.0122,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1798,
+      "by": "Louis-Nicolas Vauquelin"
+    },
+    "nameMeaning": "From the gemstone beryl",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 2.8,
+    "charges": {
+      "common": [
+        2
+      ],
+      "all": [
+        2
+      ]
+    },
+    "description": "Beryllium is a light, stiff, silvery metal that is stronger than steel for its weight. It hides inside famous gemstones — emeralds and aquamarines are both beryllium crystals colored by tiny impurities. Beryllium dust is poisonous, so only trained scientists handle it.",
+    "funFacts": [
+      "Emeralds and aquamarines are the same beryllium mineral, just different colors.",
+      "The mirrors on the James Webb Space Telescope are made of beryllium because it barely shrinks in the cold of space.",
+      "Beryllium is transparent to X-rays, so it makes the windows on X-ray machines.",
+      "Mixed with copper it makes tools that cannot spark — vital near explosive fuels.",
+      "It is one of the lightest metals, yet a beryllium beam is stiffer than a steel one."
+    ],
+    "compounds": [
+      {
+        "formula": "Be3Al2Si6O18",
+        "name": "Beryl",
+        "nameZh": "绿柱石",
+        "about": "The gemstone mineral that gives us emerald and aquamarine."
+      },
+      {
+        "formula": "BeO",
+        "name": "Beryllium oxide",
+        "nameZh": "氧化铍",
+        "about": "A ceramic that carries heat like a metal but does not conduct electricity."
+      },
+      {
+        "formula": "Be(OH)2",
+        "name": "Beryllium hydroxide",
+        "nameZh": "氢氧化铍",
+        "about": "The white powder made when beryllium ore is first processed."
+      },
+      {
+        "formula": "BeF2",
+        "name": "Beryllium fluoride",
+        "nameZh": "氟化铍",
+        "about": "A glassy solid used in some experimental nuclear reactor fuels."
+      },
+      {
+        "formula": "BeCl2",
+        "name": "Beryllium chloride",
+        "nameZh": "氯化铍",
+        "about": "Forms long chain-like structures, unusual for a simple salt."
+      },
+      {
+        "formula": "Be2SiO4",
+        "name": "Phenakite",
+        "about": "A rare, very hard gemstone mineral."
+      },
+      {
+        "formula": "BeAl2O4",
+        "name": "Chrysoberyl",
+        "about": "The gem alexandrite, which looks green in daylight and red in lamplight."
+      },
+      {
+        "formula": "BeSO4",
+        "name": "Beryllium sulfate",
+        "about": "A water-soluble salt used in laboratories."
+      },
+      {
+        "formula": "BeCO3",
+        "name": "Beryllium carbonate",
+        "about": "An unstable salt that easily gives off carbon dioxide."
+      },
+      {
+        "formula": "Be(NO3)2",
+        "name": "Beryllium nitrate",
+        "about": "Used to stiffen the glowing mantles in old gas lanterns."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 5,
+    "symbol": "B",
+    "name": "Boron",
+    "nameZh": "硼",
+    "pinyin": "péng",
+    "category": "Metalloid",
+    "group": 13,
+    "period": 2,
+    "block": "p",
+    "atomicMass": 10.81,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1808,
+      "by": "Humphry Davy, Gay-Lussac and Thénard"
+    },
+    "nameMeaning": "From borax, the mineral it was first found in",
+    "zhRadical": {
+      "radical": "石",
+      "means": "solid nonmetal",
+      "note": "The 石 (stone) radical — this element is a solid nonmetal."
+    },
+    "crustAbundancePpm": 10,
+    "charges": {
+      "common": [
+        3
+      ],
+      "all": [
+        -5,
+        -1,
+        1,
+        2,
+        3
+      ]
+    },
+    "description": "Boron sits on the fence between metals and non-metals, so it is called a metalloid. Pure boron is a hard, dark, brittle solid, almost as hard as diamond. You meet boron every day in heat-proof glass, laundry powder and the slime you can make at home.",
+    "funFacts": [
+      "Boron makes glass that will not crack when it goes from the oven to the counter — that is Pyrex.",
+      "Borax plus glue is the classic recipe for homemade slime.",
+      "Boron carbide is so hard it is used in bulletproof vests and tank armor.",
+      "Boron gobbles up neutrons, so it is used in nuclear reactor control rods to slow reactions down.",
+      "Plants need a tiny amount of boron to grow — too little and their leaves curl up."
+    ],
+    "compounds": [
+      {
+        "formula": "Na2B4O7·10H2O",
+        "name": "Borax",
+        "nameZh": "硼砂",
+        "about": "A soft white mineral used in laundry detergent and slime recipes."
+      },
+      {
+        "formula": "H3BO3",
+        "name": "Boric acid",
+        "nameZh": "硼酸",
+        "about": "A mild antiseptic, and a very effective ant and cockroach powder."
+      },
+      {
+        "formula": "B2O3",
+        "name": "Boron trioxide",
+        "nameZh": "三氧化二硼",
+        "about": "The ingredient that makes heat-proof borosilicate glass."
+      },
+      {
+        "formula": "B4C",
+        "name": "Boron carbide",
+        "nameZh": "碳化硼",
+        "about": "One of the hardest materials known — used for armor plating."
+      },
+      {
+        "formula": "BN",
+        "name": "Boron nitride",
+        "nameZh": "氮化硼",
+        "about": "Comes in a slippery form like pencil lead and a hard form like diamond."
+      },
+      {
+        "formula": "BF3",
+        "name": "Boron trifluoride",
+        "about": "A gas that chemists use to kick-start reactions."
+      },
+      {
+        "formula": "NaBH4",
+        "name": "Sodium borohydride",
+        "about": "A handy chemical for adding hydrogen to other molecules."
+      },
+      {
+        "formula": "B2H6",
+        "name": "Diborane",
+        "about": "A strange molecule where hydrogen atoms act like bridges."
+      },
+      {
+        "formula": "CaB6",
+        "name": "Calcium hexaboride",
+        "about": "Added to steel and copper to make them tougher."
+      },
+      {
+        "formula": "BCl3",
+        "name": "Boron trichloride",
+        "about": "Used to purify metals like aluminum and to make computer chips."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 6,
+    "symbol": "C",
+    "name": "Carbon",
+    "nameZh": "碳",
+    "pinyin": "tàn",
+    "category": "Reactive nonmetal",
+    "group": 14,
+    "period": 2,
+    "block": "p",
+    "atomicMass": 12.011,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": null,
+      "by": "Known since ancient times"
+    },
+    "nameMeaning": "From Latin carbo, 'coal'",
+    "zhRadical": {
+      "radical": "石",
+      "means": "solid nonmetal",
+      "note": "The 石 (stone) radical — this element is a solid nonmetal."
+    },
+    "crustAbundancePpm": 200,
+    "charges": {
+      "common": [
+        -4,
+        4
+      ],
+      "all": [
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "description": "Carbon is the element of life. Every living thing on Earth — you, your dog, trees, mushrooms — is built on carbon because carbon atoms link into long chains and rings like Lego bricks. The same element can be soft gray pencil lead or the hardest diamond, depending only on how the atoms are arranged.",
+    "funFacts": [
+      "Diamond and pencil lead are both pure carbon — only the atom arrangement differs.",
+      "About 18% of your body's weight is carbon.",
+      "Carbon atoms can bond into hollow soccer balls called buckyballs and tubes called nanotubes.",
+      "Graphene, a sheet of carbon one atom thick, is the strongest material ever measured.",
+      "Carbon dating uses a rare radioactive carbon to work out how old ancient bones and wood are."
+    ],
+    "compounds": [
+      {
+        "formula": "CO2",
+        "name": "Carbon dioxide",
+        "nameZh": "二氧化碳",
+        "about": "The gas you breathe out and plants breathe in; also the fizz in soda."
+      },
+      {
+        "formula": "CH4",
+        "name": "Methane",
+        "nameZh": "甲烷",
+        "about": "Natural gas — the simplest carbon compound and a powerful greenhouse gas."
+      },
+      {
+        "formula": "C6H12O6",
+        "name": "Glucose",
+        "nameZh": "葡萄糖",
+        "about": "The sugar that fuels every cell in your body."
+      },
+      {
+        "formula": "CaCO3",
+        "name": "Calcium carbonate",
+        "nameZh": "碳酸钙",
+        "about": "Chalk, limestone, seashells and eggshells are all made of it."
+      },
+      {
+        "formula": "CO",
+        "name": "Carbon monoxide",
+        "nameZh": "一氧化碳",
+        "about": "An invisible, odorless and dangerous gas from incomplete burning."
+      },
+      {
+        "formula": "C2H6O",
+        "name": "Ethanol",
+        "about": "The alcohol in sanitizer, made by yeast eating sugar."
+      },
+      {
+        "formula": "CH3COOH",
+        "name": "Acetic acid",
+        "about": "What makes vinegar sour."
+      },
+      {
+        "formula": "C8H10N4O2",
+        "name": "Caffeine",
+        "about": "The wake-up molecule in coffee, tea and cocoa."
+      },
+      {
+        "formula": "(C6H10O5)n",
+        "name": "Cellulose",
+        "about": "The tough fiber that builds plant walls, wood and paper."
+      },
+      {
+        "formula": "NaHCO3",
+        "name": "Sodium bicarbonate",
+        "about": "Baking soda — it makes cakes rise and volcanoes erupt."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 7,
+    "symbol": "N",
+    "name": "Nitrogen",
+    "nameZh": "氮",
+    "pinyin": "dàn",
+    "category": "Reactive nonmetal",
+    "group": 15,
+    "period": 2,
+    "block": "p",
+    "atomicMass": 14.007,
+    "stateAtRoomTemp": "gas",
+    "discovered": {
+      "year": 1772,
+      "by": "Daniel Rutherford"
+    },
+    "nameMeaning": "From Greek nitron + genes, 'saltpetre maker'",
+    "zhRadical": {
+      "radical": "气",
+      "means": "gas",
+      "note": "The 气 (gas) radical — this element is a gas."
+    },
+    "crustAbundancePpm": 19,
+    "charges": {
+      "common": [
+        -3,
+        3,
+        5
+      ],
+      "all": [
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "description": "Nitrogen makes up 78% of the air you are breathing right now — every breath is mostly nitrogen. As a gas it is very lazy and refuses to react, which is handy: it keeps chips fresh in their bags. But locked into compounds, nitrogen becomes the key ingredient of fertilizer, proteins and DNA.",
+    "funFacts": [
+      "Four out of every five molecules in the air are nitrogen.",
+      "Liquid nitrogen is −196 °C and can freeze a flower solid enough to shatter.",
+      "Chip bags are puffed up with nitrogen to stop the chips going stale and getting crushed.",
+      "Your DNA and every protein in your body contains nitrogen atoms.",
+      "Lightning splits nitrogen in the air, letting plants use it — a natural fertilizer factory."
+    ],
+    "compounds": [
+      {
+        "formula": "NH3",
+        "name": "Ammonia",
+        "nameZh": "氨",
+        "about": "Turned into fertilizer that feeds about half the people on Earth."
+      },
+      {
+        "formula": "HNO3",
+        "name": "Nitric acid",
+        "nameZh": "硝酸",
+        "about": "A strong acid used to make fertilizers and explosives."
+      },
+      {
+        "formula": "NH4NO3",
+        "name": "Ammonium nitrate",
+        "nameZh": "硝酸铵",
+        "about": "A very common farm fertilizer; also used in mining explosives."
+      },
+      {
+        "formula": "N2O",
+        "name": "Nitrous oxide",
+        "nameZh": "一氧化二氮",
+        "about": "'Laughing gas' used by dentists and to whip cream."
+      },
+      {
+        "formula": "NO2",
+        "name": "Nitrogen dioxide",
+        "nameZh": "二氧化氮",
+        "about": "A brown, smelly gas in traffic pollution and smog."
+      },
+      {
+        "formula": "KNO3",
+        "name": "Potassium nitrate",
+        "about": "Saltpetre — an old fertilizer and an ingredient of gunpowder."
+      },
+      {
+        "formula": "CH4N2O",
+        "name": "Urea",
+        "about": "The body's way of getting rid of extra nitrogen, and a top fertilizer."
+      },
+      {
+        "formula": "HCN",
+        "name": "Hydrogen cyanide",
+        "about": "Extremely poisonous, but also found in space clouds where life's chemicals form."
+      },
+      {
+        "formula": "NO",
+        "name": "Nitric oxide",
+        "about": "A messenger molecule your blood vessels use to relax and widen."
+      },
+      {
+        "formula": "C3H5N3O9",
+        "name": "Nitroglycerin",
+        "about": "A famous explosive that is also a heart medicine in tiny doses."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 8,
+    "symbol": "O",
+    "name": "Oxygen",
+    "nameZh": "氧",
+    "pinyin": "yǎng",
+    "category": "Reactive nonmetal",
+    "group": 16,
+    "period": 2,
+    "block": "p",
+    "atomicMass": 15.999,
+    "stateAtRoomTemp": "gas",
+    "discovered": {
+      "year": 1774,
+      "by": "Joseph Priestley and Carl Wilhelm Scheele"
+    },
+    "nameMeaning": "From Greek oxys + genes, 'acid maker'",
+    "zhRadical": {
+      "radical": "气",
+      "means": "gas",
+      "note": "The 气 (gas) radical — this element is a gas."
+    },
+    "crustAbundancePpm": 461000,
+    "charges": {
+      "common": [
+        -2
+      ],
+      "all": [
+        -2,
+        -1,
+        1,
+        2
+      ]
+    },
+    "description": "Oxygen is the element you cannot live without — you use it every few seconds to burn food for energy. It is the most common element in the Earth's crust and in your body. Almost half of every rock under your feet is oxygen locked into minerals.",
+    "funFacts": [
+      "About 65% of your body weight is oxygen, mostly because you are mostly water.",
+      "Nearly half of the Earth's crust, by weight, is oxygen.",
+      "Fire cannot burn without oxygen — that is why a lid smothers a flame.",
+      "The oxygen you breathe was made by plants, algae and tiny ocean bacteria.",
+      "Liquid oxygen is pale blue and is attracted to magnets."
+    ],
+    "compounds": [
+      {
+        "formula": "H2O",
+        "name": "Water",
+        "nameZh": "水",
+        "about": "Covers 71% of the planet and fills most of your body."
+      },
+      {
+        "formula": "SiO2",
+        "name": "Silicon dioxide",
+        "nameZh": "二氧化硅",
+        "about": "Sand, quartz and glass — the most common mineral in the crust."
+      },
+      {
+        "formula": "CO2",
+        "name": "Carbon dioxide",
+        "nameZh": "二氧化碳",
+        "about": "Breathed out by animals, drunk in by plants."
+      },
+      {
+        "formula": "Fe2O3",
+        "name": "Iron oxide",
+        "nameZh": "氧化铁",
+        "about": "Rust, and the red color of Mars."
+      },
+      {
+        "formula": "Al2O3",
+        "name": "Aluminum oxide",
+        "nameZh": "氧化铝",
+        "about": "The mineral corundum; ruby and sapphire are colored versions."
+      },
+      {
+        "formula": "CaCO3",
+        "name": "Calcium carbonate",
+        "about": "Limestone, chalk and seashells."
+      },
+      {
+        "formula": "O3",
+        "name": "Ozone",
+        "about": "Three oxygen atoms; high in the sky it blocks the Sun's harmful rays."
+      },
+      {
+        "formula": "H2O2",
+        "name": "Hydrogen peroxide",
+        "about": "A fizzing bleach and disinfectant."
+      },
+      {
+        "formula": "CaO",
+        "name": "Calcium oxide",
+        "about": "Quicklime — a key ingredient in cement."
+      },
+      {
+        "formula": "H2SO4",
+        "name": "Sulfuric acid",
+        "about": "The most-manufactured chemical in the world."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 9,
+    "symbol": "F",
+    "name": "Fluorine",
+    "nameZh": "氟",
+    "pinyin": "fú",
+    "category": "Halogen",
+    "group": 17,
+    "period": 2,
+    "block": "p",
+    "atomicMass": 18.998,
+    "stateAtRoomTemp": "gas",
+    "discovered": {
+      "year": 1886,
+      "by": "Henri Moissan"
+    },
+    "nameMeaning": "From Latin fluere, 'to flow'",
+    "zhRadical": {
+      "radical": "气",
+      "means": "gas",
+      "note": "The 气 (gas) radical — this element is a gas."
+    },
+    "crustAbundancePpm": 585,
+    "charges": {
+      "common": [
+        -1
+      ],
+      "all": [
+        -1
+      ]
+    },
+    "description": "Fluorine is the greediest element of all — it grabs electrons from almost anything and reacts with nearly every other element. As a pure pale-yellow gas it is fiercely dangerous, yet once it is safely bonded it protects your teeth in toothpaste and stops eggs sticking to your frying pan.",
+    "funFacts": [
+      "Fluorine is the most reactive element in the entire periodic table.",
+      "Chemists tried for 70 years to isolate it; several were poisoned trying.",
+      "Non-stick pans are coated in Teflon, a plastic wrapped in fluorine atoms.",
+      "Fluoride in toothpaste rebuilds tooth enamel and fights cavities.",
+      "The mineral fluorite glows in the dark under UV light — the word 'fluorescent' comes from it."
+    ],
+    "compounds": [
+      {
+        "formula": "CaF2",
+        "name": "Fluorite",
+        "nameZh": "萤石",
+        "about": "The main fluorine mineral; it glows under ultraviolet light."
+      },
+      {
+        "formula": "NaF",
+        "name": "Sodium fluoride",
+        "nameZh": "氟化钠",
+        "about": "Added to toothpaste and some tap water to protect teeth."
+      },
+      {
+        "formula": "(C2F4)n",
+        "name": "Teflon (PTFE)",
+        "nameZh": "聚四氟乙烯",
+        "about": "The slippery non-stick coating on frying pans."
+      },
+      {
+        "formula": "HF",
+        "name": "Hydrofluoric acid",
+        "nameZh": "氢氟酸",
+        "about": "So aggressive it dissolves glass; used to etch patterns on it."
+      },
+      {
+        "formula": "SF6",
+        "name": "Sulfur hexafluoride",
+        "nameZh": "六氟化硫",
+        "about": "A heavy gas that makes your voice go deep — the opposite of helium."
+      },
+      {
+        "formula": "UF6",
+        "name": "Uranium hexafluoride",
+        "about": "Used to separate types of uranium for nuclear fuel."
+      },
+      {
+        "formula": "Na3AlF6",
+        "name": "Cryolite",
+        "about": "Helps melt aluminum ore so the metal can be extracted."
+      },
+      {
+        "formula": "SnF2",
+        "name": "Stannous fluoride",
+        "about": "Another tooth-protecting fluoride found in toothpaste."
+      },
+      {
+        "formula": "CFCs",
+        "name": "Chlorofluorocarbons",
+        "about": "Old fridge gases, now banned for damaging the ozone layer."
+      },
+      {
+        "formula": "F2",
+        "name": "Fluorine gas",
+        "about": "The pure element — pale yellow and the most reactive gas known."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 10,
+    "symbol": "Ne",
+    "name": "Neon",
+    "nameZh": "氖",
+    "pinyin": "nǎi",
+    "category": "Noble gas",
+    "group": 18,
+    "period": 2,
+    "block": "p",
+    "atomicMass": 20.18,
+    "stateAtRoomTemp": "gas",
+    "discovered": {
+      "year": 1898,
+      "by": "William Ramsay and Morris Travers"
+    },
+    "nameMeaning": "From Greek neos, 'new'",
+    "zhRadical": {
+      "radical": "气",
+      "means": "gas",
+      "note": "The 气 (gas) radical — this element is a gas."
+    },
+    "crustAbundancePpm": 0.005,
+    "charges": {
+      "common": [
+        0
+      ],
+      "all": [
+        0
+      ]
+    },
+    "description": "Neon is a noble gas that refuses to react with anything at all, so it has no compounds. Its claim to fame is light: run electricity through neon and it glows a brilliant orange-red. That glow lit up the signs of cities all over the world for a hundred years.",
+    "funFacts": [
+      "Neon signs only glow orange-red; other colors come from different gases or coatings.",
+      "Neon was named 'new' by a 12-year-old — the discoverer's son suggested it.",
+      "Neon is the fifth most common element in the universe but very rare on Earth.",
+      "A neon light has no filament to burn out, so signs can last for decades.",
+      "Liquid neon is a far better refrigerant than liquid helium for its volume."
+    ],
+    "compounds": [],
+    "compoundsNote": "Neon is the least reactive element known. It forms no chemical compounds at all — not even fragile laboratory ones. Scientists have only ever coaxed it into loose 'clusters' held together by weak attraction, such as Ne–Ne pairs in ultra-cold experiments."
+  },
+  {
+    "atomicNumber": 11,
+    "symbol": "Na",
+    "name": "Sodium",
+    "nameZh": "钠",
+    "pinyin": "nà",
+    "category": "Alkali metal",
+    "group": 1,
+    "period": 3,
+    "block": "s",
+    "atomicMass": 22.99,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1807,
+      "by": "Humphry Davy"
+    },
+    "nameMeaning": "From English soda; symbol Na from Latin natrium",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 23600,
+    "charges": {
+      "common": [
+        1
+      ],
+      "all": [
+        -1,
+        1
+      ]
+    },
+    "description": "Sodium is a soft silver metal you can slice like cheese — but drop a piece in water and it fizzes, dances and can burst into flame. Amazingly, when sodium joins with the poisonous gas chlorine, the result is completely safe: ordinary table salt.",
+    "funFacts": [
+      "A dangerous metal plus a poisonous gas makes harmless table salt.",
+      "Sodium is soft enough to cut with a plastic knife.",
+      "It burns with a bright yellow-orange flame — the color of old street lamps.",
+      "Your nerves fire signals by pumping sodium in and out of cells, so you need salt to think.",
+      "Sodium must be kept under oil, or it reacts with the moisture in air."
+    ],
+    "compounds": [
+      {
+        "formula": "NaCl",
+        "name": "Sodium chloride",
+        "nameZh": "氯化钠",
+        "about": "Table salt — in the sea, in your food and in your blood."
+      },
+      {
+        "formula": "NaHCO3",
+        "name": "Sodium bicarbonate",
+        "nameZh": "碳酸氢钠",
+        "about": "Baking soda, for rising cakes and fizzing science experiments."
+      },
+      {
+        "formula": "NaOH",
+        "name": "Sodium hydroxide",
+        "nameZh": "氢氧化钠",
+        "about": "Lye — used to make soap and clear blocked drains."
+      },
+      {
+        "formula": "Na2CO3",
+        "name": "Sodium carbonate",
+        "nameZh": "碳酸钠",
+        "about": "Washing soda, and a key ingredient in making glass."
+      },
+      {
+        "formula": "NaNO3",
+        "name": "Sodium nitrate",
+        "nameZh": "硝酸钠",
+        "about": "A mined fertilizer once called Chile saltpetre."
+      },
+      {
+        "formula": "Na2SO4",
+        "name": "Sodium sulfate",
+        "about": "Used in powdered laundry detergent."
+      },
+      {
+        "formula": "NaF",
+        "name": "Sodium fluoride",
+        "about": "The cavity fighter in toothpaste."
+      },
+      {
+        "formula": "Na2SiO3",
+        "name": "Sodium silicate",
+        "about": "'Water glass' — a glue and the base for growing crystal gardens."
+      },
+      {
+        "formula": "NaClO",
+        "name": "Sodium hypochlorite",
+        "about": "Household bleach, which also disinfects swimming pools."
+      },
+      {
+        "formula": "C7H5NaO2",
+        "name": "Sodium benzoate",
+        "about": "A preservative that keeps sodas from going moldy."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 12,
+    "symbol": "Mg",
+    "name": "Magnesium",
+    "nameZh": "镁",
+    "pinyin": "měi",
+    "category": "Alkaline earth metal",
+    "group": 2,
+    "period": 3,
+    "block": "s",
+    "atomicMass": 24.305,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1808,
+      "by": "Humphry Davy"
+    },
+    "nameMeaning": "From Magnesia, a district in Greece",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 23300,
+    "charges": {
+      "common": [
+        2
+      ],
+      "all": [
+        1,
+        2
+      ]
+    },
+    "description": "Magnesium is a light, strong metal that burns with a blinding white light — so bright that old cameras used it for flash photography. It is also at the very heart of every green plant: the molecule that captures sunlight has a magnesium atom in its middle.",
+    "funFacts": [
+      "Every leaf is green because of chlorophyll, and every chlorophyll molecule holds one magnesium atom.",
+      "Burning magnesium is so bright it can hurt your eyes, and water makes the fire worse.",
+      "It is one third lighter than aluminum, so racing cars and laptops use magnesium parts.",
+      "Epsom salts for aching muscles are a magnesium compound.",
+      "Your body needs magnesium for over 300 different jobs, including making bones."
+    ],
+    "compounds": [
+      {
+        "formula": "MgO",
+        "name": "Magnesium oxide",
+        "nameZh": "氧化镁",
+        "about": "A heat-proof lining for furnaces; also an antacid."
+      },
+      {
+        "formula": "MgSO4·7H2O",
+        "name": "Epsom salt",
+        "nameZh": "泻盐",
+        "about": "Added to baths to soothe sore muscles."
+      },
+      {
+        "formula": "MgCO3",
+        "name": "Magnesium carbonate",
+        "nameZh": "碳酸镁",
+        "about": "The white chalk gymnasts and climbers use to dry their hands."
+      },
+      {
+        "formula": "Mg(OH)2",
+        "name": "Magnesium hydroxide",
+        "nameZh": "氢氧化镁",
+        "about": "Milk of magnesia, which settles an upset stomach."
+      },
+      {
+        "formula": "MgCl2",
+        "name": "Magnesium chloride",
+        "nameZh": "氯化镁",
+        "about": "Spread on icy roads and used to make tofu firm."
+      },
+      {
+        "formula": "C55H72MgN4O5",
+        "name": "Chlorophyll",
+        "about": "The green pigment that lets plants turn sunlight into food."
+      },
+      {
+        "formula": "CaMg(CO3)2",
+        "name": "Dolomite",
+        "about": "A rock so common that a whole Italian mountain range is named after it."
+      },
+      {
+        "formula": "Mg2SiO4",
+        "name": "Olivine",
+        "about": "A green mineral that makes up much of the Earth's mantle."
+      },
+      {
+        "formula": "Mg3Si4O10(OH)2",
+        "name": "Talc",
+        "about": "The softest mineral on Earth — talcum powder."
+      },
+      {
+        "formula": "MgB2",
+        "name": "Magnesium diboride",
+        "about": "A surprising superconductor that carries electricity with zero resistance when cold."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 13,
+    "symbol": "Al",
+    "name": "Aluminum",
+    "nameZh": "铝",
+    "pinyin": "lǚ",
+    "category": "Post-transition metal",
+    "group": 13,
+    "period": 3,
+    "block": "p",
+    "atomicMass": 26.982,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1825,
+      "by": "Hans Christian Ørsted"
+    },
+    "nameMeaning": "From alum, a compound used since ancient times",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 82300,
+    "charges": {
+      "common": [
+        3
+      ],
+      "all": [
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ]
+    },
+    "description": "Aluminum is the most common metal in the Earth's crust, and it is light, shiny and does not rust. Yet 200 years ago it was so hard to extract that it cost more than gold — emperors served dinner on aluminum plates to show off. Today it is your soda can and aluminum foil.",
+    "funFacts": [
+      "Aluminum was once more valuable than gold; the top of the Washington Monument is a small aluminum cap.",
+      "Recycling a can uses only about 5% of the energy needed to make a new one.",
+      "It does not really rust — a thin invisible oxide layer instantly seals the surface.",
+      "Ruby and sapphire are both aluminum oxide with a pinch of coloring impurity.",
+      "Airplanes are largely aluminum because it is strong but light enough to fly."
+    ],
+    "compounds": [
+      {
+        "formula": "Al2O3",
+        "name": "Aluminum oxide",
+        "nameZh": "氧化铝",
+        "about": "Corundum — used as sandpaper grit, and as ruby and sapphire gems."
+      },
+      {
+        "formula": "Al(OH)3",
+        "name": "Aluminum hydroxide",
+        "nameZh": "氢氧化铝",
+        "about": "An antacid, and a flame retardant in carpets."
+      },
+      {
+        "formula": "AlCl3",
+        "name": "Aluminum chloride",
+        "nameZh": "氯化铝",
+        "about": "A workhorse chemical for building new molecules."
+      },
+      {
+        "formula": "KAl(SO4)2·12H2O",
+        "name": "Alum",
+        "nameZh": "明矾",
+        "about": "Used for thousands of years to fix dye into cloth."
+      },
+      {
+        "formula": "Al2SiO5",
+        "name": "Kyanite",
+        "nameZh": "蓝晶石",
+        "about": "A blue mineral used to make heat-resistant ceramics."
+      },
+      {
+        "formula": "Na3AlF6",
+        "name": "Cryolite",
+        "about": "The 'melting helper' that makes aluminum smelting possible."
+      },
+      {
+        "formula": "Al2O3·2H2O",
+        "name": "Bauxite",
+        "about": "The reddish ore that nearly all aluminum is mined from."
+      },
+      {
+        "formula": "Al2Si2O5(OH)4",
+        "name": "Kaolinite",
+        "about": "The white clay used to make porcelain and glossy paper."
+      },
+      {
+        "formula": "LiAlH4",
+        "name": "Lithium aluminum hydride",
+        "about": "A strong laboratory reducing agent."
+      },
+      {
+        "formula": "AlN",
+        "name": "Aluminum nitride",
+        "about": "A ceramic that pulls heat away from computer chips."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 14,
+    "symbol": "Si",
+    "name": "Silicon",
+    "nameZh": "硅",
+    "pinyin": "guī",
+    "category": "Metalloid",
+    "group": 14,
+    "period": 3,
+    "block": "p",
+    "atomicMass": 28.085,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1824,
+      "by": "Jöns Jacob Berzelius"
+    },
+    "nameMeaning": "From Latin silex, 'flint'",
+    "zhRadical": {
+      "radical": "石",
+      "means": "solid nonmetal",
+      "note": "The 石 (stone) radical — this element is a solid nonmetal."
+    },
+    "crustAbundancePpm": 282000,
+    "charges": {
+      "common": [
+        -4,
+        4
+      ],
+      "all": [
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "description": "Silicon is the second most common element in the ground, and almost every rock, grain of sand and pane of glass contains it. Purified into perfect crystals, it becomes the brain of every computer, phone and games console — which is why the world's tech capital is called Silicon Valley.",
+    "funFacts": [
+      "Every computer chip starts life as sand.",
+      "Silicon is a semiconductor: sometimes it conducts electricity, sometimes it does not — perfect for switches.",
+      "Chip-making silicon is 99.9999999% pure, one of the purest materials humans make.",
+      "Glass, sand, quartz and opal are all silicon-and-oxygen compounds.",
+      "Silicon is not the same as silicone — silicone is the bendy rubbery stuff made from it."
+    ],
+    "compounds": [
+      {
+        "formula": "SiO2",
+        "name": "Silicon dioxide",
+        "nameZh": "二氧化硅",
+        "about": "Sand, quartz, and the main ingredient of glass."
+      },
+      {
+        "formula": "SiC",
+        "name": "Silicon carbide",
+        "nameZh": "碳化硅",
+        "about": "Nearly as hard as diamond; used for grinding and in fast electronics."
+      },
+      {
+        "formula": "Si3N4",
+        "name": "Silicon nitride",
+        "nameZh": "氮化硅",
+        "about": "A tough ceramic used in ball bearings and engine parts."
+      },
+      {
+        "formula": "H2SiO3",
+        "name": "Silicic acid",
+        "nameZh": "硅酸",
+        "about": "Dissolved silicon in water; diatoms use it to build glass shells."
+      },
+      {
+        "formula": "Na2SiO3",
+        "name": "Sodium silicate",
+        "nameZh": "硅酸钠",
+        "about": "Water glass — a glue, sealant and crystal-garden starter."
+      },
+      {
+        "formula": "KAlSi3O8",
+        "name": "Feldspar",
+        "about": "The single most abundant mineral group in the Earth's crust."
+      },
+      {
+        "formula": "Mg2SiO4",
+        "name": "Olivine",
+        "about": "The green gemstone peridot; makes up much of Earth's mantle."
+      },
+      {
+        "formula": "Al2Si2O5(OH)4",
+        "name": "Kaolinite",
+        "about": "Fine white clay for pottery and porcelain."
+      },
+      {
+        "formula": "SiH4",
+        "name": "Silane",
+        "about": "A gas that bursts into flame in air; used to grow silicon films on chips."
+      },
+      {
+        "formula": "(R2SiO)n",
+        "name": "Silicones",
+        "about": "Flexible rubbery materials in baking molds, sealants and swim caps."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 15,
+    "symbol": "P",
+    "name": "Phosphorus",
+    "nameZh": "磷",
+    "pinyin": "lín",
+    "category": "Reactive nonmetal",
+    "group": 15,
+    "period": 3,
+    "block": "p",
+    "atomicMass": 30.974,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1669,
+      "by": "Hennig Brand"
+    },
+    "nameMeaning": "From Greek phosphoros, 'light bringer'",
+    "zhRadical": {
+      "radical": "石",
+      "means": "solid nonmetal",
+      "note": "The 石 (stone) radical — this element is a solid nonmetal."
+    },
+    "crustAbundancePpm": 1050,
+    "charges": {
+      "common": [
+        -3,
+        3,
+        5
+      ],
+      "all": [
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "description": "Phosphorus was discovered by a man boiling down buckets of urine hoping to make gold — instead he got a waxy solid that glowed in the dark. Phosphorus is essential to life: it forms the backbone of your DNA and makes your bones and teeth hard.",
+    "funFacts": [
+      "It was the first element discovered by a known person, from 5,500 liters of urine.",
+      "White phosphorus glows green in the dark and catches fire in air by itself.",
+      "The rungs and rails of your DNA ladder are held together by phosphorus.",
+      "The strip on a matchbox contains red phosphorus — the safe kind.",
+      "Your body's energy currency, ATP, is a phosphorus molecule used billions of times a day."
+    ],
+    "compounds": [
+      {
+        "formula": "Ca3(PO4)2",
+        "name": "Calcium phosphate",
+        "nameZh": "磷酸钙",
+        "about": "The mineral that makes your bones and teeth hard."
+      },
+      {
+        "formula": "H3PO4",
+        "name": "Phosphoric acid",
+        "nameZh": "磷酸",
+        "about": "The tangy sharpness in cola drinks."
+      },
+      {
+        "formula": "ATP",
+        "name": "Adenosine triphosphate",
+        "nameZh": "三磷酸腺苷",
+        "about": "The battery molecule that powers every cell in your body."
+      },
+      {
+        "formula": "P4O10",
+        "name": "Phosphorus pentoxide",
+        "nameZh": "五氧化二磷",
+        "about": "So thirsty for water it will pull moisture straight out of the air."
+      },
+      {
+        "formula": "Ca5(PO4)3(OH)",
+        "name": "Hydroxyapatite",
+        "nameZh": "羟基磷灰石",
+        "about": "The exact mineral your tooth enamel is made of."
+      },
+      {
+        "formula": "PH3",
+        "name": "Phosphine",
+        "about": "A toxic gas that smells of garlic; sometimes detected on other planets."
+      },
+      {
+        "formula": "NH4H2PO4",
+        "name": "Ammonium phosphate",
+        "about": "One of the world's most-used fertilizers."
+      },
+      {
+        "formula": "PCl3",
+        "name": "Phosphorus trichloride",
+        "about": "A building block for pesticides and plastics."
+      },
+      {
+        "formula": "Na5P3O10",
+        "name": "Sodium tripolyphosphate",
+        "about": "Once added to detergents to soften water."
+      },
+      {
+        "formula": "P4S3",
+        "name": "Phosphorus sesquisulfide",
+        "about": "The chemical in strike-anywhere match heads."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 16,
+    "symbol": "S",
+    "name": "Sulfur",
+    "nameZh": "硫",
+    "pinyin": "liú",
+    "category": "Reactive nonmetal",
+    "group": 16,
+    "period": 3,
+    "block": "p",
+    "atomicMass": 32.06,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": null,
+      "by": "Known since ancient times"
+    },
+    "nameMeaning": "From Latin sulfur",
+    "zhRadical": {
+      "radical": "石",
+      "means": "solid nonmetal",
+      "note": "The 石 (stone) radical — this element is a solid nonmetal."
+    },
+    "crustAbundancePpm": 350,
+    "charges": {
+      "common": [
+        -2,
+        2,
+        4,
+        6
+      ],
+      "all": [
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "description": "Sulfur is the bright yellow element that collects in crusty crystals around volcanoes. On its own it barely smells, but its compounds are behind some of the world's worst pongs: rotten eggs, skunk spray and stink bombs. Ancient people called it brimstone.",
+    "funFacts": [
+      "Sulfur is one of the few elements found pure in nature, in yellow lumps near volcanoes.",
+      "The rotten-egg smell is not sulfur itself but hydrogen sulfide gas.",
+      "Skunk spray, onion tears and garlic breath are all sulfur compounds.",
+      "Adding sulfur to rubber, called vulcanizing, is what makes car tires tough.",
+      "Sulfuric acid is the most produced chemical on Earth by weight."
+    ],
+    "compounds": [
+      {
+        "formula": "H2SO4",
+        "name": "Sulfuric acid",
+        "nameZh": "硫酸",
+        "about": "Used in car batteries, fertilizer and almost all industry."
+      },
+      {
+        "formula": "H2S",
+        "name": "Hydrogen sulfide",
+        "nameZh": "硫化氢",
+        "about": "The rotten-egg gas from swamps and volcanic vents."
+      },
+      {
+        "formula": "SO2",
+        "name": "Sulfur dioxide",
+        "nameZh": "二氧化硫",
+        "about": "A choking gas from volcanoes; used to preserve dried fruit."
+      },
+      {
+        "formula": "FeS2",
+        "name": "Pyrite",
+        "nameZh": "黄铁矿",
+        "about": "'Fool's gold' — shiny golden cubes that fooled many prospectors."
+      },
+      {
+        "formula": "CaSO4·2H2O",
+        "name": "Gypsum",
+        "nameZh": "石膏",
+        "about": "The mineral inside drywall and plaster casts."
+      },
+      {
+        "formula": "ZnS",
+        "name": "Zinc sulfide",
+        "about": "Glows in the dark; used on old watch dials and glow stars."
+      },
+      {
+        "formula": "PbS",
+        "name": "Galena",
+        "about": "The main lead ore, shiny silver-gray cubes."
+      },
+      {
+        "formula": "MgSO4",
+        "name": "Magnesium sulfate",
+        "about": "Epsom salt for soaking tired feet."
+      },
+      {
+        "formula": "CuSO4",
+        "name": "Copper sulfate",
+        "about": "Brilliant blue crystals used in school science experiments."
+      },
+      {
+        "formula": "C2H6S",
+        "name": "Ethanethiol",
+        "about": "Added to natural gas so you can smell a leak."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 17,
+    "symbol": "Cl",
+    "name": "Chlorine",
+    "nameZh": "氯",
+    "pinyin": "lǜ",
+    "category": "Halogen",
+    "group": 17,
+    "period": 3,
+    "block": "p",
+    "atomicMass": 35.45,
+    "stateAtRoomTemp": "gas",
+    "discovered": {
+      "year": 1774,
+      "by": "Carl Wilhelm Scheele"
+    },
+    "nameMeaning": "From Greek chloros, 'pale green'",
+    "zhRadical": {
+      "radical": "气",
+      "means": "gas",
+      "note": "The 气 (gas) radical — this element is a gas."
+    },
+    "crustAbundancePpm": 145,
+    "charges": {
+      "common": [
+        -1,
+        1,
+        3,
+        5,
+        7
+      ],
+      "all": [
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "description": "Chlorine is a yellow-green gas that is poisonous to breathe — but that same germ-killing power, used carefully, makes drinking water safe and keeps swimming pools clean. Joined to sodium it becomes the salt on your fries.",
+    "funFacts": [
+      "Adding chlorine to drinking water is one of the greatest public-health inventions ever.",
+      "That 'swimming pool smell' is not chlorine — it is chlorine reacting with sweat and skin.",
+      "Chlorine gas is heavier than air, so it sinks and pools on the ground.",
+      "Your stomach uses chlorine as hydrochloric acid to digest food.",
+      "PVC pipes and raincoats are plastics made with chlorine."
+    ],
+    "compounds": [
+      {
+        "formula": "NaCl",
+        "name": "Sodium chloride",
+        "nameZh": "氯化钠",
+        "about": "Table salt, and the salt that makes the sea salty."
+      },
+      {
+        "formula": "HCl",
+        "name": "Hydrochloric acid",
+        "nameZh": "盐酸",
+        "about": "Made by your stomach to break down food."
+      },
+      {
+        "formula": "NaClO",
+        "name": "Sodium hypochlorite",
+        "nameZh": "次氯酸钠",
+        "about": "Household bleach and pool disinfectant."
+      },
+      {
+        "formula": "(C2H3Cl)n",
+        "name": "PVC",
+        "nameZh": "聚氯乙烯",
+        "about": "The plastic in pipes, flooring and raincoats."
+      },
+      {
+        "formula": "KCl",
+        "name": "Potassium chloride",
+        "nameZh": "氯化钾",
+        "about": "A fertilizer, and a low-sodium salt substitute."
+      },
+      {
+        "formula": "CaCl2",
+        "name": "Calcium chloride",
+        "about": "Melts ice on roads and warms up when it dissolves."
+      },
+      {
+        "formula": "CHCl3",
+        "name": "Chloroform",
+        "about": "An old-fashioned anesthetic, now used as a lab solvent."
+      },
+      {
+        "formula": "NH4Cl",
+        "name": "Ammonium chloride",
+        "about": "Used in batteries and in salty Nordic licorice candy."
+      },
+      {
+        "formula": "AgCl",
+        "name": "Silver chloride",
+        "about": "Darkens in sunlight — the basis of old photography."
+      },
+      {
+        "formula": "MgCl2",
+        "name": "Magnesium chloride",
+        "about": "Extracted from seawater; used for de-icing and making tofu."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 18,
+    "symbol": "Ar",
+    "name": "Argon",
+    "nameZh": "氩",
+    "pinyin": "yà",
+    "category": "Noble gas",
+    "group": 18,
+    "period": 3,
+    "block": "p",
+    "atomicMass": 39.95,
+    "stateAtRoomTemp": "gas",
+    "discovered": {
+      "year": 1894,
+      "by": "Lord Rayleigh and William Ramsay"
+    },
+    "nameMeaning": "From Greek argos, 'lazy'",
+    "zhRadical": {
+      "radical": "气",
+      "means": "gas",
+      "note": "The 气 (gas) radical — this element is a gas."
+    },
+    "crustAbundancePpm": 3.5,
+    "charges": {
+      "common": [
+        0
+      ],
+      "all": [
+        0
+      ]
+    },
+    "description": "Argon's name literally means 'the lazy one', because it will not react with anything. That laziness is its superpower: fill a space with argon and nothing inside can burn, rust or spoil. It is the third most common gas in the air, about 1% of every breath.",
+    "funFacts": [
+      "Almost 1% of the air you breathe is argon, yet nobody noticed it until 1894.",
+      "Welders blow argon over hot metal so it cannot react with oxygen.",
+      "Double-glazed windows are filled with argon to keep houses warm.",
+      "Museums store fragile old documents under argon to stop them decaying.",
+      "Old light bulbs used argon so the glowing filament would not burn away."
+    ],
+    "compounds": [],
+    "compoundsNote": "Argon is a noble gas and forms no compounds under normal conditions. Only one has ever been made: argon fluorohydride (HArF), created in 2000 at −265 °C, which falls apart the moment it warms up.",
+    "compoundsExamples": [
+      {
+        "formula": "HArF",
+        "name": "Argon fluorohydride",
+        "about": "The only known argon compound; survives only at extreme cold."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 19,
+    "symbol": "K",
+    "name": "Potassium",
+    "nameZh": "钾",
+    "pinyin": "jiǎ",
+    "category": "Alkali metal",
+    "group": 1,
+    "period": 4,
+    "block": "s",
+    "atomicMass": 39.098,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1807,
+      "by": "Humphry Davy"
+    },
+    "nameMeaning": "From potash; symbol K from Latin kalium",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 20900,
+    "charges": {
+      "common": [
+        1
+      ],
+      "all": [
+        -1,
+        1
+      ]
+    },
+    "description": "Potassium is even more excitable than sodium — a small piece dropped in water skitters about and bursts into a lilac flame. Locked safely into compounds it is one of the three nutrients every plant needs, and your heart uses it for every single beat.",
+    "funFacts": [
+      "Potassium reacts with water so fast that it sets the hydrogen it releases on fire.",
+      "Bananas are famous for potassium — you would need to eat many thousands for it to be risky.",
+      "Every heartbeat depends on potassium moving in and out of your cells.",
+      "A tiny fraction of natural potassium is radioactive, so bananas are very slightly radioactive.",
+      "Potassium burns with a beautiful lilac-purple flame."
+    ],
+    "compounds": [
+      {
+        "formula": "KCl",
+        "name": "Potassium chloride",
+        "nameZh": "氯化钾",
+        "about": "The world's main potassium fertilizer, mined as potash."
+      },
+      {
+        "formula": "KNO3",
+        "name": "Potassium nitrate",
+        "nameZh": "硝酸钾",
+        "about": "Saltpetre — a fertilizer and part of gunpowder."
+      },
+      {
+        "formula": "KOH",
+        "name": "Potassium hydroxide",
+        "nameZh": "氢氧化钾",
+        "about": "Used to make soft soaps and in alkaline batteries."
+      },
+      {
+        "formula": "K2CO3",
+        "name": "Potassium carbonate",
+        "nameZh": "碳酸钾",
+        "about": "Potash — originally made from wood ash in iron pots."
+      },
+      {
+        "formula": "KMnO4",
+        "name": "Potassium permanganate",
+        "nameZh": "高锰酸钾",
+        "about": "Deep purple crystals used as a disinfectant."
+      },
+      {
+        "formula": "KAlSi3O8",
+        "name": "Orthoclase feldspar",
+        "about": "A very common pink mineral in granite."
+      },
+      {
+        "formula": "KI",
+        "name": "Potassium iodide",
+        "about": "Added to table salt to prevent thyroid illness."
+      },
+      {
+        "formula": "K2SO4",
+        "name": "Potassium sulfate",
+        "about": "A fertilizer for crops that dislike chloride."
+      },
+      {
+        "formula": "KHC4H4O6",
+        "name": "Cream of tartar",
+        "about": "A baking powder ingredient that comes from wine barrels."
+      },
+      {
+        "formula": "K2Cr2O7",
+        "name": "Potassium dichromate",
+        "about": "Bright orange crystals used as a strong laboratory oxidizer."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 20,
+    "symbol": "Ca",
+    "name": "Calcium",
+    "nameZh": "钙",
+    "pinyin": "gài",
+    "category": "Alkaline earth metal",
+    "group": 2,
+    "period": 4,
+    "block": "s",
+    "atomicMass": 40.078,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1808,
+      "by": "Humphry Davy"
+    },
+    "nameMeaning": "From Latin calx, 'lime'",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 41500,
+    "charges": {
+      "common": [
+        2
+      ],
+      "all": [
+        1,
+        2
+      ]
+    },
+    "description": "Calcium is the element that builds skeletons. Your bones and teeth, seashells, coral reefs, chalk cliffs and eggshells are all calcium compounds. It is the fifth most common element in the Earth's crust and the most common metal in your body.",
+    "funFacts": [
+      "About 99% of the calcium in your body is stored in your bones and teeth.",
+      "The White Cliffs of Dover are made of billions of tiny calcium shells from ancient sea creatures.",
+      "Cement, concrete and plaster all start from calcium compounds.",
+      "Pure calcium metal is silvery and soft, and most people never see it.",
+      "Your muscles cannot contract at all without calcium — including your heart."
+    ],
+    "compounds": [
+      {
+        "formula": "CaCO3",
+        "name": "Calcium carbonate",
+        "nameZh": "碳酸钙",
+        "about": "Limestone, chalk, marble, seashells and eggshells."
+      },
+      {
+        "formula": "Ca3(PO4)2",
+        "name": "Calcium phosphate",
+        "nameZh": "磷酸钙",
+        "about": "The mineral that makes bones and teeth strong."
+      },
+      {
+        "formula": "CaSO4·2H2O",
+        "name": "Gypsum",
+        "nameZh": "石膏",
+        "about": "Drywall, plaster casts and blackboard chalk."
+      },
+      {
+        "formula": "CaO",
+        "name": "Calcium oxide",
+        "nameZh": "氧化钙",
+        "about": "Quicklime — gets scorching hot when water is added."
+      },
+      {
+        "formula": "Ca(OH)2",
+        "name": "Calcium hydroxide",
+        "nameZh": "氢氧化钙",
+        "about": "Slaked lime, used in mortar and to treat sour soil."
+      },
+      {
+        "formula": "CaCl2",
+        "name": "Calcium chloride",
+        "about": "Melts road ice even in very cold weather."
+      },
+      {
+        "formula": "CaF2",
+        "name": "Fluorite",
+        "about": "A colorful mineral that glows under ultraviolet light."
+      },
+      {
+        "formula": "CaC2",
+        "name": "Calcium carbide",
+        "about": "Add water and it makes a gas that burns in miners' lamps."
+      },
+      {
+        "formula": "Ca(NO3)2",
+        "name": "Calcium nitrate",
+        "about": "A fertilizer that gives plants both calcium and nitrogen."
+      },
+      {
+        "formula": "CaMg(CO3)2",
+        "name": "Dolomite",
+        "about": "The rock that forms the Dolomite mountains in Italy."
+      }
+    ]
+  }
+]

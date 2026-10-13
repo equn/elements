@@ -1,0 +1,10 @@
+# /elements/ is a single self-contained index.html - all CSS, JS and data inline.
+# Without an explicit policy the server sends only Last-Modified, and browsers
+# then GUESS a freshness window (about 10% of the file's age). After a deploy a
+# phone could keep showing the previous page for days. no-cache means "always
+# revalidate": an unchanged page costs a 304, a changed one arrives immediately.
+<IfModule mod_headers.c>
+  <FilesMatch "\.html?$">
+    Header set Cache-Control "no-cache"
+  </FilesMatch>
+</IfModule>

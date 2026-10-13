@@ -1,0 +1,2066 @@
+[
+  {
+    "atomicNumber": 41,
+    "symbol": "Nb",
+    "name": "Niobium",
+    "nameZh": "铌",
+    "pinyin": "ní",
+    "category": "Transition metal",
+    "group": 5,
+    "period": 5,
+    "block": "d",
+    "atomicMass": 92.906,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1801,
+      "by": "Charles Hatchett"
+    },
+    "nameMeaning": "After Niobe, daughter of Tantalus in Greek myth",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 20,
+    "charges": {
+      "common": [
+        5
+      ],
+      "all": [
+        -3,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "description": "Niobium is a soft gray metal that becomes a superconductor when it gets very cold, carrying electricity with absolutely no loss. That is why niobium wire coils the giant magnets inside MRI scanners and the Large Hadron Collider. It also grows rainbow colors when you pass electricity through it.",
+    "funFacts": [
+      "Niobium jewelry comes in rainbow colors made without any dye — just electricity.",
+      "The magnets in MRI scanners are wound with niobium superconducting wire.",
+      "The Large Hadron Collider uses tons of niobium to steer particle beams.",
+      "It was confused with tantalum for 50 years because the two are so alike.",
+      "A pinch of niobium makes pipeline steel much stronger without adding weight."
+    ],
+    "compounds": [
+      {
+        "formula": "Nb2O5",
+        "name": "Niobium pentoxide",
+        "nameZh": "五氧化二铌",
+        "about": "Used in special lenses and capacitors."
+      },
+      {
+        "formula": "(Fe,Mn)(Nb,Ta)2O6",
+        "name": "Columbite",
+        "nameZh": "铌铁矿",
+        "about": "The main niobium ore, part of 'coltan'."
+      },
+      {
+        "formula": "LiNbO3",
+        "name": "Lithium niobate",
+        "nameZh": "铌酸锂",
+        "about": "Steers laser light in fiber-optic networks."
+      },
+      {
+        "formula": "NbC",
+        "name": "Niobium carbide",
+        "nameZh": "碳化铌",
+        "about": "An extremely hard coating for cutting tools."
+      },
+      {
+        "formula": "Nb3Sn",
+        "name": "Niobium-tin",
+        "nameZh": "铌三锡",
+        "about": "A superconductor for the strongest magnets built."
+      },
+      {
+        "formula": "NbTi",
+        "name": "Niobium-titanium",
+        "about": "The superconducting wire in most MRI machines."
+      },
+      {
+        "formula": "NbCl5",
+        "name": "Niobium pentachloride",
+        "about": "Used to make pure niobium metal."
+      },
+      {
+        "formula": "NbN",
+        "name": "Niobium nitride",
+        "about": "Used in ultra-sensitive light detectors."
+      },
+      {
+        "formula": "NbSe2",
+        "name": "Niobium diselenide",
+        "about": "A layered crystal studied in nanoscience."
+      },
+      {
+        "formula": "KNbO3",
+        "name": "Potassium niobate",
+        "about": "Changes laser colors in optical devices."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 42,
+    "symbol": "Mo",
+    "name": "Molybdenum",
+    "nameZh": "钼",
+    "pinyin": "mù",
+    "category": "Transition metal",
+    "group": 6,
+    "period": 5,
+    "block": "d",
+    "atomicMass": 95.95,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1781,
+      "by": "Peter Jacob Hjelm"
+    },
+    "nameMeaning": "From Greek molybdos, 'lead' (it was mistaken for lead)",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 1.2,
+    "charges": {
+      "common": [
+        4,
+        6
+      ],
+      "all": [
+        -4,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "description": "Molybdenum has one of the highest melting points of any metal, so it keeps its strength when things get red hot — perfect for jet engines and furnace parts. It is also essential to life: bacteria use molybdenum to pull nitrogen out of the air so plants can grow.",
+    "funFacts": [
+      "Molybdenum does not melt until 2,623 °C.",
+      "Its ore is so soft and gray that people mistook it for lead for centuries.",
+      "Molybdenum disulfide is slippery like graphite and is used as a dry lubricant.",
+      "Nitrogen-fixing bacteria need molybdenum, so life on land depends on it.",
+      "German tanks in World War I used molybdenum steel armor."
+    ],
+    "compounds": [
+      {
+        "formula": "MoS2",
+        "name": "Molybdenite",
+        "nameZh": "辉钼矿",
+        "about": "The main ore, and a super-slippery dry lubricant."
+      },
+      {
+        "formula": "MoO3",
+        "name": "Molybdenum trioxide",
+        "nameZh": "三氧化钼",
+        "about": "A yellow powder used to make the metal and as a catalyst."
+      },
+      {
+        "formula": "PbMoO4",
+        "name": "Wulfenite",
+        "nameZh": "钼铅矿",
+        "about": "A striking orange crystal mineral."
+      },
+      {
+        "formula": "Na2MoO4",
+        "name": "Sodium molybdate",
+        "nameZh": "钼酸钠",
+        "about": "A fertilizer and a rust inhibitor."
+      },
+      {
+        "formula": "MoC",
+        "name": "Molybdenum carbide",
+        "nameZh": "碳化钼",
+        "about": "A very hard material used in cutting tools."
+      },
+      {
+        "formula": "(NH4)6Mo7O24",
+        "name": "Ammonium molybdate",
+        "about": "Used in lab tests to detect phosphates."
+      },
+      {
+        "formula": "MoSi2",
+        "name": "Molybdenum disilicide",
+        "about": "Heating elements that glow white hot in furnaces."
+      },
+      {
+        "formula": "MoF6",
+        "name": "Molybdenum hexafluoride",
+        "about": "A liquid used to lay down metal films on chips."
+      },
+      {
+        "formula": "MoCl5",
+        "name": "Molybdenum pentachloride",
+        "about": "A dark green solid used in chemical synthesis."
+      },
+      {
+        "formula": "MoO2",
+        "name": "Molybdenum dioxide",
+        "about": "A brown solid used as a catalyst."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 43,
+    "symbol": "Tc",
+    "name": "Technetium",
+    "nameZh": "锝",
+    "pinyin": "dé",
+    "category": "Transition metal",
+    "group": 7,
+    "period": 5,
+    "block": "d",
+    "atomicMass": 98,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1937,
+      "by": "Carlo Perrier and Emilio Segrè"
+    },
+    "nameMeaning": "From Greek technetos, 'artificial'",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 3e-10,
+    "charges": {
+      "common": [
+        4,
+        7
+      ],
+      "all": [
+        -3,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "description": "Technetium was the first element ever made by humans rather than found in nature — its name literally means 'artificial'. Every atom of it is radioactive, so any that existed when Earth formed has long since decayed away. Today it is a hospital hero, lighting up scans of bones and hearts.",
+    "funFacts": [
+      "Technetium was the first element created artificially, in 1937.",
+      "It left a stubborn gap in Mendeleev's table that nobody could fill for 60 years.",
+      "About 30 million medical scans a year use technetium-99m.",
+      "Its half-life is only 6 hours in medical use, so it leaves the body quickly.",
+      "Astronomers have spotted technetium in certain stars, proving stars are still making elements."
+    ],
+    "compounds": [
+      {
+        "formula": "TcO4−",
+        "name": "Pertechnetate ion",
+        "nameZh": "高锝酸根离子",
+        "about": "The form injected for medical scans of the thyroid."
+      },
+      {
+        "formula": "Tc2O7",
+        "name": "Technetium heptoxide",
+        "nameZh": "七氧化二锝",
+        "about": "A yellow solid, the highest oxide of technetium."
+      },
+      {
+        "formula": "TcO2",
+        "name": "Technetium dioxide",
+        "nameZh": "二氧化锝",
+        "about": "A black solid formed when technetium is oxidized."
+      },
+      {
+        "formula": "NaTcO4",
+        "name": "Sodium pertechnetate",
+        "nameZh": "高锝酸钠",
+        "about": "The exact chemical used in hospital imaging kits."
+      },
+      {
+        "formula": "Tc2S7",
+        "name": "Technetium sulfide",
+        "nameZh": "硫化锝",
+        "about": "Formed when technetium is precipitated from solution."
+      },
+      {
+        "formula": "TcCl4",
+        "name": "Technetium tetrachloride",
+        "about": "A red-brown solid studied by chemists."
+      },
+      {
+        "formula": "HTcO4",
+        "name": "Pertechnetic acid",
+        "about": "A strong acid form of technetium."
+      },
+      {
+        "formula": "TcF6",
+        "name": "Technetium hexafluoride",
+        "about": "A golden-yellow volatile solid."
+      },
+      {
+        "formula": "Tc(CO)6+",
+        "name": "Technetium carbonyl",
+        "about": "Used to build medical imaging molecules."
+      },
+      {
+        "formula": "TcH9^2−",
+        "name": "Technetium hydride ion",
+        "about": "An unusual ion with nine hydrogen atoms attached."
+      }
+    ],
+    "compoundsNote": "Technetium is radioactive and made only in reactors and laboratories, so its compounds are studied by specialists rather than used in everyday life."
+  },
+  {
+    "atomicNumber": 44,
+    "symbol": "Ru",
+    "name": "Ruthenium",
+    "nameZh": "钌",
+    "pinyin": "liǎo",
+    "category": "Transition metal",
+    "group": 8,
+    "period": 5,
+    "block": "d",
+    "atomicMass": 101.07,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1844,
+      "by": "Karl Ernst Claus"
+    },
+    "nameMeaning": "From Ruthenia, Latin for Russia",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 0.001,
+    "charges": {
+      "common": [
+        3,
+        4
+      ],
+      "all": [
+        -4,
+        -2,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "description": "Ruthenium is one of the rare platinum metals, and just a tiny sprinkle of it makes other metals far tougher. It is a champion at speeding up chemical reactions, and its compounds are being used to build solar cells that soak up sunlight like a plant leaf.",
+    "funFacts": [
+      "Adding 0.1% ruthenium makes titanium a hundred times more resistant to corrosion.",
+      "Ruthenium is one of the rarest metals in the Earth's crust.",
+      "The tips of some fancy fountain pen nibs are ruthenium alloy.",
+      "Ruthenium dyes power experimental solar cells that mimic photosynthesis.",
+      "It won a share of the 2005 Nobel Prize in Chemistry for its role as a catalyst."
+    ],
+    "compounds": [
+      {
+        "formula": "RuO2",
+        "name": "Ruthenium dioxide",
+        "nameZh": "二氧化钌",
+        "about": "Conducts electricity; used in tiny resistors in electronics."
+      },
+      {
+        "formula": "RuO4",
+        "name": "Ruthenium tetroxide",
+        "nameZh": "四氧化钌",
+        "about": "A volatile yellow solid used to reveal fingerprints."
+      },
+      {
+        "formula": "RuCl3",
+        "name": "Ruthenium chloride",
+        "nameZh": "氯化钌",
+        "about": "The starting point for most ruthenium chemistry."
+      },
+      {
+        "formula": "Ru(bpy)3^2+",
+        "name": "Ruthenium bipyridine",
+        "nameZh": "联吡啶钌",
+        "about": "Glows orange under light; used in solar cell research."
+      },
+      {
+        "formula": "SrRuO3",
+        "name": "Strontium ruthenate",
+        "nameZh": "钌酸锶",
+        "about": "A metallic oxide used in electronic devices."
+      },
+      {
+        "formula": "Grubbs catalyst",
+        "name": "Grubbs catalyst",
+        "about": "A Nobel-winning ruthenium tool for building new molecules."
+      },
+      {
+        "formula": "RuS2",
+        "name": "Laurite",
+        "about": "The rare mineral in which ruthenium is found."
+      },
+      {
+        "formula": "Ru3(CO)12",
+        "name": "Triruthenium dodecacarbonyl",
+        "about": "An orange cluster compound used in catalysis."
+      },
+      {
+        "formula": "RuF6",
+        "name": "Ruthenium hexafluoride",
+        "about": "A dark brown, very reactive solid."
+      },
+      {
+        "formula": "K2RuO4",
+        "name": "Potassium ruthenate",
+        "about": "An orange salt used as an oxidizing agent."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 45,
+    "symbol": "Rh",
+    "name": "Rhodium",
+    "nameZh": "铑",
+    "pinyin": "lǎo",
+    "category": "Transition metal",
+    "group": 9,
+    "period": 5,
+    "block": "d",
+    "atomicMass": 102.91,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1803,
+      "by": "William Hyde Wollaston"
+    },
+    "nameMeaning": "From Greek rhodon, 'rose', for its pink salts",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 0.001,
+    "charges": {
+      "common": [
+        3
+      ],
+      "all": [
+        -3,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "description": "Rhodium is the most expensive precious metal in the world — often worth many times more than gold. It is brilliantly shiny and never tarnishes, so white gold jewelry is plated with it. Almost all rhodium goes into car exhausts, where it cleans harmful gases out of the fumes.",
+    "funFacts": [
+      "Rhodium has at times been worth more than ten times the price of gold.",
+      "Around 80% of all rhodium ends up in car catalytic converters.",
+      "Most 'white gold' rings are actually plated with rhodium to look bright white.",
+      "It is one of the rarest elements in the Earth's crust.",
+      "Guinness World Records once gave Paul McCartney a rhodium-plated disc."
+    ],
+    "compounds": [
+      {
+        "formula": "RhCl3",
+        "name": "Rhodium chloride",
+        "nameZh": "氯化铑",
+        "about": "The most common rhodium chemical, dark red in color."
+      },
+      {
+        "formula": "Rh2O3",
+        "name": "Rhodium oxide",
+        "nameZh": "氧化铑",
+        "about": "A gray-black solid used in catalysts."
+      },
+      {
+        "formula": "Wilkinson's catalyst",
+        "name": "Wilkinson's catalyst",
+        "nameZh": "威尔金森催化剂",
+        "about": "A famous rhodium tool for adding hydrogen to molecules."
+      },
+      {
+        "formula": "Rh(CO)2(acac)",
+        "name": "Rhodium dicarbonyl",
+        "nameZh": "二羰基铱酰丙酮",
+        "about": "Used to make many everyday chemicals."
+      },
+      {
+        "formula": "Rh2(OAc)4",
+        "name": "Rhodium acetate",
+        "nameZh": "乙酸铑",
+        "about": "A green dimer used in advanced organic chemistry."
+      },
+      {
+        "formula": "RhF6",
+        "name": "Rhodium hexafluoride",
+        "about": "A black, extremely reactive solid."
+      },
+      {
+        "formula": "Na3RhCl6",
+        "name": "Sodium hexachlororhodate",
+        "about": "Used in rhodium plating baths."
+      },
+      {
+        "formula": "Rh2S3",
+        "name": "Rhodium sulfide",
+        "about": "A catalyst that resists chemical poisoning."
+      },
+      {
+        "formula": "RhH",
+        "name": "Rhodium hydride",
+        "about": "An intermediate step in hydrogen-adding reactions."
+      },
+      {
+        "formula": "(NH4)3RhCl6",
+        "name": "Ammonium hexachlororhodate",
+        "about": "A step in purifying rhodium from ore."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 46,
+    "symbol": "Pd",
+    "name": "Palladium",
+    "nameZh": "钯",
+    "pinyin": "bǎ",
+    "category": "Transition metal",
+    "group": 10,
+    "period": 5,
+    "block": "d",
+    "atomicMass": 106.42,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1802,
+      "by": "William Hyde Wollaston"
+    },
+    "nameMeaning": "After the asteroid Pallas",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 0.015,
+    "charges": {
+      "common": [
+        0,
+        2,
+        4
+      ],
+      "all": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "description": "Palladium has an amazing party trick: it can soak up 900 times its own volume in hydrogen gas, like a metal sponge. It is a superb catalyst, cleaning up car exhaust fumes and helping chemists build medicines. It is named after an asteroid discovered the year before.",
+    "funFacts": [
+      "A block of palladium can absorb 900 times its own volume of hydrogen gas.",
+      "Palladium is named after Pallas, an asteroid found just a year earlier.",
+      "Most gasoline cars have palladium in the exhaust to clean the fumes.",
+      "It is used in the tips of spark plugs and in dental crowns.",
+      "Palladium chemistry won the 2010 Nobel Prize for building complex molecules."
+    ],
+    "compounds": [
+      {
+        "formula": "PdCl2",
+        "name": "Palladium chloride",
+        "nameZh": "氯化钯",
+        "about": "The workhorse of palladium chemistry; also used in plating."
+      },
+      {
+        "formula": "Pd(PPh3)4",
+        "name": "Tetrakis palladium",
+        "nameZh": "四(三苯基膦)钯",
+        "about": "A Nobel-winning catalyst for joining carbon atoms."
+      },
+      {
+        "formula": "PdO",
+        "name": "Palladium oxide",
+        "nameZh": "氧化钯",
+        "about": "A black powder used in exhaust catalysts."
+      },
+      {
+        "formula": "Pd(OAc)2",
+        "name": "Palladium acetate",
+        "nameZh": "乙酸钯",
+        "about": "A widely used catalyst in making medicines."
+      },
+      {
+        "formula": "PdH",
+        "name": "Palladium hydride",
+        "nameZh": "氢化钯",
+        "about": "What forms when palladium soaks up hydrogen."
+      },
+      {
+        "formula": "Na2PdCl4",
+        "name": "Sodium tetrachloropalladate",
+        "about": "Used in electroplating and catalysis."
+      },
+      {
+        "formula": "Pd/C",
+        "name": "Palladium on carbon",
+        "about": "Powdered palladium on charcoal, a lab favorite."
+      },
+      {
+        "formula": "PdS",
+        "name": "Vysotskite",
+        "about": "A rare mineral containing palladium."
+      },
+      {
+        "formula": "PdF2",
+        "name": "Palladium fluoride",
+        "about": "Unusual because it is magnetic."
+      },
+      {
+        "formula": "K2PdCl6",
+        "name": "Potassium hexachloropalladate",
+        "about": "Used to purify palladium from other metals."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 47,
+    "symbol": "Ag",
+    "name": "Silver",
+    "nameZh": "银",
+    "pinyin": "yín",
+    "category": "Transition metal",
+    "group": 11,
+    "period": 5,
+    "block": "d",
+    "atomicMass": 107.87,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": null,
+      "by": "Known since ancient times"
+    },
+    "nameMeaning": "From Old English seolfor; symbol Ag from Latin argentum",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 0.075,
+    "charges": {
+      "common": [
+        1
+      ],
+      "all": [
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ]
+    },
+    "description": "Silver conducts electricity and heat better than any other element on the periodic table, and it reflects light better too, which is why mirrors are silvered. It also kills bacteria, so it turns up in bandages and sports socks. Silver's only weakness is that it tarnishes black in polluted air.",
+    "funFacts": [
+      "Silver is the best conductor of electricity of any element.",
+      "Mirrors work because of a thin silver coating on the back of the glass.",
+      "Before digital cameras, every photograph was made using silver compounds.",
+      "Silver kills germs, so it is woven into socks and used in wound dressings.",
+      "The country Argentina is named after silver — argentum."
+    ],
+    "compounds": [
+      {
+        "formula": "AgNO3",
+        "name": "Silver nitrate",
+        "nameZh": "硝酸银",
+        "about": "Stains skin black; used in medicine and photography."
+      },
+      {
+        "formula": "AgBr",
+        "name": "Silver bromide",
+        "nameZh": "溴化银",
+        "about": "The light-sensitive crystal in photographic film."
+      },
+      {
+        "formula": "AgCl",
+        "name": "Silver chloride",
+        "nameZh": "氯化银",
+        "about": "Turns purple-gray in sunlight; used in sensors."
+      },
+      {
+        "formula": "Ag2S",
+        "name": "Silver sulfide",
+        "nameZh": "硫化银",
+        "about": "The black tarnish that dulls silver spoons."
+      },
+      {
+        "formula": "Ag2O",
+        "name": "Silver oxide",
+        "nameZh": "氧化银",
+        "about": "Powers the tiny button batteries in watches."
+      },
+      {
+        "formula": "AgI",
+        "name": "Silver iodide",
+        "about": "Sprayed into clouds to try to make rain."
+      },
+      {
+        "formula": "AgF",
+        "name": "Silver fluoride",
+        "about": "Used by dentists to stop tooth decay spreading."
+      },
+      {
+        "formula": "Ag2CO3",
+        "name": "Silver carbonate",
+        "about": "A yellow solid used in chemistry as an oxidizer."
+      },
+      {
+        "formula": "AgCN",
+        "name": "Silver cyanide",
+        "about": "Used in silver electroplating baths."
+      },
+      {
+        "formula": "Ag3SbS3",
+        "name": "Pyrargyrite",
+        "about": "A deep red 'ruby silver' ore mineral."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 48,
+    "symbol": "Cd",
+    "name": "Cadmium",
+    "nameZh": "镉",
+    "pinyin": "gé",
+    "category": "Transition metal",
+    "group": 12,
+    "period": 5,
+    "block": "d",
+    "atomicMass": 112.41,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1817,
+      "by": "Friedrich Stromeyer"
+    },
+    "nameMeaning": "From cadmia, the Latin name for zinc ore",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 0.15,
+    "charges": {
+      "common": [
+        2
+      ],
+      "all": [
+        -2,
+        1,
+        2
+      ]
+    },
+    "description": "Cadmium gave painters some of the most brilliant yellows, oranges and reds ever made — Monet and Van Gogh both used cadmium paints. Unfortunately cadmium is also quite poisonous and builds up in the body, so today its use is carefully controlled.",
+    "funFacts": [
+      "Cadmium yellow and cadmium red are famous artists' paint colors.",
+      "Cadmium is toxic and builds up in the body, so it is banned from most products.",
+      "Rechargeable NiCd batteries once powered nearly every cordless device.",
+      "Cadmium absorbs neutrons, so it is used in nuclear reactor control rods.",
+      "Cadmium selenide quantum dots make the pure colors in QLED televisions."
+    ],
+    "compounds": [
+      {
+        "formula": "CdS",
+        "name": "Cadmium sulfide",
+        "nameZh": "硫化镉",
+        "about": "The brilliant cadmium yellow artists' pigment."
+      },
+      {
+        "formula": "CdSe",
+        "name": "Cadmium selenide",
+        "nameZh": "硒化镉",
+        "about": "Quantum dots that glow precise colors in TV screens."
+      },
+      {
+        "formula": "CdTe",
+        "name": "Cadmium telluride",
+        "nameZh": "碲化镉",
+        "about": "Used in a common type of thin-film solar panel."
+      },
+      {
+        "formula": "CdO",
+        "name": "Cadmium oxide",
+        "nameZh": "氧化镉",
+        "about": "A brown powder used in electroplating."
+      },
+      {
+        "formula": "CdCl2",
+        "name": "Cadmium chloride",
+        "nameZh": "氯化镉",
+        "about": "Used in photography and dyeing."
+      },
+      {
+        "formula": "Cd(OH)2",
+        "name": "Cadmium hydroxide",
+        "about": "The electrode material in NiCd batteries."
+      },
+      {
+        "formula": "CdSO4",
+        "name": "Cadmium sulfate",
+        "about": "Used in standard cells that produce exact voltages."
+      },
+      {
+        "formula": "CdCO3",
+        "name": "Otavite",
+        "about": "A rare cadmium carbonate mineral."
+      },
+      {
+        "formula": "CdSe·CdS",
+        "name": "Cadmium red",
+        "about": "The deep red version of the cadmium pigment."
+      },
+      {
+        "formula": "CdZnTe",
+        "name": "Cadmium zinc telluride",
+        "about": "Detects X-rays and gamma rays in scanners."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 49,
+    "symbol": "In",
+    "name": "Indium",
+    "nameZh": "铟",
+    "pinyin": "yīn",
+    "category": "Post-transition metal",
+    "group": 13,
+    "period": 5,
+    "block": "p",
+    "atomicMass": 114.82,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1863,
+      "by": "Ferdinand Reich and Hieronymous Richter"
+    },
+    "nameMeaning": "From the indigo-blue line in its spectrum",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 0.25,
+    "charges": {
+      "common": [
+        3
+      ],
+      "all": [
+        -5,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ]
+    },
+    "description": "Indium is a soft metal you can scratch with a fingernail, and it screams — a real crackling sound — when you bend it. Its most important job is invisible: a see-through indium coating on your phone screen is what lets the glass sense your finger.",
+    "funFacts": [
+      "Bend a bar of indium and it makes a crackling 'tin cry' sound.",
+      "Every touchscreen has a transparent indium layer that senses your finger.",
+      "Indium is so soft you can leave a fingerprint in it.",
+      "It sticks to glass, so it is used to seal windows in vacuum equipment.",
+      "Indium stays soft even at extremely cold temperatures, so it seals space instruments."
+    ],
+    "compounds": [
+      {
+        "formula": "In2O3·SnO2",
+        "name": "Indium tin oxide",
+        "nameZh": "氧化铟锡",
+        "about": "The see-through conductor on every touchscreen."
+      },
+      {
+        "formula": "InP",
+        "name": "Indium phosphide",
+        "nameZh": "磷化铟",
+        "about": "Powers the lasers that send data down fiber-optic cables."
+      },
+      {
+        "formula": "InAs",
+        "name": "Indium arsenide",
+        "nameZh": "砷化铟",
+        "about": "Used in infrared and night-vision detectors."
+      },
+      {
+        "formula": "InGaN",
+        "name": "Indium gallium nitride",
+        "nameZh": "氮化铟镓",
+        "about": "The glowing layer inside blue and white LEDs."
+      },
+      {
+        "formula": "In2O3",
+        "name": "Indium oxide",
+        "nameZh": "氧化铟",
+        "about": "A yellow powder used in transparent coatings."
+      },
+      {
+        "formula": "InCl3",
+        "name": "Indium chloride",
+        "about": "Used to make other indium chemicals."
+      },
+      {
+        "formula": "InSb",
+        "name": "Indium antimonide",
+        "about": "One of the best infrared detector materials."
+      },
+      {
+        "formula": "CuInSe2",
+        "name": "Copper indium selenide",
+        "about": "A flexible thin-film solar material."
+      },
+      {
+        "formula": "In(OH)3",
+        "name": "Indium hydroxide",
+        "about": "A step in refining indium from zinc ore."
+      },
+      {
+        "formula": "In2S3",
+        "name": "Indium sulfide",
+        "about": "A yellow-red solid used in solar cell layers."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 50,
+    "symbol": "Sn",
+    "name": "Tin",
+    "nameZh": "锡",
+    "pinyin": "xī",
+    "category": "Post-transition metal",
+    "group": 14,
+    "period": 5,
+    "block": "p",
+    "atomicMass": 118.71,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": null,
+      "by": "Known since ancient times"
+    },
+    "nameMeaning": "From Old English tin; symbol Sn from Latin stannum",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 2.3,
+    "charges": {
+      "common": [
+        -4,
+        2,
+        4
+      ],
+      "all": [
+        -4,
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "description": "Tin changed history: mix a little tin with copper and you get bronze, hard enough for tools and swords, which started the Bronze Age. Today tin coats steel cans to stop food going rusty, and tin solder holds together every circuit board in every gadget you own.",
+    "funFacts": [
+      "The Bronze Age is named after copper mixed with tin.",
+      "Bend a bar of tin and it screeches — the famous 'tin cry'.",
+      "In freezing cold, tin crumbles into gray powder; this is called tin pest.",
+      "'Tin cans' are actually steel with a very thin tin coating inside.",
+      "Solder, which joins electronics together, is mostly tin."
+    ],
+    "compounds": [
+      {
+        "formula": "SnO2",
+        "name": "Cassiterite",
+        "nameZh": "锡石",
+        "about": "The main tin ore, and a coating on low-energy glass."
+      },
+      {
+        "formula": "SnCl2",
+        "name": "Tin(II) chloride",
+        "nameZh": "氯化亚锡",
+        "about": "Used to silver mirrors and in dye-making."
+      },
+      {
+        "formula": "SnF2",
+        "name": "Stannous fluoride",
+        "nameZh": "氟化亚锡",
+        "about": "The tooth-protecting fluoride in some toothpastes."
+      },
+      {
+        "formula": "SnS",
+        "name": "Herzenbergite",
+        "nameZh": "硫锡矿",
+        "about": "A dark tin sulfide mineral."
+      },
+      {
+        "formula": "SnCl4",
+        "name": "Tin(IV) chloride",
+        "nameZh": "四氯化锡",
+        "about": "A fuming liquid used to coat glass."
+      },
+      {
+        "formula": "Cu3Sn",
+        "name": "Bronze",
+        "about": "The copper-tin alloy that started an entire age of history."
+      },
+      {
+        "formula": "SnO",
+        "name": "Tin(II) oxide",
+        "about": "A blue-black powder used in glass making."
+      },
+      {
+        "formula": "Cu2FeSnS4",
+        "name": "Stannite",
+        "about": "A tin-bearing ore mineral."
+      },
+      {
+        "formula": "(C4H9)3SnH",
+        "name": "Tributyltin hydride",
+        "about": "A lab reagent; related tin compounds once painted ship hulls."
+      },
+      {
+        "formula": "Sn(CH3)2",
+        "name": "Organotin stabilizers",
+        "about": "Added to PVC plastic to stop it breaking down in sunlight."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 51,
+    "symbol": "Sb",
+    "name": "Antimony",
+    "nameZh": "锑",
+    "pinyin": "tī",
+    "category": "Metalloid",
+    "group": 15,
+    "period": 5,
+    "block": "p",
+    "atomicMass": 121.76,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": null,
+      "by": "Known since ancient times"
+    },
+    "nameMeaning": "From Greek anti + monos, 'not alone'; symbol Sb from stibium",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 0.2,
+    "charges": {
+      "common": [
+        -3,
+        3,
+        5
+      ],
+      "all": [
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "description": "Antimony has been used for over 5,000 years — ancient Egyptians ground it into kohl, the black eye make-up you see in tomb paintings. Today its main job is stopping fires: antimony compounds are mixed into plastics, mattresses and clothing to slow burning.",
+    "funFacts": [
+      "Ancient Egyptian black eyeliner was made from an antimony mineral.",
+      "Antimony expands as it freezes, which made it perfect for sharp printing type.",
+      "It is a flame retardant found in mattresses, car seats and children's pajamas.",
+      "Antimony is a metalloid — it looks like a shiny metal but is brittle as glass.",
+      "Medieval alchemists were fascinated by it and wrote whole books about it."
+    ],
+    "compounds": [
+      {
+        "formula": "Sb2S3",
+        "name": "Stibnite",
+        "nameZh": "辉锑矿",
+        "about": "The main ore, and the ancient Egyptian eye make-up."
+      },
+      {
+        "formula": "Sb2O3",
+        "name": "Antimony trioxide",
+        "nameZh": "三氧化锑",
+        "about": "The world's most-used flame retardant."
+      },
+      {
+        "formula": "SbCl3",
+        "name": "Antimony trichloride",
+        "nameZh": "三氯化锑",
+        "about": "Once called 'butter of antimony' for its greasy look."
+      },
+      {
+        "formula": "InSb",
+        "name": "Indium antimonide",
+        "nameZh": "锑化铟",
+        "about": "A superb infrared detector material."
+      },
+      {
+        "formula": "SbH3",
+        "name": "Stibine",
+        "nameZh": "锑化氢",
+        "about": "A poisonous gas used in the electronics industry."
+      },
+      {
+        "formula": "Sb2O5",
+        "name": "Antimony pentoxide",
+        "about": "A flame retardant and a catalyst."
+      },
+      {
+        "formula": "PbSb",
+        "name": "Lead-antimony alloy",
+        "about": "Makes car battery plates strong enough to last."
+      },
+      {
+        "formula": "Sb2Te3",
+        "name": "Antimony telluride",
+        "about": "Converts heat into electricity in small coolers."
+      },
+      {
+        "formula": "K(SbO)C4H4O6",
+        "name": "Tartar emetic",
+        "about": "An old and rather brutal medicine."
+      },
+      {
+        "formula": "SbF5",
+        "name": "Antimony pentafluoride",
+        "about": "Part of the strongest acid ever made, called a superacid."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 52,
+    "symbol": "Te",
+    "name": "Tellurium",
+    "nameZh": "碲",
+    "pinyin": "dì",
+    "category": "Metalloid",
+    "group": 16,
+    "period": 5,
+    "block": "p",
+    "atomicMass": 127.6,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1782,
+      "by": "Franz-Joseph Müller von Reichenstein"
+    },
+    "nameMeaning": "From Latin tellus, 'earth'",
+    "zhRadical": {
+      "radical": "石",
+      "means": "solid nonmetal",
+      "note": "The 石 (stone) radical — this element is a solid nonmetal."
+    },
+    "crustAbundancePpm": 0.001,
+    "charges": {
+      "common": [
+        -2,
+        2,
+        4,
+        6
+      ],
+      "all": [
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "description": "Tellurium has an embarrassing side effect: swallow the tiniest speck and your breath smells of garlic for weeks. It is rarer in the crust than gold. Its big modern use is in solar panels and in materials that turn heat straight into electricity.",
+    "funFacts": [
+      "A microscopic amount of tellurium gives you garlic breath for weeks.",
+      "Tellurium is rarer in the Earth's crust than gold or platinum.",
+      "It is one of the few elements found combined with gold in nature.",
+      "Cadmium telluride solar panels are among the cheapest to make.",
+      "Named after the Earth, while its cousin selenium is named after the Moon."
+    ],
+    "compounds": [
+      {
+        "formula": "CdTe",
+        "name": "Cadmium telluride",
+        "nameZh": "碲化镉",
+        "about": "A leading thin-film solar panel material."
+      },
+      {
+        "formula": "Bi2Te3",
+        "name": "Bismuth telluride",
+        "nameZh": "碲化铋",
+        "about": "Turns electricity into cooling in portable fridges."
+      },
+      {
+        "formula": "TeO2",
+        "name": "Tellurium dioxide",
+        "nameZh": "二氧化碲",
+        "about": "Used in special glass that bends sound and light."
+      },
+      {
+        "formula": "AuTe2",
+        "name": "Calaverite",
+        "nameZh": "碲金矿",
+        "about": "A gold ore mineral that also contains tellurium."
+      },
+      {
+        "formula": "H2Te",
+        "name": "Hydrogen telluride",
+        "nameZh": "碲化氢",
+        "about": "A gas that smells even worse than rotten eggs."
+      },
+      {
+        "formula": "ZnTe",
+        "name": "Zinc telluride",
+        "about": "Used in solar cells and infrared devices."
+      },
+      {
+        "formula": "Sb2Te3",
+        "name": "Antimony telluride",
+        "about": "A thermoelectric material used in coolers."
+      },
+      {
+        "formula": "Ge2Sb2Te5",
+        "name": "GST",
+        "about": "Stores data on rewritable discs and in phase-change memory."
+      },
+      {
+        "formula": "TeCl4",
+        "name": "Tellurium tetrachloride",
+        "about": "A white solid used in chemical synthesis."
+      },
+      {
+        "formula": "PbTe",
+        "name": "Lead telluride",
+        "about": "Generates electricity from heat in space probes."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 53,
+    "symbol": "I",
+    "name": "Iodine",
+    "nameZh": "碘",
+    "pinyin": "diǎn",
+    "category": "Halogen",
+    "group": 17,
+    "period": 5,
+    "block": "p",
+    "atomicMass": 126.9,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1811,
+      "by": "Bernard Courtois"
+    },
+    "nameMeaning": "From Greek iodes, 'violet'",
+    "zhRadical": {
+      "radical": "石",
+      "means": "solid nonmetal",
+      "note": "The 石 (stone) radical — this element is a solid nonmetal."
+    },
+    "crustAbundancePpm": 0.45,
+    "charges": {
+      "common": [
+        -1,
+        1,
+        3,
+        5,
+        7
+      ],
+      "all": [
+        -1,
+        1,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "description": "Iodine is a shiny purple-black solid that does something strange when warmed: it turns straight into a violet gas without ever becoming liquid. Your thyroid gland needs iodine to work, which is why it is added to table salt all over the world.",
+    "funFacts": [
+      "Solid iodine turns directly into a purple gas — a process called sublimation.",
+      "Adding iodine to table salt has prevented illness in millions of people.",
+      "Iodine turns starch a dramatic blue-black, a classic school science test.",
+      "It was discovered by accident while making gunpowder from seaweed ash.",
+      "Iodine tincture was used to clean wounds long before modern antiseptics."
+    ],
+    "compounds": [
+      {
+        "formula": "KI",
+        "name": "Potassium iodide",
+        "nameZh": "碘化钾",
+        "about": "Added to table salt; also protects the thyroid after nuclear accidents."
+      },
+      {
+        "formula": "NaI",
+        "name": "Sodium iodide",
+        "nameZh": "碘化钠",
+        "about": "A crystal that flashes when radiation hits it, used in detectors."
+      },
+      {
+        "formula": "AgI",
+        "name": "Silver iodide",
+        "nameZh": "碘化银",
+        "about": "Used in cloud seeding to encourage rainfall."
+      },
+      {
+        "formula": "I2",
+        "name": "Iodine tincture",
+        "nameZh": "碘酒",
+        "about": "The brown antiseptic painted on skin before surgery."
+      },
+      {
+        "formula": "C25H29I2N3O3",
+        "name": "Amiodarone",
+        "nameZh": "胺碘酮",
+        "about": "A heart medicine containing iodine."
+      },
+      {
+        "formula": "C15H11I4NO4",
+        "name": "Thyroxine",
+        "about": "The thyroid hormone that controls how fast your body works."
+      },
+      {
+        "formula": "HI",
+        "name": "Hydroiodic acid",
+        "about": "One of the strongest acids there is."
+      },
+      {
+        "formula": "NI3",
+        "name": "Nitrogen triiodide",
+        "about": "So unstable that a feather's touch makes it bang."
+      },
+      {
+        "formula": "KIO3",
+        "name": "Potassium iodate",
+        "about": "Another iodine source added to salt and flour."
+      },
+      {
+        "formula": "PVP-I",
+        "name": "Povidone-iodine",
+        "about": "The orange-brown surgical scrub used in hospitals."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 54,
+    "symbol": "Xe",
+    "name": "Xenon",
+    "nameZh": "氙",
+    "pinyin": "xiān",
+    "category": "Noble gas",
+    "group": 18,
+    "period": 5,
+    "block": "p",
+    "atomicMass": 131.29,
+    "stateAtRoomTemp": "gas",
+    "discovered": {
+      "year": 1898,
+      "by": "William Ramsay and Morris Travers"
+    },
+    "nameMeaning": "From Greek xenos, 'stranger'",
+    "zhRadical": {
+      "radical": "气",
+      "means": "gas",
+      "note": "The 气 (gas) radical — this element is a gas."
+    },
+    "crustAbundancePpm": 3e-05,
+    "charges": {
+      "common": [
+        2,
+        4,
+        6
+      ],
+      "all": [
+        0,
+        1,
+        2,
+        4,
+        6,
+        8
+      ]
+    },
+    "description": "Xenon is the noble gas that broke the rules. Everyone believed noble gases could never form compounds, until 1962 when a chemist made one from xenon and shocked the world. Xenon also makes the dazzling blue-white light in car headlamps and camera flashes.",
+    "funFacts": [
+      "In 1962 xenon proved that noble gases can react after all, rewriting the textbooks.",
+      "Xenon headlights and photo flashes give a brilliant daylight-white glow.",
+      "Ion engines on spacecraft push xenon out of the back to fly across the solar system.",
+      "Xenon can be used as an anesthetic to send patients to sleep.",
+      "It is so rare that xenon is only 0.00001% of the air."
+    ],
+    "compounds": [
+      {
+        "formula": "XeF2",
+        "name": "Xenon difluoride",
+        "nameZh": "二氟化氙",
+        "about": "The first easy-to-make xenon compound; used to etch silicon."
+      },
+      {
+        "formula": "XeF4",
+        "name": "Xenon tetrafluoride",
+        "nameZh": "四氟化氙",
+        "about": "Beautiful colorless crystals that stunned chemists in 1962."
+      },
+      {
+        "formula": "XeF6",
+        "name": "Xenon hexafluoride",
+        "nameZh": "六氟化氙",
+        "about": "A yellow solid, the highest xenon fluoride."
+      },
+      {
+        "formula": "XeO3",
+        "name": "Xenon trioxide",
+        "nameZh": "三氧化氙",
+        "about": "An explosive white solid — handle with great care."
+      },
+      {
+        "formula": "XeO4",
+        "name": "Xenon tetroxide",
+        "nameZh": "四氧化氙",
+        "about": "So unstable it explodes above −36 °C."
+      },
+      {
+        "formula": "XePtF6",
+        "name": "Xenon hexafluoroplatinate",
+        "about": "The very first noble gas compound ever made."
+      },
+      {
+        "formula": "Na4XeO6",
+        "name": "Sodium perxenate",
+        "about": "One of the most powerful oxidizing agents known."
+      },
+      {
+        "formula": "XeOF4",
+        "name": "Xenon oxytetrafluoride",
+        "about": "A colorless liquid used in fluorine chemistry."
+      },
+      {
+        "formula": "XeCl",
+        "name": "Xenon chloride",
+        "about": "A short-lived molecule that powers excimer lasers for eye surgery."
+      },
+      {
+        "formula": "HXeOH",
+        "name": "Xenon hydroxide hydride",
+        "about": "A fragile molecule trapped in frozen ice for study."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 55,
+    "symbol": "Cs",
+    "name": "Cesium",
+    "nameZh": "铯",
+    "pinyin": "sè",
+    "category": "Alkali metal",
+    "group": 1,
+    "period": 6,
+    "block": "s",
+    "atomicMass": 132.91,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1860,
+      "by": "Robert Bunsen and Gustav Kirchhoff"
+    },
+    "nameMeaning": "From Latin caesius, 'sky blue'",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 3,
+    "charges": {
+      "common": [
+        1
+      ],
+      "all": [
+        -1,
+        1
+      ]
+    },
+    "description": "Cesium is the most reactive metal of all and one of only a few that melt in a warm room — a lump would turn to golden liquid in your hand, if it were not so dangerous to touch. Cesium atoms keep the world's time: the official length of one second is defined by cesium.",
+    "funFacts": [
+      "The second is officially defined as 9,192,631,770 vibrations of a cesium atom.",
+      "Cesium melts at 28 °C, so it would be liquid on a hot day.",
+      "It is the most reactive metal — it explodes on contact with water, even ice.",
+      "Cesium is soft, gold-colored and one of only three golden metals with copper and gold.",
+      "Cesium clocks lose less than a second in 100 million years."
+    ],
+    "compounds": [
+      {
+        "formula": "CsCl",
+        "name": "Cesium chloride",
+        "nameZh": "氯化铯",
+        "about": "Used to spin DNA apart in laboratories."
+      },
+      {
+        "formula": "Cs2CO3",
+        "name": "Cesium carbonate",
+        "nameZh": "碳酸铯",
+        "about": "A useful base in making medicines."
+      },
+      {
+        "formula": "CsOH",
+        "name": "Cesium hydroxide",
+        "nameZh": "氢氧化铯",
+        "about": "One of the strongest bases known."
+      },
+      {
+        "formula": "CsNO3",
+        "name": "Cesium nitrate",
+        "nameZh": "硝酸铯",
+        "about": "Used in infrared flares that decoy missiles."
+      },
+      {
+        "formula": "CsI",
+        "name": "Cesium iodide",
+        "nameZh": "碘化铯",
+        "about": "Flashes when X-rays hit it; used in medical scanners."
+      },
+      {
+        "formula": "CsF",
+        "name": "Cesium fluoride",
+        "about": "A handy source of fluoride in chemistry."
+      },
+      {
+        "formula": "HCOOCs",
+        "name": "Cesium formate",
+        "about": "A very dense liquid used in deep oil drilling."
+      },
+      {
+        "formula": "Cs2O",
+        "name": "Cesium oxide",
+        "about": "Used to coat surfaces that release electrons easily."
+      },
+      {
+        "formula": "CsAlSi2O6",
+        "name": "Pollucite",
+        "about": "The mineral almost all cesium is mined from."
+      },
+      {
+        "formula": "Cs2SO4",
+        "name": "Cesium sulfate",
+        "about": "Used to separate particles by spinning them fast."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 56,
+    "symbol": "Ba",
+    "name": "Barium",
+    "nameZh": "钡",
+    "pinyin": "bèi",
+    "category": "Alkaline earth metal",
+    "group": 2,
+    "period": 6,
+    "block": "s",
+    "atomicMass": 137.33,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1808,
+      "by": "Humphry Davy"
+    },
+    "nameMeaning": "From Greek barys, 'heavy'",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 425,
+    "charges": {
+      "common": [
+        2
+      ],
+      "all": [
+        1,
+        2
+      ]
+    },
+    "description": "Barium is a heavy metal whose salts are mostly poisonous — except one. Barium sulfate will not dissolve at all, so it passes safely through you, and doctors get patients to drink a 'barium meal' so their insides show up clearly on an X-ray.",
+    "funFacts": [
+      "A 'barium meal' is a thick white drink that makes your gut visible on X-rays.",
+      "Barium compounds make the green colors in fireworks.",
+      "Its name means 'heavy' — barium minerals are noticeably weighty for their size.",
+      "Barium is so reactive it must be stored under oil.",
+      "Drilling for oil uses huge amounts of barium to weigh down drilling mud."
+    ],
+    "compounds": [
+      {
+        "formula": "BaSO4",
+        "name": "Barite",
+        "nameZh": "重晶石",
+        "about": "The safe 'barium meal' for X-rays, and a drilling mud weight."
+      },
+      {
+        "formula": "BaCO3",
+        "name": "Witherite",
+        "nameZh": "碳酸钡矿",
+        "about": "Used in making glass and ceramics; also rat poison."
+      },
+      {
+        "formula": "BaCl2",
+        "name": "Barium chloride",
+        "nameZh": "氯化钡",
+        "about": "Colors flames green; used in fireworks."
+      },
+      {
+        "formula": "BaTiO3",
+        "name": "Barium titanate",
+        "nameZh": "钛酸钡",
+        "about": "Generates electricity when squeezed; used in microphones."
+      },
+      {
+        "formula": "BaO",
+        "name": "Barium oxide",
+        "nameZh": "氧化钡",
+        "about": "Used to dry gases and in special glass."
+      },
+      {
+        "formula": "Ba(NO3)2",
+        "name": "Barium nitrate",
+        "about": "The green star in firework displays."
+      },
+      {
+        "formula": "BaFe12O19",
+        "name": "Barium ferrite",
+        "about": "The ceramic magnets in speakers and fridge magnets."
+      },
+      {
+        "formula": "BaS",
+        "name": "Barium sulfide",
+        "about": "An early glow-in-the-dark material."
+      },
+      {
+        "formula": "Ba(OH)2",
+        "name": "Barium hydroxide",
+        "about": "A strong base used in chemistry labs."
+      },
+      {
+        "formula": "YBa2Cu3O7",
+        "name": "YBCO",
+        "about": "A high-temperature superconductor containing barium."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 57,
+    "symbol": "La",
+    "name": "Lanthanum",
+    "nameZh": "镧",
+    "pinyin": "lán",
+    "category": "Lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "atomicMass": 138.91,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1839,
+      "by": "Carl Gustaf Mosander"
+    },
+    "nameMeaning": "From Greek lanthanein, 'to lie hidden'",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 39,
+    "charges": {
+      "common": [
+        3
+      ],
+      "all": [
+        1,
+        2,
+        3
+      ]
+    },
+    "description": "Lanthanum's name means 'hidden', because it hid inside another element's ore for years before anyone noticed it. It is the first of the fifteen lanthanides, the row that sits below the main table. Lanthanum makes camera lenses sharper and helps hybrid car batteries store energy.",
+    "funFacts": [
+      "Lanthanum gives its name to a whole family of fifteen elements.",
+      "Expensive camera lenses contain lanthanum glass, which bends light beautifully.",
+      "Hybrid car batteries can hold kilograms of lanthanum.",
+      "Despite being called a 'rare earth', it is more common than lead.",
+      "Lanthanum compounds help clean up phosphate from lakes and ponds."
+    ],
+    "compounds": [
+      {
+        "formula": "La2O3",
+        "name": "Lanthanum oxide",
+        "nameZh": "氧化镧",
+        "about": "Added to glass to make high-quality camera lenses."
+      },
+      {
+        "formula": "LaNi5",
+        "name": "Lanthanum nickel",
+        "nameZh": "镧镍合金",
+        "about": "Soaks up hydrogen; used in rechargeable batteries."
+      },
+      {
+        "formula": "LaCl3",
+        "name": "Lanthanum chloride",
+        "nameZh": "氯化镧",
+        "about": "Used to make other lanthanum chemicals."
+      },
+      {
+        "formula": "LaB6",
+        "name": "Lanthanum hexaboride",
+        "nameZh": "六硼化镧",
+        "about": "Shoots out electrons in electron microscopes."
+      },
+      {
+        "formula": "LaPO4",
+        "name": "Monazite",
+        "nameZh": "独居石",
+        "about": "The main ore of lanthanum and other rare earths."
+      },
+      {
+        "formula": "LaF3",
+        "name": "Lanthanum fluoride",
+        "about": "Used in optical coatings and sensors."
+      },
+      {
+        "formula": "La2(CO3)3",
+        "name": "Lanthanum carbonate",
+        "about": "A medicine for kidney patients."
+      },
+      {
+        "formula": "LaAlO3",
+        "name": "Lanthanum aluminate",
+        "about": "A base crystal for growing superconductor films."
+      },
+      {
+        "formula": "LaMnO3",
+        "name": "Lanthanum manganite",
+        "about": "Changes resistance in a magnetic field."
+      },
+      {
+        "formula": "La2O2S",
+        "name": "Lanthanum oxysulfide",
+        "about": "Glows when hit by X-rays, used in scanner screens."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 58,
+    "symbol": "Ce",
+    "name": "Cerium",
+    "nameZh": "铈",
+    "pinyin": "shì",
+    "category": "Lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "atomicMass": 140.12,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1803,
+      "by": "Berzelius, Hisinger and Klaproth"
+    },
+    "nameMeaning": "After the dwarf planet Ceres",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 66.5,
+    "charges": {
+      "common": [
+        3,
+        4
+      ],
+      "all": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "description": "Cerium is the most common of all the rare earth elements — there is more cerium in the ground than copper. Scratch it and it throws off sparks, which is exactly how the flint in a cigarette lighter works. It also cleans up exhaust fumes and polishes glass to a perfect shine.",
+    "funFacts": [
+      "The sparking 'flint' in a lighter is mostly cerium alloy.",
+      "Cerium is more abundant in the crust than copper, tin or lead.",
+      "It is named after Ceres, discovered as an asteroid two years before the element.",
+      "Cerium oxide is the standard polish for making telescope and phone glass smooth.",
+      "It can breathe oxygen in and out, which is why car exhaust catalysts use it."
+    ],
+    "compounds": [
+      {
+        "formula": "CeO2",
+        "name": "Cerium oxide",
+        "nameZh": "氧化铈",
+        "about": "The world's best glass polish; also cleans car exhaust."
+      },
+      {
+        "formula": "Ce2(CO3)3",
+        "name": "Cerium carbonate",
+        "nameZh": "碳酸铈",
+        "about": "A step in refining cerium from ore."
+      },
+      {
+        "formula": "CeCl3",
+        "name": "Cerium chloride",
+        "nameZh": "氯化铈",
+        "about": "Used in chemical reactions and to make the metal."
+      },
+      {
+        "formula": "(Ce,La)PO4",
+        "name": "Monazite",
+        "nameZh": "独居石",
+        "about": "The main rare-earth ore mineral."
+      },
+      {
+        "formula": "Ce(SO4)2",
+        "name": "Cerium sulfate",
+        "nameZh": "硫酸铈",
+        "about": "A bright yellow oxidizer used in chemical analysis."
+      },
+      {
+        "formula": "CeF3",
+        "name": "Cerium fluoride",
+        "about": "Used in arc lamps and optical coatings."
+      },
+      {
+        "formula": "(NH4)2Ce(NO3)6",
+        "name": "Ceric ammonium nitrate",
+        "about": "Etches metal for making circuit boards."
+      },
+      {
+        "formula": "CeB6",
+        "name": "Cerium hexaboride",
+        "about": "An electron source in powerful microscopes."
+      },
+      {
+        "formula": "Ce2O3",
+        "name": "Cerium(III) oxide",
+        "about": "Used as a catalyst and in self-cleaning ovens."
+      },
+      {
+        "formula": "Mischmetal",
+        "name": "Mischmetal",
+        "about": "A cerium-rich mixture that makes lighter flints spark."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 59,
+    "symbol": "Pr",
+    "name": "Praseodymium",
+    "nameZh": "镨",
+    "pinyin": "pǔ",
+    "category": "Lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "atomicMass": 140.91,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1885,
+      "by": "Carl Auer von Welsbach"
+    },
+    "nameMeaning": "From Greek prasios didymos, 'green twin'",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 9.2,
+    "charges": {
+      "common": [
+        3
+      ],
+      "all": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "description": "Praseodymium means 'green twin' — for years it was mixed up with neodymium and the pair were thought to be one element called didymium. Its green salts color glass, and welders wear praseodymium goggles that block the fierce yellow glare of hot metal.",
+    "funFacts": [
+      "Welders' and glassblowers' goggles use praseodymium to filter out the glare.",
+      "It was separated from its 'twin' neodymium only in 1885.",
+      "Praseodymium salts are a lovely apple green.",
+      "Mixed with nickel, it is one of the best materials for reaching ultra-low temperatures.",
+      "It goes into the powerful magnets in headphones and wind turbines."
+    ],
+    "compounds": [
+      {
+        "formula": "Pr2O3",
+        "name": "Praseodymium oxide",
+        "nameZh": "氧化镨",
+        "about": "Colors glass and ceramics a soft green-yellow."
+      },
+      {
+        "formula": "Pr6O11",
+        "name": "Praseodymium oxide (black)",
+        "nameZh": "十一氧化六镨",
+        "about": "The stable dark form used as a pigment and polish."
+      },
+      {
+        "formula": "PrCl3",
+        "name": "Praseodymium chloride",
+        "nameZh": "氯化镨",
+        "about": "Green crystals used to make the metal."
+      },
+      {
+        "formula": "PrF3",
+        "name": "Praseodymium fluoride",
+        "nameZh": "氟化镨",
+        "about": "Used in optical fiber amplifiers."
+      },
+      {
+        "formula": "PrNi5",
+        "name": "Praseodymium nickel",
+        "nameZh": "镨镍合金",
+        "about": "Used to reach temperatures close to absolute zero."
+      },
+      {
+        "formula": "Pr2Fe14B",
+        "name": "Praseodymium magnet",
+        "about": "Part of the strong magnets in motors and speakers."
+      },
+      {
+        "formula": "Pr(NO3)3",
+        "name": "Praseodymium nitrate",
+        "about": "Used to make catalysts and pigments."
+      },
+      {
+        "formula": "PrBr3",
+        "name": "Praseodymium bromide",
+        "about": "A green solid used in research."
+      },
+      {
+        "formula": "Pr2(SO4)3",
+        "name": "Praseodymium sulfate",
+        "about": "A green salt used in laboratory work."
+      },
+      {
+        "formula": "PrGaO3",
+        "name": "Praseodymium gallate",
+        "about": "A crystal for growing superconductor films."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 60,
+    "symbol": "Nd",
+    "name": "Neodymium",
+    "nameZh": "钕",
+    "pinyin": "nǚ",
+    "category": "Lanthanide",
+    "group": null,
+    "period": 6,
+    "block": "f",
+    "atomicMass": 144.24,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1885,
+      "by": "Carl Auer von Welsbach"
+    },
+    "nameMeaning": "From Greek neos didymos, 'new twin'",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 41.5,
+    "charges": {
+      "common": [
+        3
+      ],
+      "all": [
+        2,
+        3,
+        4
+      ]
+    },
+    "description": "Neodymium makes the strongest permanent magnets ever invented — a coin-sized one can lift many kilograms and pinch your fingers hard. These magnets are hidden in headphones, phone speakers, hard drives, electric car motors and wind turbines all over the world.",
+    "funFacts": [
+      "Neodymium magnets are so strong that big ones can break bones.",
+      "Every pair of headphones and every phone speaker contains a neodymium magnet.",
+      "A single wind turbine can hold hundreds of kilograms of neodymium.",
+      "Neodymium glass changes color depending on whether it is daylight or lamplight.",
+      "Powerful green laser pointers use a neodymium crystal to make their light."
+    ],
+    "compounds": [
+      {
+        "formula": "Nd2Fe14B",
+        "name": "Neodymium magnet",
+        "nameZh": "钕铁硼磁体",
+        "about": "The strongest permanent magnet ever made."
+      },
+      {
+        "formula": "Nd2O3",
+        "name": "Neodymium oxide",
+        "nameZh": "氧化钕",
+        "about": "Colors glass purple and is used to make magnets."
+      },
+      {
+        "formula": "Nd:YAG",
+        "name": "Neodymium YAG",
+        "nameZh": "掺钕钇铝石榴石",
+        "about": "The crystal in powerful cutting and surgical lasers."
+      },
+      {
+        "formula": "NdCl3",
+        "name": "Neodymium chloride",
+        "nameZh": "氯化钕",
+        "about": "Purple crystals used to make the metal."
+      },
+      {
+        "formula": "NdF3",
+        "name": "Neodymium fluoride",
+        "nameZh": "氟化钕",
+        "about": "Used in laser and optical coatings."
+      },
+      {
+        "formula": "(Nd,Ce)PO4",
+        "name": "Monazite",
+        "about": "The ore mineral neodymium is extracted from."
+      },
+      {
+        "formula": "Nd(NO3)3",
+        "name": "Neodymium nitrate",
+        "about": "Used to prepare catalysts and glass colors."
+      },
+      {
+        "formula": "Nd2(CO3)3",
+        "name": "Neodymium carbonate",
+        "about": "A step in separating rare earths."
+      },
+      {
+        "formula": "NdNiO3",
+        "name": "Neodymium nickelate",
+        "about": "Switches between conducting and insulating."
+      },
+      {
+        "formula": "Nd:glass",
+        "name": "Neodymium glass",
+        "about": "Used in the world's most powerful fusion research lasers."
+      }
+    ]
+  }
+]

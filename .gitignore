@@ -1,0 +1,10 @@
+# Local snapshots taken before destructive edits. Never published: they are
+# duplicate copies of files that are already tracked here.
+backup/
+
+# Personal editor state
+.claude/settings.local.json
+
+.DS_Store
+__pycache__/
+*.pyc

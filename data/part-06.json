@@ -1,0 +1,1000 @@
+[
+  {
+    "atomicNumber": 101,
+    "symbol": "Md",
+    "name": "Mendelevium",
+    "nameZh": "钔",
+    "pinyin": "mén",
+    "category": "Actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "atomicMass": 258,
+    "stateAtRoomTemp": "solid (predicted)",
+    "discovered": {
+      "year": 1955,
+      "by": "Ghiorso, Harvey, Choppin, Thompson and Seaborg"
+    },
+    "nameMeaning": "After Dmitri Mendeleev, who created the periodic table",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [
+        3
+      ],
+      "all": [
+        2,
+        3
+      ]
+    },
+    "description": "Mendelevium honors Dmitri Mendeleev, the Russian chemist who invented the periodic table itself. It was the first element ever discovered one atom at a time — the team made just seventeen atoms in their first experiment and had to identify them individually.",
+    "funFacts": [
+      "The first experiment produced only seventeen atoms of mendelevium in total.",
+      "It is named after Dmitri Mendeleev, the father of the periodic table.",
+      "It was the first element identified by studying single atoms one by one.",
+      "Mendelevium is unusual among actinides for forming a fairly stable +2 state.",
+      "Every atom ever made has long since decayed away."
+    ],
+    "compounds": [],
+    "compoundsNote": "Mendelevium has never been produced in visible amounts — only a few million atoms have ever existed. No solid compounds have been isolated. Everything known about its chemistry comes from tracer experiments in solution, which show it forms Md³⁺ and, unusually, a stable Md²⁺ ion.",
+    "compoundsExamples": [
+      {
+        "formula": "Md³⁺ (in solution)",
+        "name": "Mendelevium(III) ion",
+        "about": "The normal form in water, behaving like other actinides."
+      },
+      {
+        "formula": "Md²⁺ (in solution)",
+        "name": "Mendelevium(II) ion",
+        "about": "An unusually stable lower state that helps chemists separate it."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 102,
+    "symbol": "No",
+    "name": "Nobelium",
+    "nameZh": "锘",
+    "pinyin": "nuò",
+    "category": "Actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "atomicMass": 259,
+    "stateAtRoomTemp": "solid (predicted)",
+    "discovered": {
+      "year": 1966,
+      "by": "Flerov's team at Dubna (confirmed)"
+    },
+    "nameMeaning": "After Alfred Nobel, founder of the Nobel Prizes",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [
+        3
+      ],
+      "all": [
+        2,
+        3
+      ]
+    },
+    "description": "Nobelium is named after Alfred Nobel, the inventor of dynamite who founded the Nobel Prizes. Its discovery caused a long argument between Swedish, American and Soviet teams over who got there first — a dispute that took decades to settle.",
+    "funFacts": [
+      "Three research teams claimed nobelium, causing a decades-long naming dispute.",
+      "It is named after Alfred Nobel, who invented dynamite and founded the Nobel Prizes.",
+      "Nobelium is unusual because its +2 state is more stable than its +3 state.",
+      "That oddity comes from its completely full inner electron shell.",
+      "Only a few thousand atoms exist at any moment during an experiment."
+    ],
+    "compounds": [],
+    "compoundsNote": "Nobelium has never been isolated in weighable quantities and forms no known solid compounds. Its chemistry is known only from solution tracer studies, which revealed the surprising result that No²⁺ is its most stable ion — unlike every other actinide.",
+    "compoundsExamples": [
+      {
+        "formula": "No²⁺ (in solution)",
+        "name": "Nobelium(II) ion",
+        "about": "Its most stable form, unusual among the actinides."
+      },
+      {
+        "formula": "No³⁺ (in solution)",
+        "name": "Nobelium(III) ion",
+        "about": "Formed only with strong oxidizing agents."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 103,
+    "symbol": "Lr",
+    "name": "Lawrencium",
+    "nameZh": "铹",
+    "pinyin": "láo",
+    "category": "Actinide",
+    "group": null,
+    "period": 7,
+    "block": "d",
+    "atomicMass": 266,
+    "stateAtRoomTemp": "solid (predicted)",
+    "discovered": {
+      "year": 1961,
+      "by": "Ghiorso, Sikkeland, Larsh and Latimer"
+    },
+    "nameMeaning": "After Ernest Lawrence, inventor of the cyclotron",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [
+        3
+      ],
+      "all": [
+        3
+      ]
+    },
+    "description": "Lawrencium is the last of the actinides, closing the bottom row of the periodic table. It is named after Ernest Lawrence, who invented the cyclotron — the atom-smashing machine that made discovering all these heavy elements possible in the first place.",
+    "funFacts": [
+      "Lawrencium completes the actinide row of the periodic table.",
+      "It is named after the inventor of the cyclotron particle accelerator.",
+      "In 2015 scientists measured how tightly it holds its outermost electron — a rare feat.",
+      "Chemists still debate whether lawrencium belongs under lutetium in group 3.",
+      "Its longest-lived form survives only about 11 hours."
+    ],
+    "compounds": [],
+    "compoundsNote": "Lawrencium has never been produced in visible amounts and no compounds have been isolated. Solution experiments confirm it forms Lr³⁺, behaving much like the other heavy actinides.",
+    "compoundsExamples": [
+      {
+        "formula": "Lr³⁺ (in solution)",
+        "name": "Lawrencium(III) ion",
+        "about": "Its only known form, confirmed by tracer chemistry."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 104,
+    "symbol": "Rf",
+    "name": "Rutherfordium",
+    "nameZh": "𬬻",
+    "pinyin": "lú",
+    "nameZhRareGlyph": true,
+    "category": "Transition metal",
+    "group": 4,
+    "period": 7,
+    "block": "d",
+    "atomicMass": 267,
+    "stateAtRoomTemp": "solid (predicted)",
+    "discovered": {
+      "year": 1964,
+      "by": "Dubna and Berkeley teams"
+    },
+    "nameMeaning": "After Ernest Rutherford, who discovered the atomic nucleus",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "zhCharacterNote": "𬬻 was invented for this element. It is built from 钅 — meaning it is a metal — plus 卢, which supplies the sound “lú” and points to Rutherford 卢瑟福. One half tells you what it is, the other half tells you how to say it.",
+    "zhBuild": {
+      "radical": "钅",
+      "phonetic": "卢",
+      "honors": "Rutherford 卢瑟福"
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [
+        4
+      ],
+      "all": [
+        2,
+        3,
+        4
+      ]
+    },
+    "description": "Rutherfordium is the first of the superheavy elements and the first beyond the actinide row. It is named after Ernest Rutherford, the physicist who discovered that atoms have a tiny dense nucleus at their center. It behaves chemically much like hafnium, just as the table predicts.",
+    "funFacts": [
+      "Rutherfordium is the first element beyond the actinide series.",
+      "It is named after Ernest Rutherford, who discovered the atomic nucleus.",
+      "Chemists proved it behaves like hafnium, confirming the periodic table still works this far out.",
+      "American and Soviet teams both claimed it, causing the 'Transfermium Wars'.",
+      "Its atoms survive for only about an hour at most."
+    ],
+    "compounds": [
+      {
+        "formula": "RfCl4",
+        "name": "Rutherfordium tetrachloride",
+        "nameZh": "四氯化𬬻",
+        "about": "Studied a few atoms at a time; behaves like hafnium chloride."
+      },
+      {
+        "formula": "RfBr4",
+        "name": "Rutherfordium tetrabromide",
+        "nameZh": "四溴化𬬻",
+        "about": "Detected in gas-phase chemistry experiments."
+      }
+    ],
+    "compoundsNote": "Only a handful of rutherfordium compounds have been observed, and never as visible material — chemists study them one atom at a time as they fly through a heated tube."
+  },
+  {
+    "atomicNumber": 105,
+    "symbol": "Db",
+    "name": "Dubnium",
+    "nameZh": "𬭊",
+    "pinyin": "dù",
+    "nameZhRareGlyph": true,
+    "category": "Transition metal",
+    "group": 5,
+    "period": 7,
+    "block": "d",
+    "atomicMass": 268,
+    "stateAtRoomTemp": "solid (predicted)",
+    "discovered": {
+      "year": 1968,
+      "by": "Dubna and Berkeley teams"
+    },
+    "nameMeaning": "After Dubna, the Russian town with a major nuclear laboratory",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "zhCharacterNote": "𬭊 was invented for this element. It is built from 钅 — meaning it is a metal — plus 杜, which supplies the sound “dù” and points to Dubna 杜布纳. One half tells you what it is, the other half tells you how to say it.",
+    "zhBuild": {
+      "radical": "钅",
+      "phonetic": "杜",
+      "honors": "Dubna 杜布纳"
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [
+        5
+      ],
+      "all": [
+        3,
+        4,
+        5
+      ]
+    },
+    "description": "Dubnium is named after the Russian town of Dubna, home to one of the world's great nuclear research laboratories. The naming was part of a peace deal that finally ended years of arguing between American and Soviet scientists over who discovered which heavy element.",
+    "funFacts": [
+      "Dubnium is named after a Russian town rather than a person.",
+      "Its name was chosen as part of a compromise ending the 'Transfermium Wars'.",
+      "It behaves chemically like tantalum and niobium, as the table predicts.",
+      "Its longest-lived atoms last only about a day.",
+      "Fewer than a few thousand atoms have ever been made."
+    ],
+    "compounds": [
+      {
+        "formula": "DbCl5",
+        "name": "Dubnium pentachloride",
+        "nameZh": "五氯化𬭊",
+        "about": "Observed in gas chemistry, behaving like niobium chloride."
+      },
+      {
+        "formula": "DbBr5",
+        "name": "Dubnium pentabromide",
+        "nameZh": "五溴化𬭊",
+        "about": "Detected in atom-at-a-time experiments."
+      },
+      {
+        "formula": "DbOCl3",
+        "name": "Dubnium oxychloride",
+        "nameZh": "氯氧化𬭊",
+        "about": "Formed when dubnium chloride meets oxygen."
+      }
+    ],
+    "compoundsNote": "Dubnium chemistry is done one atom at a time in gas streams; no compound has ever existed in a weighable amount."
+  },
+  {
+    "atomicNumber": 106,
+    "symbol": "Sg",
+    "name": "Seaborgium",
+    "nameZh": "𬭳",
+    "pinyin": "xǐ",
+    "nameZhRareGlyph": true,
+    "category": "Transition metal",
+    "group": 6,
+    "period": 7,
+    "block": "d",
+    "atomicMass": 269,
+    "stateAtRoomTemp": "solid (predicted)",
+    "discovered": {
+      "year": 1974,
+      "by": "Ghiorso, Seaborg and colleagues"
+    },
+    "nameMeaning": "After Glenn Seaborg, discoverer of ten elements",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "zhCharacterNote": "𬭳 was invented for this element. It is built from 钅 — meaning it is a metal — plus 喜, which supplies the sound “xǐ” and points to Seaborg 西博格. One half tells you what it is, the other half tells you how to say it.",
+    "zhBuild": {
+      "radical": "钅",
+      "phonetic": "喜",
+      "honors": "Seaborg 西博格"
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [
+        6
+      ],
+      "all": [
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "description": "Seaborgium is named after Glenn Seaborg, who helped discover ten different elements — more than anyone else in history. It was controversial at the time because Seaborg was still alive, and until then elements had only been named after people who had died.",
+    "funFacts": [
+      "Glenn Seaborg was the first living person to have an element named after him.",
+      "He helped discover ten elements, more than any other scientist.",
+      "Seaborg could write his home address entirely in chemical element names.",
+      "Seaborgium behaves like tungsten and molybdenum, just as predicted.",
+      "Its atoms last only a couple of minutes."
+    ],
+    "compounds": [
+      {
+        "formula": "SgO2Cl2",
+        "name": "Seaborgium oxychloride",
+        "nameZh": "氯氧化𬭳",
+        "about": "Observed in gas chemistry, matching tungsten's behavior."
+      },
+      {
+        "formula": "SgO3",
+        "name": "Seaborgium trioxide",
+        "nameZh": "三氧化𬭳",
+        "about": "Inferred from gas-phase oxide experiments."
+      },
+      {
+        "formula": "SgO2(OH)2",
+        "name": "Seaborgium oxyhydroxide",
+        "nameZh": "羟基氧化𬭳",
+        "about": "Detected in solution chemistry with just a few atoms."
+      }
+    ],
+    "compoundsNote": "Seaborgium compounds have only ever existed as single molecules, identified by tracking individual atoms as they decay."
+  },
+  {
+    "atomicNumber": 107,
+    "symbol": "Bh",
+    "name": "Bohrium",
+    "nameZh": "𬭛",
+    "pinyin": "bō",
+    "nameZhRareGlyph": true,
+    "category": "Transition metal",
+    "group": 7,
+    "period": 7,
+    "block": "d",
+    "atomicMass": 270,
+    "stateAtRoomTemp": "solid (predicted)",
+    "discovered": {
+      "year": 1981,
+      "by": "Peter Armbruster, Gottfried Münzenberg and team"
+    },
+    "nameMeaning": "After Niels Bohr, who explained the structure of the atom",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "zhCharacterNote": "𬭛 was invented for this element. It is built from 钅 — meaning it is a metal — plus 波, which supplies the sound “bō” and points to Bohr 玻尔. One half tells you what it is, the other half tells you how to say it.",
+    "zhBuild": {
+      "radical": "钅",
+      "phonetic": "波",
+      "honors": "Bohr 玻尔"
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [
+        7
+      ],
+      "all": [
+        3,
+        4,
+        5,
+        7
+      ]
+    },
+    "description": "Bohrium honors Niels Bohr, the Danish physicist who worked out how electrons are arranged around the nucleus — the very idea that makes the periodic table make sense. Only a few atoms of bohrium have ever been made, each lasting a fraction of a minute.",
+    "funFacts": [
+      "Bohrium is named after Niels Bohr, who explained how electrons orbit the nucleus.",
+      "It was first made by firing chromium atoms at bismuth at enormous speed.",
+      "Chemists confirmed it behaves like rhenium, its lighter relative.",
+      "Its atoms exist for only about a minute at most.",
+      "The name was almost 'nielsbohrium' before the shorter version won."
+    ],
+    "compounds": [
+      {
+        "formula": "BhO3Cl",
+        "name": "Bohrium oxychloride",
+        "nameZh": "氯氧化𬭛",
+        "about": "The one bohrium compound ever observed, in gas-phase chemistry."
+      }
+    ],
+    "compoundsNote": "Exactly one bohrium compound has been observed — and only as six individual molecules, detected one at a time in 2000."
+  },
+  {
+    "atomicNumber": 108,
+    "symbol": "Hs",
+    "name": "Hassium",
+    "nameZh": "𬭶",
+    "pinyin": "hēi",
+    "nameZhRareGlyph": true,
+    "category": "Transition metal",
+    "group": 8,
+    "period": 7,
+    "block": "d",
+    "atomicMass": 269,
+    "stateAtRoomTemp": "solid (predicted)",
+    "discovered": {
+      "year": 1984,
+      "by": "Peter Armbruster, Gottfried Münzenberg and team"
+    },
+    "nameMeaning": "From Hassia, Latin for the German state of Hesse",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "zhCharacterNote": "𬭶 was invented for this element. It is built from 钅 — meaning it is a metal — plus 黑, which supplies the sound “hēi” and points to Hesse 黑森. One half tells you what it is, the other half tells you how to say it.",
+    "zhBuild": {
+      "radical": "钅",
+      "phonetic": "黑",
+      "honors": "Hesse 黑森"
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [
+        8
+      ],
+      "all": [
+        2,
+        3,
+        4,
+        6,
+        8
+      ]
+    },
+    "description": "Hassium is predicted to be the densest element of all, even heavier for its size than osmium. Chemists managed something remarkable with it: they made hassium tetroxide and showed it behaves just like osmium's version, proving the periodic table holds up even here.",
+    "funFacts": [
+      "Hassium is calculated to be the densest element in the periodic table.",
+      "It is named after Hesse, the German state where it was discovered.",
+      "Chemists have made hassium tetroxide, one of the heaviest molecules studied.",
+      "Its atoms survive for only about ten seconds.",
+      "The experiment proving its chemistry used just a handful of atoms."
+    ],
+    "compounds": [
+      {
+        "formula": "HsO4",
+        "name": "Hassium tetroxide",
+        "nameZh": "四氧化𬭶",
+        "about": "Successfully made and studied — it behaves just like osmium tetroxide."
+      },
+      {
+        "formula": "Na2[HsO4(OH)2]",
+        "name": "Sodium hassate",
+        "nameZh": "𬭶酸钠",
+        "about": "Formed when hassium tetroxide meets sodium hydroxide."
+      }
+    ],
+    "compoundsNote": "Hassium tetroxide is one of the great achievements of superheavy chemistry — made and identified from only a few atoms."
+  },
+  {
+    "atomicNumber": 109,
+    "symbol": "Mt",
+    "name": "Meitnerium",
+    "nameZh": "鿏",
+    "pinyin": "mài",
+    "nameZhRareGlyph": true,
+    "category": "Unknown, probably transition metal",
+    "group": 9,
+    "period": 7,
+    "block": "d",
+    "atomicMass": 278,
+    "stateAtRoomTemp": "solid (predicted)",
+    "discovered": {
+      "year": 1982,
+      "by": "Peter Armbruster, Gottfried Münzenberg and team"
+    },
+    "nameMeaning": "After Lise Meitner, who explained nuclear fission",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "zhCharacterNote": "鿏 was invented for this element. It is built from 钅 — meaning it is a metal — plus 麦, which supplies the sound “mài” and points to Meitner 迈特纳. One half tells you what it is, the other half tells you how to say it.",
+    "zhBuild": {
+      "radical": "钅",
+      "phonetic": "麦",
+      "honors": "Meitner 迈特纳"
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [],
+      "all": [
+        1,
+        3,
+        4,
+        6
+      ]
+    },
+    "description": "Meitnerium is named after Lise Meitner, the physicist who worked out how nuclear fission happens. She was overlooked for the Nobel Prize her collaborator received, so naming an element after her helped set the record straight. Only a few atoms have ever been created.",
+    "funFacts": [
+      "Lise Meitner explained nuclear fission but was passed over for the Nobel Prize.",
+      "Meitnerium is one of only a few elements named after a woman.",
+      "Fewer than a hundred atoms of it have ever been made.",
+      "The very first experiment created just one single atom.",
+      "Its chemistry has never been studied — atoms decay too fast."
+    ],
+    "compounds": [],
+    "compoundsNote": "No meitnerium compounds are known. Too few atoms have ever been made, and they decay in a fraction of a second — far too quickly for any chemistry experiment."
+  },
+  {
+    "atomicNumber": 110,
+    "symbol": "Ds",
+    "name": "Darmstadtium",
+    "nameZh": "𫟼",
+    "pinyin": "dá",
+    "nameZhRareGlyph": true,
+    "category": "Unknown, probably transition metal",
+    "group": 10,
+    "period": 7,
+    "block": "d",
+    "atomicMass": 281,
+    "stateAtRoomTemp": "solid (predicted)",
+    "discovered": {
+      "year": 1994,
+      "by": "Hofmann, Ninov and team at GSI Darmstadt"
+    },
+    "nameMeaning": "After Darmstadt, the German city where it was made",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "zhCharacterNote": "𫟼 was invented for this element. It is built from 钅 — meaning it is a metal — plus 达, which supplies the sound “dá” and points to Darmstadt 达姆施塔特. One half tells you what it is, the other half tells you how to say it.",
+    "zhBuild": {
+      "radical": "钅",
+      "phonetic": "达",
+      "honors": "Darmstadt 达姆施塔特"
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [],
+      "all": [
+        0,
+        2,
+        4,
+        6,
+        8
+      ]
+    },
+    "description": "Darmstadtium is named after the German city of Darmstadt, whose heavy-ion research laboratory discovered six different elements. Making it takes days of firing nickel atoms at lead at huge speed, and even then only a single atom might appear.",
+    "funFacts": [
+      "The Darmstadt laboratory discovered six elements, from bohrium to copernicium.",
+      "Making darmstadtium can take a week of continuous atom-smashing for one atom.",
+      "It is predicted to behave a little like platinum.",
+      "Its atoms last only about ten seconds at the very most.",
+      "Only a few dozen atoms have ever existed."
+    ],
+    "compounds": [],
+    "compoundsNote": "No darmstadtium compounds are known. Its atoms decay far too quickly, and too few have been produced, for any chemistry to be attempted."
+  },
+  {
+    "atomicNumber": 111,
+    "symbol": "Rg",
+    "name": "Roentgenium",
+    "nameZh": "𬬭",
+    "pinyin": "lún",
+    "nameZhRareGlyph": true,
+    "category": "Unknown, probably transition metal",
+    "group": 11,
+    "period": 7,
+    "block": "d",
+    "atomicMass": 282,
+    "stateAtRoomTemp": "solid (predicted)",
+    "discovered": {
+      "year": 1994,
+      "by": "Hofmann and team at GSI Darmstadt"
+    },
+    "nameMeaning": "After Wilhelm Röntgen, who discovered X-rays",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "zhCharacterNote": "𬬭 was invented for this element. It is built from 钅 — meaning it is a metal — plus 仑, which supplies the sound “lún” and points to Roentgen 伦琴. One half tells you what it is, the other half tells you how to say it.",
+    "zhBuild": {
+      "radical": "钅",
+      "phonetic": "仑",
+      "honors": "Roentgen 伦琴"
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [],
+      "all": [
+        -1,
+        1,
+        3,
+        5
+      ]
+    },
+    "description": "Roentgenium honors Wilhelm Röntgen, who discovered X-rays and won the very first Nobel Prize in Physics. It sits directly below gold on the periodic table, so scientists expect it would be a metal — though nobody has ever made enough to look at.",
+    "funFacts": [
+      "It is named after the discoverer of X-rays, Wilhelm Röntgen.",
+      "Roentgenium sits below gold and silver in the periodic table.",
+      "Its name was announced on the 110th anniversary of the discovery of X-rays.",
+      "Only a few dozen atoms have ever been created.",
+      "Some calculations suggest it might not be shiny like gold at all."
+    ],
+    "compounds": [],
+    "compoundsNote": "No roentgenium compounds are known. Its atoms survive only seconds, and far too few have been made for any chemical study."
+  },
+  {
+    "atomicNumber": 112,
+    "symbol": "Cn",
+    "name": "Copernicium",
+    "nameZh": "鿔",
+    "pinyin": "gē",
+    "nameZhRareGlyph": true,
+    "category": "Unknown, probably transition metal",
+    "group": 12,
+    "period": 7,
+    "block": "d",
+    "atomicMass": 285,
+    "stateAtRoomTemp": "gas or liquid (predicted)",
+    "discovered": {
+      "year": 1996,
+      "by": "Hofmann and team at GSI Darmstadt"
+    },
+    "nameMeaning": "After Nicolaus Copernicus, who put the Sun at the center",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "zhCharacterNote": "鿔 was invented for this element. It is built from 钅 — meaning it is a metal — plus 哥, which supplies the sound “gē” and points to Copernicus 哥白尼. One half tells you what it is, the other half tells you how to say it.",
+    "zhBuild": {
+      "radical": "钅",
+      "phonetic": "哥",
+      "honors": "Copernicus 哥白尼"
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [
+        2
+      ],
+      "all": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    "description": "Copernicium is named after Nicolaus Copernicus, who realized the Earth goes around the Sun. Strangely, scientists think copernicium might be a gas or a liquid at room temperature, like mercury below which it sits — because it is so heavy that Einstein's relativity changes its chemistry.",
+    "funFacts": [
+      "Copernicium may be a gas at room temperature, which would be extraordinary for a metal.",
+      "Its odd behavior comes from relativity: its electrons move near the speed of light.",
+      "It is named after Copernicus, who showed the Earth orbits the Sun.",
+      "It sits directly below mercury, the only liquid metal.",
+      "Experiments suggest it behaves more like a noble gas than a metal."
+    ],
+    "compounds": [],
+    "compoundsNote": "No copernicium compounds have been isolated. Gas-phase experiments show its atoms stick weakly to gold surfaces, hinting that it behaves more like a noble gas than like mercury.",
+    "compoundsExamples": [
+      {
+        "formula": "Cn–Au (surface bond)",
+        "name": "Copernicium on gold",
+        "about": "The only chemical interaction ever measured, from a few single atoms."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 113,
+    "symbol": "Nh",
+    "name": "Nihonium",
+    "nameZh": "鿭",
+    "pinyin": "nǐ",
+    "nameZhRareGlyph": true,
+    "category": "Unknown, probably post-transition metal",
+    "group": 13,
+    "period": 7,
+    "block": "p",
+    "atomicMass": 286,
+    "stateAtRoomTemp": "solid (predicted)",
+    "discovered": {
+      "year": 2004,
+      "by": "Kosuke Morita's team at RIKEN, Japan"
+    },
+    "nameMeaning": "From Nihon, the Japanese name for Japan",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "zhCharacterNote": "鿭 was invented for this element. It is built from 钅 — meaning it is a metal — plus 尔, which supplies the sound “nǐ” and points to Nihon 日本. One half tells you what it is, the other half tells you how to say it.",
+    "zhBuild": {
+      "radical": "钅",
+      "phonetic": "尔",
+      "honors": "Nihon 日本"
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [],
+      "all": [
+        -1,
+        1,
+        3,
+        5
+      ]
+    },
+    "description": "Nihonium was the first element ever discovered in Asia, and it is named with the Japanese word for Japan. The team fired zinc at bismuth for nine years and produced just three atoms — an extraordinary display of patience.",
+    "funFacts": [
+      "Nihonium was the first element discovered in Asia.",
+      "The team searched for nine years and found only three atoms.",
+      "Nihon means 'land of the rising sun' — the Japanese name for Japan.",
+      "One atom appeared after 553 days of continuous experiment running.",
+      "It sits below thallium in the periodic table."
+    ],
+    "compounds": [],
+    "compoundsNote": "No nihonium compounds are known. Only a handful of atoms have ever existed, each lasting a fraction of a second."
+  },
+  {
+    "atomicNumber": 114,
+    "symbol": "Fl",
+    "name": "Flerovium",
+    "nameZh": "𫓧",
+    "pinyin": "fū",
+    "nameZhRareGlyph": true,
+    "category": "Unknown, probably post-transition metal",
+    "group": 14,
+    "period": 7,
+    "block": "p",
+    "atomicMass": 289,
+    "stateAtRoomTemp": "gas or solid (predicted)",
+    "discovered": {
+      "year": 1998,
+      "by": "Yuri Oganessian's team at Dubna"
+    },
+    "nameMeaning": "After Georgy Flerov, founder of the Dubna laboratory",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "zhCharacterNote": "𫓧 was invented for this element. It is built from 钅 — meaning it is a metal — plus 夫, which supplies the sound “fū” and points to Flerov 弗廖罗夫. One half tells you what it is, the other half tells you how to say it.",
+    "zhBuild": {
+      "radical": "钅",
+      "phonetic": "夫",
+      "honors": "Flerov 弗廖罗夫"
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [],
+      "all": [
+        0,
+        1,
+        2,
+        4,
+        6
+      ]
+    },
+    "description": "Flerovium sits in the middle of what scientists call the 'island of stability' — a predicted region where superheavy atoms might last much longer than their neighbors. Its atoms do survive noticeably longer than expected, which is exciting evidence that the island is real.",
+    "funFacts": [
+      "Flerovium may sit near the predicted 'island of stability' of long-lived superheavy atoms.",
+      "Its atoms last a few seconds, remarkably long for an element this heavy.",
+      "It is named after Georgy Flerov, who founded the Dubna laboratory.",
+      "Like copernicium, it may behave more like a gas than a metal.",
+      "It sits below lead in the periodic table."
+    ],
+    "compounds": [],
+    "compoundsNote": "No flerovium compounds are known. Gas-phase experiments on single atoms suggest it is surprisingly unreactive, possibly behaving more like a noble gas than like lead."
+  },
+  {
+    "atomicNumber": 115,
+    "symbol": "Mc",
+    "name": "Moscovium",
+    "nameZh": "镆",
+    "pinyin": "mò",
+    "category": "Unknown, probably post-transition metal",
+    "group": 15,
+    "period": 7,
+    "block": "p",
+    "atomicMass": 290,
+    "stateAtRoomTemp": "solid (predicted)",
+    "discovered": {
+      "year": 2003,
+      "by": "Dubna and Livermore collaboration"
+    },
+    "nameMeaning": "After the Moscow region of Russia",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "zhCharacterNote": "镆 was invented for this element. It is built from 钅 — meaning it is a metal — plus 莫, which supplies the sound “mò” and points to Moscow 莫斯科. One half tells you what it is, the other half tells you how to say it.",
+    "zhBuild": {
+      "radical": "钅",
+      "phonetic": "莫",
+      "honors": "Moscow 莫斯科"
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [],
+      "all": [
+        1,
+        3
+      ]
+    },
+    "description": "Moscovium is named after the Moscow region, where the Dubna laboratory sits. It is one of the newest additions to the periodic table, officially named in 2016, and only a few dozen atoms have ever been created.",
+    "funFacts": [
+      "Moscovium was officially added to the periodic table in 2016.",
+      "It is named after the Moscow region of Russia.",
+      "Only about a hundred atoms have ever been made.",
+      "Its atoms last less than a second before decaying.",
+      "It sits below bismuth in the periodic table."
+    ],
+    "compounds": [],
+    "compoundsNote": "No moscovium compounds are known. Its atoms decay in well under a second — far too fast for any chemistry experiment."
+  },
+  {
+    "atomicNumber": 116,
+    "symbol": "Lv",
+    "name": "Livermorium",
+    "nameZh": "𫟷",
+    "pinyin": "lì",
+    "nameZhRareGlyph": true,
+    "category": "Unknown, probably post-transition metal",
+    "group": 16,
+    "period": 7,
+    "block": "p",
+    "atomicMass": 293,
+    "stateAtRoomTemp": "solid (predicted)",
+    "discovered": {
+      "year": 2000,
+      "by": "Dubna and Livermore collaboration"
+    },
+    "nameMeaning": "After Lawrence Livermore National Laboratory in California",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "zhCharacterNote": "𫟷 was invented for this element. It is built from 钅 — meaning it is a metal — plus 立, which supplies the sound “lì” and points to Livermore 利弗莫尔. One half tells you what it is, the other half tells you how to say it.",
+    "zhBuild": {
+      "radical": "钅",
+      "phonetic": "立",
+      "honors": "Livermore 利弗莫尔"
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [],
+      "all": [
+        -2,
+        2,
+        4
+      ]
+    },
+    "description": "Livermorium is named after the Lawrence Livermore National Laboratory in California, whose scientists worked with the Russian team at Dubna to create several new elements. It sits below polonium, and only a few dozen atoms have ever existed.",
+    "funFacts": [
+      "Livermorium came from a partnership between American and Russian laboratories.",
+      "It is named after the Lawrence Livermore laboratory in California.",
+      "Its atoms survive for only a few thousandths of a second.",
+      "It sits below polonium in the periodic table.",
+      "It was officially named in 2012."
+    ],
+    "compounds": [],
+    "compoundsNote": "No livermorium compounds are known. Its atoms exist for only milliseconds, making chemistry impossible with current techniques."
+  },
+  {
+    "atomicNumber": 117,
+    "symbol": "Ts",
+    "name": "Tennessine",
+    "nameZh": "鿬",
+    "pinyin": "tián",
+    "nameZhRareGlyph": true,
+    "category": "Unknown, probably halogen",
+    "group": 17,
+    "period": 7,
+    "block": "p",
+    "atomicMass": 294,
+    "stateAtRoomTemp": "solid (predicted)",
+    "discovered": {
+      "year": 2010,
+      "by": "Dubna, Oak Ridge and Livermore collaboration"
+    },
+    "nameMeaning": "After the state of Tennessee",
+    "zhRadical": {
+      "radical": "石",
+      "means": "solid nonmetal",
+      "note": "The 石 (stone) radical — this element is a solid nonmetal."
+    },
+    "zhCharacterNote": "鿬 was invented for this element. It is built from 石 — meaning it is a solid nonmetal — plus 田, which supplies the sound “tián” and points to Tennessee 田纳西. One half tells you what it is, the other half tells you how to say it.",
+    "zhBuild": {
+      "radical": "石",
+      "phonetic": "田",
+      "honors": "Tennessee 田纳西"
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [],
+      "all": [
+        -1,
+        1,
+        3,
+        5
+      ]
+    },
+    "description": "Tennessine was the last gap in the seventh row of the periodic table to be filled. Making it required a rare target of berkelium, produced in Tennessee and flown to Russia — the berkelium was decaying the whole time, so the experiment had a strict deadline.",
+    "funFacts": [
+      "Tennessine filled the very last empty space in row seven of the periodic table.",
+      "Its berkelium target had to be flown from Tennessee to Russia before it decayed.",
+      "It is named after the US state of Tennessee.",
+      "Only about twenty atoms have ever been made.",
+      "It sits below astatine, so it is technically a halogen — but may not act like one."
+    ],
+    "compounds": [],
+    "compoundsNote": "No tennessine compounds are known. Its atoms last only a few hundredths of a second, and fewer than two dozen have ever been made."
+  },
+  {
+    "atomicNumber": 118,
+    "symbol": "Og",
+    "name": "Oganesson",
+    "nameZh": "鿫",
+    "pinyin": "ào",
+    "nameZhRareGlyph": true,
+    "category": "Unknown, probably noble gas",
+    "group": 18,
+    "period": 7,
+    "block": "p",
+    "atomicMass": 294,
+    "stateAtRoomTemp": "solid (predicted)",
+    "discovered": {
+      "year": 2002,
+      "by": "Dubna and Livermore collaboration"
+    },
+    "nameMeaning": "After Yuri Oganessian, the superheavy element pioneer",
+    "zhRadical": {
+      "radical": "气",
+      "means": "gas",
+      "note": "The 气 (gas) radical — this element is a gas."
+    },
+    "zhCharacterNote": "鿫 was invented for this element. It is built from 气 — meaning it is a gas — plus 奥, which supplies the sound “ào” and points to Oganessian 奥加涅相. One half tells you what it is, the other half tells you how to say it.",
+    "zhBuild": {
+      "radical": "气",
+      "phonetic": "奥",
+      "honors": "Oganessian 奥加涅相"
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [],
+      "all": [
+        -1,
+        0,
+        1,
+        2,
+        4,
+        6
+      ]
+    },
+    "description": "Oganesson is the heaviest element known and closes the periodic table as we have it today. It sits in the noble gas column, but scientists think it would actually be a solid, not a gas, and might even be reactive — its huge, fast-moving electrons break the usual rules.",
+    "funFacts": [
+      "Oganesson is the heaviest element ever created, closing the periodic table.",
+      "Only about five atoms have ever been made, each lasting under a millisecond.",
+      "Despite sitting with the noble gases, it is predicted to be a solid, not a gas.",
+      "Yuri Oganessian is only the second living person to have an element named after him.",
+      "Its electrons move so fast that Einstein's relativity reshapes its chemistry."
+    ],
+    "compounds": [],
+    "compoundsNote": "No oganesson compounds are known or ever likely to be made with current technology. Only a few atoms have ever existed, each for less than a thousandth of a second. Theory predicts it would be far more reactive than the other noble gases."
+  }
+]

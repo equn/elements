@@ -1,0 +1,1982 @@
+[
+  {
+    "atomicNumber": 81,
+    "symbol": "Tl",
+    "name": "Thallium",
+    "nameZh": "铊",
+    "pinyin": "tā",
+    "category": "Post-transition metal",
+    "group": 13,
+    "period": 6,
+    "block": "p",
+    "atomicMass": 204.38,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1861,
+      "by": "William Crookes"
+    },
+    "nameMeaning": "From Greek thallos, 'green shoot', for its green spectral line",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 0.85,
+    "charges": {
+      "common": [
+        1,
+        3
+      ],
+      "all": [
+        -5,
+        -2,
+        -1,
+        1,
+        2,
+        3
+      ]
+    },
+    "description": "Thallium has a grim nickname: 'the poisoner's poison'. It has no taste, no smell, and its effects look like ordinary illness, so it featured in many famous crime stories. Handled safely, though, thallium helps doctors take pictures of the heart and lets night-vision lenses see in the dark.",
+    "funFacts": [
+      "Thallium is tasteless and odorless, which made it a notorious murder weapon in fiction and fact.",
+      "Agatha Christie used thallium in a novel so accurately that it later helped doctors save a child.",
+      "It was discovered by its bright green line in a spectroscope.",
+      "Thallium is so soft you can cut it with a knife and mark paper with it.",
+      "Doctors once used a thallium scan to check blood flow to the heart."
+    ],
+    "compounds": [
+      {
+        "formula": "Tl2SO4",
+        "name": "Thallium sulfate",
+        "nameZh": "硫酸铊",
+        "about": "Once sold as rat poison, now banned in most countries."
+      },
+      {
+        "formula": "TlBr-TlI",
+        "name": "KRS-5",
+        "nameZh": "溴碘化铊晶体",
+        "about": "A crystal used in infrared spectroscopy and night vision."
+      },
+      {
+        "formula": "Tl2O3",
+        "name": "Thallium oxide",
+        "nameZh": "氧化铊",
+        "about": "Used in special high-refraction glass."
+      },
+      {
+        "formula": "TlCl",
+        "name": "Thallium chloride",
+        "nameZh": "氯化铊",
+        "about": "A white solid used in chemistry and medical imaging."
+      },
+      {
+        "formula": "NaI(Tl)",
+        "name": "Thallium-doped sodium iodide",
+        "nameZh": "掺铊碘化钠",
+        "about": "The crystal that flashes when radiation passes through detectors."
+      },
+      {
+        "formula": "Tl2CO3",
+        "name": "Thallium carbonate",
+        "about": "Used to make artificial gemstones and glass."
+      },
+      {
+        "formula": "TlBaCaCuO",
+        "name": "Thallium superconductor",
+        "about": "One of the highest-temperature superconductors known."
+      },
+      {
+        "formula": "TlNO3",
+        "name": "Thallium nitrate",
+        "about": "Burns green in fireworks and flares."
+      },
+      {
+        "formula": "Tl2S",
+        "name": "Thallium sulfide",
+        "about": "Changes conductivity in infrared light; used in detectors."
+      },
+      {
+        "formula": "TlOH",
+        "name": "Thallium hydroxide",
+        "about": "A strong base used in laboratories."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 82,
+    "symbol": "Pb",
+    "name": "Lead",
+    "nameZh": "铅",
+    "pinyin": "qiān",
+    "category": "Post-transition metal",
+    "group": 14,
+    "period": 6,
+    "block": "p",
+    "atomicMass": 207.2,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": null,
+      "by": "Known since ancient times"
+    },
+    "nameMeaning": "From Old English lead; symbol Pb from Latin plumbum",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 14,
+    "charges": {
+      "common": [
+        2,
+        4
+      ],
+      "all": [
+        -4,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "description": "Lead is heavy, soft and easy to shape, so the Romans made water pipes out of it — the word 'plumber' comes from the Latin for lead. Sadly lead is poisonous, especially for children, so it has been removed from paint, gasoline and pipes. It is still the best shield against X-rays.",
+    "funFacts": [
+      "The word 'plumbing' comes from plumbum, the Latin name for lead.",
+      "Lead aprons at the dentist stop X-rays from reaching the rest of your body.",
+      "Removing lead from gasoline made the air in cities dramatically cleaner.",
+      "Pencil 'lead' contains no lead at all — it is graphite, a form of carbon.",
+      "Every car battery is built from lead plates soaking in acid."
+    ],
+    "compounds": [
+      {
+        "formula": "PbS",
+        "name": "Galena",
+        "nameZh": "方铅矿",
+        "about": "The shiny gray main ore of lead, often containing silver too."
+      },
+      {
+        "formula": "PbO2",
+        "name": "Lead dioxide",
+        "nameZh": "二氧化铅",
+        "about": "The positive plate inside every car battery."
+      },
+      {
+        "formula": "PbCrO4",
+        "name": "Lead chromate",
+        "nameZh": "铬酸铅",
+        "about": "'Chrome yellow' — the old school-bus and road-marking paint."
+      },
+      {
+        "formula": "PbSO4",
+        "name": "Lead sulfate",
+        "nameZh": "硫酸铅",
+        "about": "Forms on battery plates as they discharge."
+      },
+      {
+        "formula": "PbCO3",
+        "name": "Cerussite",
+        "nameZh": "白铅矿",
+        "about": "'White lead' — the old paint pigment now banned as toxic."
+      },
+      {
+        "formula": "Pb3O4",
+        "name": "Red lead",
+        "about": "A bright orange-red rust-proof paint primer."
+      },
+      {
+        "formula": "PbTe",
+        "name": "Lead telluride",
+        "about": "Turns heat into electricity in deep-space probes."
+      },
+      {
+        "formula": "PbO",
+        "name": "Litharge",
+        "about": "Used to make crystal glass sparkle."
+      },
+      {
+        "formula": "PbZrTiO3",
+        "name": "PZT",
+        "about": "Makes ultrasound scanners and sonar work by vibrating."
+      },
+      {
+        "formula": "Pb(N3)2",
+        "name": "Lead azide",
+        "about": "A sensitive explosive used in detonators."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 83,
+    "symbol": "Bi",
+    "name": "Bismuth",
+    "nameZh": "铋",
+    "pinyin": "bì",
+    "category": "Post-transition metal",
+    "group": 15,
+    "period": 6,
+    "block": "p",
+    "atomicMass": 208.98,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1753,
+      "by": "Claude François Geoffroy"
+    },
+    "nameMeaning": "From German Wismut, possibly 'white mass'",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 0.0085,
+    "charges": {
+      "common": [
+        3
+      ],
+      "all": [
+        -3,
+        -2,
+        -1,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "description": "Bismuth grows the most beautiful crystals in the whole periodic table: rainbow-colored stair-stepped staircases that look like something from a video game. It is a heavy metal that is remarkably safe — it is the pink medicine you take for an upset tummy.",
+    "funFacts": [
+      "Bismuth crystals form rainbow-colored spiral staircases you can grow at home.",
+      "It is the heaviest element that is safe enough to swallow as medicine.",
+      "Bismuth is technically radioactive, but its half-life is a billion times the age of the universe.",
+      "Like water and gallium, bismuth expands when it freezes.",
+      "It is the most strongly diamagnetic element — it is pushed away by magnets."
+    ],
+    "compounds": [
+      {
+        "formula": "C7H5BiO4",
+        "name": "Bismuth subsalicylate",
+        "nameZh": "次水杨酸铋",
+        "about": "The pink stomach medicine for indigestion."
+      },
+      {
+        "formula": "Bi2S3",
+        "name": "Bismuthinite",
+        "nameZh": "辉铋矿",
+        "about": "The main ore mineral of bismuth."
+      },
+      {
+        "formula": "Bi2O3",
+        "name": "Bismuth oxide",
+        "nameZh": "氧化铋",
+        "about": "Used in ceramics, glass and fireproofing."
+      },
+      {
+        "formula": "BiOCl",
+        "name": "Bismuth oxychloride",
+        "nameZh": "氯氧化铋",
+        "about": "The pearly shimmer in nail polish and make-up."
+      },
+      {
+        "formula": "Bi2Te3",
+        "name": "Bismuth telluride",
+        "nameZh": "碲化铋",
+        "about": "Powers small electric coolers and camping fridges."
+      },
+      {
+        "formula": "Bi(NO3)3",
+        "name": "Bismuth nitrate",
+        "about": "Used to make other bismuth compounds and pigments."
+      },
+      {
+        "formula": "BiVO4",
+        "name": "Bismuth vanadate",
+        "about": "A bright yellow pigment replacing toxic lead chrome."
+      },
+      {
+        "formula": "Bi2Sr2CaCu2O8",
+        "name": "BSCCO",
+        "about": "A high-temperature superconductor made into wire."
+      },
+      {
+        "formula": "Bi2(CO3)O2",
+        "name": "Bismuth subcarbonate",
+        "about": "Used in stomach medicines and cosmetics."
+      },
+      {
+        "formula": "Wood's metal",
+        "name": "Wood's metal",
+        "about": "A bismuth alloy that melts in hot water; used in fire sprinklers."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 84,
+    "symbol": "Po",
+    "name": "Polonium",
+    "nameZh": "钋",
+    "pinyin": "pō",
+    "category": "Metalloid",
+    "group": 16,
+    "period": 6,
+    "block": "p",
+    "atomicMass": 209,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1898,
+      "by": "Marie and Pierre Curie"
+    },
+    "nameMeaning": "After Poland, Marie Curie's homeland",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 2e-12,
+    "charges": {
+      "common": [
+        2,
+        4
+      ],
+      "all": [
+        -2,
+        2,
+        4,
+        5,
+        6
+      ]
+    },
+    "description": "Polonium was discovered by Marie Curie, who named it after Poland, the country she came from, to draw attention to its struggle for independence. It is intensely radioactive — a single gram gives off so much energy that it glows blue and heats itself to 500 °C.",
+    "funFacts": [
+      "Marie Curie named polonium after her homeland, Poland.",
+      "A gram of polonium gets hot enough to glow — it heats itself to about 500 °C.",
+      "Polonium is roughly 250,000 times more toxic than cyanide.",
+      "It powered the heaters that kept Soviet Moon rovers warm through the freezing lunar night.",
+      "It was the first element the Curies discovered, months before radium."
+    ],
+    "compounds": [
+      {
+        "formula": "PoO2",
+        "name": "Polonium dioxide",
+        "nameZh": "二氧化钋",
+        "about": "The most stable oxide, a pale yellow solid."
+      },
+      {
+        "formula": "PoCl2",
+        "name": "Polonium dichloride",
+        "nameZh": "二氯化钋",
+        "about": "A dark red solid studied in tiny amounts."
+      },
+      {
+        "formula": "PoCl4",
+        "name": "Polonium tetrachloride",
+        "nameZh": "四氯化钋",
+        "about": "A yellow solid used in polonium chemistry."
+      },
+      {
+        "formula": "PoH2",
+        "name": "Polonium hydride",
+        "nameZh": "氢化钋",
+        "about": "An unstable gas, the heaviest relative of water."
+      },
+      {
+        "formula": "PoBr2",
+        "name": "Polonium dibromide",
+        "nameZh": "二溴化钋",
+        "about": "A purple-brown solid made in trace amounts."
+      },
+      {
+        "formula": "PoO3",
+        "name": "Polonium trioxide",
+        "about": "A rare higher oxide of polonium."
+      },
+      {
+        "formula": "PoS",
+        "name": "Polonium sulfide",
+        "about": "A black solid that barely dissolves in water."
+      },
+      {
+        "formula": "Na2PoO3",
+        "name": "Sodium polonite",
+        "about": "A salt formed with strong alkali."
+      },
+      {
+        "formula": "PoF6",
+        "name": "Polonium hexafluoride",
+        "about": "A volatile compound predicted and briefly studied."
+      },
+      {
+        "formula": "PoPo",
+        "name": "Polonium metal",
+        "about": "The pure element, used as a heat source in spacecraft."
+      }
+    ],
+    "compoundsNote": "Polonium is so radioactive and rare that its compounds exist only in specialist laboratories, studied in microscopic quantities."
+  },
+  {
+    "atomicNumber": 85,
+    "symbol": "At",
+    "name": "Astatine",
+    "nameZh": "砹",
+    "pinyin": "ài",
+    "category": "Halogen",
+    "group": 17,
+    "period": 6,
+    "block": "p",
+    "atomicMass": 210,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1940,
+      "by": "Corson, MacKenzie and Segrè"
+    },
+    "nameMeaning": "From Greek astatos, 'unstable'",
+    "zhRadical": {
+      "radical": "石",
+      "means": "solid nonmetal",
+      "note": "The 石 (stone) radical — this element is a solid nonmetal."
+    },
+    "crustAbundancePpm": 3e-24,
+    "charges": {
+      "common": [
+        -1,
+        1
+      ],
+      "all": [
+        -1,
+        1,
+        3,
+        5,
+        7
+      ]
+    },
+    "description": "Astatine is the rarest naturally occurring element on Earth — scientists estimate that the entire planet's crust holds less than a teaspoonful at any moment. Nobody has ever seen a visible piece of it, because it is so radioactive it would vaporize itself from its own heat.",
+    "funFacts": [
+      "There is less than 30 grams of astatine in the whole Earth's crust at any time.",
+      "No one has ever seen astatine — a visible lump would boil away from its own radioactivity.",
+      "Its name means 'unstable', which is exactly right.",
+      "Astatine-211 is being tested as a precision cancer treatment.",
+      "It is the heaviest of the halogens, the family that includes chlorine and iodine."
+    ],
+    "compounds": [
+      {
+        "formula": "HAt",
+        "name": "Hydrogen astatide",
+        "nameZh": "砹化氢",
+        "about": "The astatine version of hydrochloric acid."
+      },
+      {
+        "formula": "NaAt",
+        "name": "Sodium astatide",
+        "nameZh": "砹化钠",
+        "about": "The salt form, like sodium chloride."
+      },
+      {
+        "formula": "AtI",
+        "name": "Astatine iodide",
+        "nameZh": "碘化砹",
+        "about": "A mixed halogen molecule detected in trace studies."
+      },
+      {
+        "formula": "AtBr",
+        "name": "Astatine bromide",
+        "nameZh": "溴化砹",
+        "about": "Another interhalogen studied in solution."
+      },
+      {
+        "formula": "AtCl",
+        "name": "Astatine chloride",
+        "nameZh": "氯化砹",
+        "about": "Formed when astatine meets chlorine."
+      },
+      {
+        "formula": "AtO−",
+        "name": "Astatite ion",
+        "about": "An oxidized form found in water solutions."
+      },
+      {
+        "formula": "AtO3−",
+        "name": "Astatate ion",
+        "about": "A higher oxidized form, like iodate."
+      },
+      {
+        "formula": "At2",
+        "name": "Diastatine",
+        "about": "The predicted pure molecule; never actually observed."
+      },
+      {
+        "formula": "At-211 MABG",
+        "name": "Astatine cancer agent",
+        "about": "An experimental molecule that carries astatine to tumours."
+      },
+      {
+        "formula": "CH3At",
+        "name": "Methyl astatide",
+        "about": "An organic astatine compound made in trace amounts."
+      }
+    ],
+    "compoundsNote": "Astatine is so rare and short-lived that its chemistry is worked out from a handful of atoms at a time — most of these compounds are known only from tracer experiments."
+  },
+  {
+    "atomicNumber": 86,
+    "symbol": "Rn",
+    "name": "Radon",
+    "nameZh": "氡",
+    "pinyin": "dōng",
+    "category": "Noble gas",
+    "group": 18,
+    "period": 6,
+    "block": "p",
+    "atomicMass": 222,
+    "stateAtRoomTemp": "gas",
+    "discovered": {
+      "year": 1900,
+      "by": "Friedrich Ernst Dorn"
+    },
+    "nameMeaning": "From radium, the element it comes from",
+    "zhRadical": {
+      "radical": "气",
+      "means": "gas",
+      "note": "The 气 (gas) radical — this element is a gas."
+    },
+    "crustAbundancePpm": 4e-19,
+    "charges": {
+      "common": [
+        0,
+        2
+      ],
+      "all": [
+        0,
+        2,
+        6
+      ]
+    },
+    "description": "Radon is a noble gas that is also radioactive. It seeps invisibly out of the ground from uranium in rocks and can build up inside houses, which is why many homes are tested for it. It is the heaviest gas on the periodic table.",
+    "funFacts": [
+      "Radon is the heaviest gas known — about eight times denser than air.",
+      "It leaks naturally out of soil and rock, and can collect in basements.",
+      "Radon is the second biggest cause of lung cancer after smoking, so homes are tested for it.",
+      "It glows a beautiful yellow-orange when cooled into a solid.",
+      "Radon is made continuously as uranium in the ground slowly decays."
+    ],
+    "compounds": [
+      {
+        "formula": "RnF2",
+        "name": "Radon difluoride",
+        "nameZh": "二氟化氡",
+        "about": "The one compound that has actually been made and observed."
+      }
+    ],
+    "compoundsNote": "Radon is a noble gas and intensely radioactive, so almost no chemistry has been done with it. Radon difluoride is essentially the only compound ever confirmed."
+  },
+  {
+    "atomicNumber": 87,
+    "symbol": "Fr",
+    "name": "Francium",
+    "nameZh": "钫",
+    "pinyin": "fāng",
+    "category": "Alkali metal",
+    "group": 1,
+    "period": 7,
+    "block": "s",
+    "atomicMass": 223,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1939,
+      "by": "Marguerite Perey"
+    },
+    "nameMeaning": "After France",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 1e-21,
+    "charges": {
+      "common": [
+        1
+      ],
+      "all": [
+        1
+      ]
+    },
+    "description": "Francium is the second rarest element in the Earth's crust — there may be only about 30 grams of it on the whole planet at any moment. It falls apart in about 22 minutes, so nobody has ever collected enough to see. It was the last element to be found in nature.",
+    "funFacts": [
+      "Francium was the last element ever discovered in nature, in 1939.",
+      "It was found by Marguerite Perey, who later became the first woman elected to the French Academy of Sciences.",
+      "A francium atom lasts only about 22 minutes before falling apart.",
+      "The largest amount ever gathered was about 300,000 atoms — far too few to see.",
+      "It would be the most reactive metal of all, if you could ever get enough to test."
+    ],
+    "compounds": [
+      {
+        "formula": "FrCl",
+        "name": "Francium chloride",
+        "nameZh": "氯化钫",
+        "about": "The salt form, studied with only a few thousand atoms."
+      },
+      {
+        "formula": "FrOH",
+        "name": "Francium hydroxide",
+        "nameZh": "氢氧化钫",
+        "about": "Predicted to be the strongest base of any element."
+      },
+      {
+        "formula": "Fr2CO3",
+        "name": "Francium carbonate",
+        "nameZh": "碳酸钫",
+        "about": "Detected in trace chemistry experiments."
+      },
+      {
+        "formula": "FrNO3",
+        "name": "Francium nitrate",
+        "nameZh": "硝酸钫",
+        "about": "A soluble salt inferred from tracer studies."
+      },
+      {
+        "formula": "Fr2SO4",
+        "name": "Francium sulfate",
+        "nameZh": "硫酸钫",
+        "about": "Studied by comparing it with cesium salts."
+      },
+      {
+        "formula": "FrClO4",
+        "name": "Francium perchlorate",
+        "about": "Used in trace experiments to separate francium."
+      },
+      {
+        "formula": "FrI",
+        "name": "Francium iodide",
+        "about": "Predicted from the pattern of the other alkali metals."
+      },
+      {
+        "formula": "FrF",
+        "name": "Francium fluoride",
+        "about": "The fluoride salt, known only by prediction."
+      },
+      {
+        "formula": "FrO2",
+        "name": "Francium superoxide",
+        "about": "Expected to form when francium meets oxygen."
+      },
+      {
+        "formula": "FrH",
+        "name": "Francium hydride",
+        "about": "A predicted compound with hydrogen."
+      }
+    ],
+    "compoundsNote": "Francium exists only as a handful of atoms at a time, so its compounds are mostly predicted from the behavior of cesium rather than made in a bottle."
+  },
+  {
+    "atomicNumber": 88,
+    "symbol": "Ra",
+    "name": "Radium",
+    "nameZh": "镭",
+    "pinyin": "léi",
+    "category": "Alkaline earth metal",
+    "group": 2,
+    "period": 7,
+    "block": "s",
+    "atomicMass": 226,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1898,
+      "by": "Marie and Pierre Curie"
+    },
+    "nameMeaning": "From Latin radius, 'ray'",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 9e-07,
+    "charges": {
+      "common": [
+        2
+      ],
+      "all": [
+        2
+      ]
+    },
+    "description": "Radium glows in the dark with an eerie blue-green light, and when Marie Curie discovered it people thought it was magical. It was put in toothpaste, chocolate and glowing watch dials — until it became tragically clear how dangerous its radiation really is.",
+    "funFacts": [
+      "Marie Curie processed tons of ore by hand to extract a tiny speck of radium.",
+      "Radium glows blue-green in the dark all by itself.",
+      "Marie Curie's notebooks are still radioactive and are kept in lead boxes.",
+      "The 'Radium Girls' who painted watch dials became terribly ill, changing worker safety laws forever.",
+      "Radium was once added to toothpaste and face cream as a health fad."
+    ],
+    "compounds": [
+      {
+        "formula": "RaCl2",
+        "name": "Radium chloride",
+        "nameZh": "氯化镭",
+        "about": "The first radium compound Marie Curie purified."
+      },
+      {
+        "formula": "RaBr2",
+        "name": "Radium bromide",
+        "nameZh": "溴化镭",
+        "about": "Glows so brightly it lit up the Curies' laboratory at night."
+      },
+      {
+        "formula": "RaSO4",
+        "name": "Radium sulfate",
+        "nameZh": "硫酸镭",
+        "about": "One of the least soluble sulfates known."
+      },
+      {
+        "formula": "RaCO3",
+        "name": "Radium carbonate",
+        "nameZh": "碳酸镭",
+        "about": "Formed when radium salts meet carbonate."
+      },
+      {
+        "formula": "Ra(NO3)2",
+        "name": "Radium nitrate",
+        "nameZh": "硝酸镭",
+        "about": "Used in early radium purification."
+      },
+      {
+        "formula": "RaO",
+        "name": "Radium oxide",
+        "about": "Formed when radium metal meets air."
+      },
+      {
+        "formula": "Ra-223 dichloride",
+        "name": "Radium-223 therapy",
+        "about": "A modern medicine that targets cancer that has spread to bone."
+      },
+      {
+        "formula": "RaF2",
+        "name": "Radium fluoride",
+        "about": "An insoluble salt studied in the laboratory."
+      },
+      {
+        "formula": "Ra(OH)2",
+        "name": "Radium hydroxide",
+        "about": "The most soluble hydroxide of its family."
+      },
+      {
+        "formula": "RaS",
+        "name": "Radium sulfide",
+        "about": "A compound studied in early radiochemistry."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 89,
+    "symbol": "Ac",
+    "name": "Actinium",
+    "nameZh": "锕",
+    "pinyin": "ā",
+    "category": "Actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "atomicMass": 227,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1899,
+      "by": "André-Louis Debierne"
+    },
+    "nameMeaning": "From Greek aktis, 'ray'",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 5.5e-10,
+    "charges": {
+      "common": [
+        3
+      ],
+      "all": [
+        2,
+        3
+      ]
+    },
+    "description": "Actinium gives its name to the actinides, the bottom row of the periodic table. It is intensely radioactive — about 150 times more so than radium — and glows an eerie pale blue in the dark. Today it is being used to build very precise cancer treatments.",
+    "funFacts": [
+      "Actinium glows pale blue in the dark from its own radioactivity.",
+      "It is around 150 times more radioactive than radium.",
+      "The entire actinide row of the periodic table is named after it.",
+      "Actinium-225 is used in targeted therapy that destroys cancer cells one at a time.",
+      "There is only a tiny fraction of a gram in the Earth's crust at any moment."
+    ],
+    "compounds": [
+      {
+        "formula": "Ac2O3",
+        "name": "Actinium oxide",
+        "nameZh": "氧化锕",
+        "about": "The most stable common form of actinium."
+      },
+      {
+        "formula": "AcCl3",
+        "name": "Actinium chloride",
+        "nameZh": "氯化锕",
+        "about": "A white solid used in radiochemistry."
+      },
+      {
+        "formula": "AcF3",
+        "name": "Actinium fluoride",
+        "nameZh": "氟化锕",
+        "about": "An insoluble salt used in purification."
+      },
+      {
+        "formula": "AcBr3",
+        "name": "Actinium bromide",
+        "nameZh": "溴化锕",
+        "about": "A white solid studied by chemists."
+      },
+      {
+        "formula": "Ac(NO3)3",
+        "name": "Actinium nitrate",
+        "nameZh": "硝酸锕",
+        "about": "A soluble salt used in separations."
+      },
+      {
+        "formula": "Ac2(C2O4)3",
+        "name": "Actinium oxalate",
+        "about": "Used to precipitate actinium out of solution."
+      },
+      {
+        "formula": "AcPO4",
+        "name": "Actinium phosphate",
+        "about": "An insoluble compound studied in the laboratory."
+      },
+      {
+        "formula": "AcH2",
+        "name": "Actinium hydride",
+        "about": "Formed when actinium reacts with hydrogen."
+      },
+      {
+        "formula": "AcOCl",
+        "name": "Actinium oxychloride",
+        "about": "Formed when the chloride meets moisture."
+      },
+      {
+        "formula": "Ac-225 conjugates",
+        "name": "Actinium-225 therapy",
+        "about": "Attached to antibodies that hunt down cancer cells."
+      }
+    ],
+    "compoundsNote": "Actinium is extremely rare and radioactive; its compounds are made only in tiny research quantities."
+  },
+  {
+    "atomicNumber": 90,
+    "symbol": "Th",
+    "name": "Thorium",
+    "nameZh": "钍",
+    "pinyin": "tǔ",
+    "category": "Actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "atomicMass": 232.04,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1829,
+      "by": "Jöns Jacob Berzelius"
+    },
+    "nameMeaning": "After Thor, the Norse god of thunder",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 9.6,
+    "charges": {
+      "common": [
+        4
+      ],
+      "all": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "description": "Thorium is named after Thor, the Norse god of thunder. It is radioactive but only very weakly, and it is three times more common than uranium. Many scientists think thorium could one day fuel a safer kind of nuclear reactor that makes far less long-lived waste.",
+    "funFacts": [
+      "Thorium is named after Thor, the hammer-wielding Norse thunder god.",
+      "It is about three times more abundant in the Earth's crust than uranium.",
+      "Old camping lantern mantles glowed brilliantly thanks to thorium.",
+      "Thorium reactors are being researched as a safer future power source.",
+      "Its half-life is 14 billion years — longer than the age of the universe."
+    ],
+    "compounds": [
+      {
+        "formula": "ThO2",
+        "name": "Thorium dioxide",
+        "nameZh": "二氧化钍",
+        "about": "Has one of the highest melting points of any oxide, 3,300 °C."
+      },
+      {
+        "formula": "ThSiO4",
+        "name": "Thorite",
+        "nameZh": "钍石",
+        "about": "A thorium ore mineral."
+      },
+      {
+        "formula": "(Ce,Th)PO4",
+        "name": "Monazite",
+        "nameZh": "独居石",
+        "about": "The main source of thorium, mined from beach sands."
+      },
+      {
+        "formula": "ThF4",
+        "name": "Thorium fluoride",
+        "nameZh": "氟化钍",
+        "about": "Used in optical coatings for infrared lenses."
+      },
+      {
+        "formula": "ThCl4",
+        "name": "Thorium chloride",
+        "nameZh": "氯化钍",
+        "about": "Used to make thorium metal."
+      },
+      {
+        "formula": "Th(NO3)4",
+        "name": "Thorium nitrate",
+        "about": "Used to make the glowing mantles in old gas lamps."
+      },
+      {
+        "formula": "ThC2",
+        "name": "Thorium carbide",
+        "about": "Studied as a nuclear fuel material."
+      },
+      {
+        "formula": "ThN",
+        "name": "Thorium nitride",
+        "about": "A hard, heat-resistant nuclear material."
+      },
+      {
+        "formula": "ThB6",
+        "name": "Thorium hexaboride",
+        "about": "A very hard, high-melting compound."
+      },
+      {
+        "formula": "Th(SO4)2",
+        "name": "Thorium sulfate",
+        "about": "A soluble salt used in laboratory separations."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 91,
+    "symbol": "Pa",
+    "name": "Protactinium",
+    "nameZh": "镤",
+    "pinyin": "pú",
+    "category": "Actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "atomicMass": 231.04,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1913,
+      "by": "Kasimir Fajans and Oswald Göhring"
+    },
+    "nameMeaning": "From Greek protos + actinium, 'before actinium'",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 1.4e-06,
+    "charges": {
+      "common": [
+        5
+      ],
+      "all": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "description": "Protactinium's name means 'before actinium', because when it decays it turns into actinium. It is one of the rarest and most expensive natural elements — extracting just over 100 grams once took 60 tons of nuclear waste and years of work.",
+    "funFacts": [
+      "Protactinium means 'parent of actinium', because it decays into it.",
+      "One famous extraction produced 125 grams from 60 tons of waste.",
+      "It is one of the most expensive naturally occurring materials on Earth.",
+      "Scientists use protactinium in ocean sediments to study ancient climate.",
+      "It is silvery and shiny when fresh, but tarnishes in air."
+    ],
+    "compounds": [
+      {
+        "formula": "Pa2O5",
+        "name": "Protactinium pentoxide",
+        "nameZh": "五氧化二镤",
+        "about": "The most stable oxide, a white solid."
+      },
+      {
+        "formula": "PaCl5",
+        "name": "Protactinium pentachloride",
+        "nameZh": "五氯化镤",
+        "about": "A yellow solid used to make the metal."
+      },
+      {
+        "formula": "PaF5",
+        "name": "Protactinium pentafluoride",
+        "nameZh": "五氟化镤",
+        "about": "A white solid studied in radiochemistry."
+      },
+      {
+        "formula": "PaO2",
+        "name": "Protactinium dioxide",
+        "nameZh": "二氧化镤",
+        "about": "A black solid formed by reduction."
+      },
+      {
+        "formula": "PaBr5",
+        "name": "Protactinium pentabromide",
+        "nameZh": "五溴化镤",
+        "about": "A red solid made in tiny amounts."
+      },
+      {
+        "formula": "PaCl4",
+        "name": "Protactinium tetrachloride",
+        "about": "A green-yellow solid of the +4 state."
+      },
+      {
+        "formula": "PaOCl3",
+        "name": "Protactinium oxychloride",
+        "about": "Formed when the chloride meets oxygen."
+      },
+      {
+        "formula": "Pa(OH)5",
+        "name": "Protactinium hydroxide",
+        "about": "A gelatinous solid that sticks to glassware."
+      },
+      {
+        "formula": "PaI5",
+        "name": "Protactinium pentaiodide",
+        "about": "Used to purify protactinium metal."
+      },
+      {
+        "formula": "PaN",
+        "name": "Protactinium nitride",
+        "about": "A compound studied by nuclear chemists."
+      }
+    ],
+    "compoundsNote": "Protactinium is extraordinarily rare and radioactive, so all of these are laboratory-scale research compounds."
+  },
+  {
+    "atomicNumber": 92,
+    "symbol": "U",
+    "name": "Uranium",
+    "nameZh": "铀",
+    "pinyin": "yóu",
+    "category": "Actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "atomicMass": 238.03,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1789,
+      "by": "Martin Heinrich Klaproth"
+    },
+    "nameMeaning": "After the planet Uranus",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 2.7,
+    "charges": {
+      "common": [
+        6
+      ],
+      "all": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "description": "Uranium is the heaviest element found in useful amounts in nature, and its atoms can be split to release enormous energy. That single fact gave the world nuclear power stations and, darkly, nuclear weapons. Uranium's slow decay is also what keeps the Earth's insides warm.",
+    "funFacts": [
+      "Splitting one kilogram of uranium releases as much energy as burning 3,000 tons of coal.",
+      "Uranium's radioactive decay helps keep the Earth's core hot and its volcanoes active.",
+      "Antique 'Vaseline glass' contains uranium and glows bright green under UV light.",
+      "Uranium was named after the planet Uranus, discovered eight years earlier.",
+      "Geologists date the oldest rocks on Earth by measuring uranium decay."
+    ],
+    "compounds": [
+      {
+        "formula": "UO2",
+        "name": "Uranium dioxide",
+        "nameZh": "二氧化铀",
+        "about": "The black ceramic pellets that fuel nuclear power stations."
+      },
+      {
+        "formula": "UO2(NO3)2",
+        "name": "Uranyl nitrate",
+        "nameZh": "硝酸铀酰",
+        "about": "A yellow salt used in processing nuclear fuel."
+      },
+      {
+        "formula": "UF6",
+        "name": "Uranium hexafluoride",
+        "nameZh": "六氟化铀",
+        "about": "The gas used to separate uranium types for fuel."
+      },
+      {
+        "formula": "UO2·U3O8",
+        "name": "Pitchblende",
+        "nameZh": "沥青铀矿",
+        "about": "The dark ore from which the Curies found radium."
+      },
+      {
+        "formula": "U3O8",
+        "name": "Triuranium octoxide",
+        "nameZh": "八氧化三铀",
+        "about": "'Yellowcake' — the form uranium is traded in."
+      },
+      {
+        "formula": "K2(UO2)2(VO4)2",
+        "name": "Carnotite",
+        "about": "A bright yellow uranium ore mineral."
+      },
+      {
+        "formula": "UC",
+        "name": "Uranium carbide",
+        "about": "An advanced nuclear fuel material."
+      },
+      {
+        "formula": "UN",
+        "name": "Uranium nitride",
+        "about": "A dense fuel studied for future reactors."
+      },
+      {
+        "formula": "UF4",
+        "name": "Uranium tetrafluoride",
+        "about": "'Green salt' — a step in making reactor fuel."
+      },
+      {
+        "formula": "Uranium glass",
+        "name": "Uranium glass",
+        "about": "Antique glassware that fluoresces bright green under UV."
+      }
+    ]
+  },
+  {
+    "atomicNumber": 93,
+    "symbol": "Np",
+    "name": "Neptunium",
+    "nameZh": "镎",
+    "pinyin": "ná",
+    "category": "Actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "atomicMass": 237,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1940,
+      "by": "Edwin McMillan and Philip Abelson"
+    },
+    "nameMeaning": "After the planet Neptune, next after Uranus",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 3e-15,
+    "charges": {
+      "common": [
+        5
+      ],
+      "all": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "description": "Neptunium was the first element ever made that sits beyond uranium on the periodic table, opening a whole new frontier. It was named after Neptune because that planet comes after Uranus, just as neptunium comes after uranium.",
+    "funFacts": [
+      "Neptunium was the first man-made element heavier than uranium.",
+      "The naming follows the planets: uranium, neptunium, then plutonium.",
+      "Tiny traces occur naturally in uranium ore.",
+      "Neptunium is used in detectors that sense high-energy neutrons.",
+      "Its discovery earned Edwin McMillan a share of the Nobel Prize in Chemistry."
+    ],
+    "compounds": [
+      {
+        "formula": "NpO2",
+        "name": "Neptunium dioxide",
+        "nameZh": "二氧化镎",
+        "about": "The most stable form, a green-brown solid."
+      },
+      {
+        "formula": "NpF6",
+        "name": "Neptunium hexafluoride",
+        "nameZh": "六氟化镎",
+        "about": "An orange solid that turns to gas easily."
+      },
+      {
+        "formula": "NpF4",
+        "name": "Neptunium tetrafluoride",
+        "nameZh": "四氟化镎",
+        "about": "A green solid used to make the metal."
+      },
+      {
+        "formula": "NpCl4",
+        "name": "Neptunium tetrachloride",
+        "nameZh": "四氯化镎",
+        "about": "A red-brown solid studied by chemists."
+      },
+      {
+        "formula": "NpO2(NO3)2",
+        "name": "Neptunyl nitrate",
+        "nameZh": "硝酸镎酰",
+        "about": "A soluble salt used in reprocessing."
+      },
+      {
+        "formula": "Np2O5",
+        "name": "Neptunium pentoxide",
+        "about": "A dark brown oxide of the +5 state."
+      },
+      {
+        "formula": "NpN",
+        "name": "Neptunium nitride",
+        "about": "Studied as an advanced nuclear fuel."
+      },
+      {
+        "formula": "NpC",
+        "name": "Neptunium carbide",
+        "about": "A research material for reactor fuel."
+      },
+      {
+        "formula": "NpBr3",
+        "name": "Neptunium tribromide",
+        "about": "A green solid made in small amounts."
+      },
+      {
+        "formula": "NpO2OH",
+        "name": "Neptunyl hydroxide",
+        "about": "Important in studies of nuclear waste in groundwater."
+      }
+    ],
+    "compoundsNote": "Neptunium is a synthetic radioactive element; all its compounds are made and handled only in specialized nuclear laboratories."
+  },
+  {
+    "atomicNumber": 94,
+    "symbol": "Pu",
+    "name": "Plutonium",
+    "nameZh": "钚",
+    "pinyin": "bù",
+    "category": "Actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "atomicMass": 244,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1940,
+      "by": "Glenn Seaborg and colleagues"
+    },
+    "nameMeaning": "After the dwarf planet Pluto",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 3e-16,
+    "charges": {
+      "common": [
+        4
+      ],
+      "all": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "description": "Plutonium is one of the strangest metals ever studied — it comes in seven different forms, changes size dramatically when heated, and is warm to the touch from its own radioactivity. It fuels nuclear weapons, but it also powers spacecraft that travel beyond the reach of sunlight.",
+    "funFacts": [
+      "A lump of plutonium is warm to the touch because of its own radioactivity.",
+      "Plutonium exists in seven different crystal forms — more than any other element.",
+      "The Voyager probes, now beyond our solar system, still run on plutonium after 45 years.",
+      "The Mars rovers Curiosity and Perseverance are powered by plutonium.",
+      "It is named after Pluto, continuing the planet naming sequence after neptunium."
+    ],
+    "compounds": [
+      {
+        "formula": "PuO2",
+        "name": "Plutonium dioxide",
+        "nameZh": "二氧化钚",
+        "about": "The fuel form used in reactors and space power sources."
+      },
+      {
+        "formula": "PuF6",
+        "name": "Plutonium hexafluoride",
+        "nameZh": "六氟化钚",
+        "about": "A red-brown volatile solid used in processing."
+      },
+      {
+        "formula": "PuF4",
+        "name": "Plutonium tetrafluoride",
+        "nameZh": "四氟化钚",
+        "about": "A brown solid used to make plutonium metal."
+      },
+      {
+        "formula": "PuCl3",
+        "name": "Plutonium trichloride",
+        "nameZh": "三氯化钚",
+        "about": "A green solid used in molten salt research."
+      },
+      {
+        "formula": "PuN",
+        "name": "Plutonium nitride",
+        "nameZh": "氮化钚",
+        "about": "Studied as a dense advanced reactor fuel."
+      },
+      {
+        "formula": "PuC",
+        "name": "Plutonium carbide",
+        "about": "An experimental fast reactor fuel."
+      },
+      {
+        "formula": "Pu(NO3)4",
+        "name": "Plutonium nitrate",
+        "about": "The soluble form used in fuel reprocessing."
+      },
+      {
+        "formula": "MOX",
+        "name": "Mixed oxide fuel",
+        "about": "Plutonium and uranium oxides blended into reactor fuel."
+      },
+      {
+        "formula": "Pu2O3",
+        "name": "Plutonium sesquioxide",
+        "about": "A black oxide of the +3 state."
+      },
+      {
+        "formula": "PuH2",
+        "name": "Plutonium hydride",
+        "about": "Forms when plutonium metal meets hydrogen."
+      }
+    ],
+    "compoundsNote": "Plutonium is synthetic, radioactive and strictly controlled; all its chemistry happens inside secure nuclear facilities."
+  },
+  {
+    "atomicNumber": 95,
+    "symbol": "Am",
+    "name": "Americium",
+    "nameZh": "镅",
+    "pinyin": "méi",
+    "category": "Actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "atomicMass": 243,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1944,
+      "by": "Glenn Seaborg and colleagues"
+    },
+    "nameMeaning": "After the Americas",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [
+        3
+      ],
+      "all": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "description": "Americium is the only synthetic element most people actually own — there is a speck of it inside many household smoke detectors, where its radiation senses smoke in the air. It was created during World War II and kept secret until after the war ended.",
+    "funFacts": [
+      "There is a tiny amount of americium in many home smoke alarms.",
+      "It was discovered in 1944 but kept secret until 1945.",
+      "Its discovery was first announced to the public on a children's radio quiz show.",
+      "Americium is named after the Americas, matching europium in the row above.",
+      "The smoke alarm amount is so small and well shielded that it is completely safe."
+    ],
+    "compounds": [
+      {
+        "formula": "AmO2",
+        "name": "Americium dioxide",
+        "nameZh": "二氧化镅",
+        "about": "The exact form used inside smoke detectors."
+      },
+      {
+        "formula": "AmCl3",
+        "name": "Americium trichloride",
+        "nameZh": "三氯化镅",
+        "about": "A pink solid used in laboratory chemistry."
+      },
+      {
+        "formula": "AmF3",
+        "name": "Americium trifluoride",
+        "nameZh": "三氟化镅",
+        "about": "A pink solid used to make the metal."
+      },
+      {
+        "formula": "Am2O3",
+        "name": "Americium sesquioxide",
+        "nameZh": "三氧化二镅",
+        "about": "A red-brown oxide of the +3 state."
+      },
+      {
+        "formula": "AmF4",
+        "name": "Americium tetrafluoride",
+        "nameZh": "四氟化镅",
+        "about": "A tan solid of the higher +4 state."
+      },
+      {
+        "formula": "AmBr3",
+        "name": "Americium tribromide",
+        "about": "A white-yellow solid made in small amounts."
+      },
+      {
+        "formula": "Am(NO3)3",
+        "name": "Americium nitrate",
+        "about": "A soluble salt used in separations."
+      },
+      {
+        "formula": "AmO2+",
+        "name": "Americyl ion",
+        "about": "An oxidized form important in nuclear waste studies."
+      },
+      {
+        "formula": "AmI3",
+        "name": "Americium triiodide",
+        "about": "A yellow solid studied by radiochemists."
+      },
+      {
+        "formula": "AmH2",
+        "name": "Americium hydride",
+        "about": "Formed when americium metal meets hydrogen."
+      }
+    ],
+    "compoundsNote": "Americium is entirely synthetic and radioactive; apart from the sealed source in smoke alarms, its compounds exist only in research laboratories."
+  },
+  {
+    "atomicNumber": 96,
+    "symbol": "Cm",
+    "name": "Curium",
+    "nameZh": "锔",
+    "pinyin": "jū",
+    "category": "Actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "atomicMass": 247,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1944,
+      "by": "Glenn Seaborg and colleagues"
+    },
+    "nameMeaning": "After Marie and Pierre Curie",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [
+        3
+      ],
+      "all": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        8
+      ]
+    },
+    "description": "Curium honors Marie and Pierre Curie, the couple who pioneered the study of radioactivity. It glows purple in the dark and gives off so much heat that it can make itself red hot. Mars rovers carry curium to fire X-rays at rocks and work out what they are made of.",
+    "funFacts": [
+      "Curium glows a beautiful purple-red in the dark.",
+      "It is so radioactive it heats itself and can glow red hot.",
+      "Mars rovers use curium to analyze the chemistry of Martian rocks.",
+      "It is named after Marie and Pierre Curie, who discovered radium and polonium.",
+      "Curium was actually discovered before americium, but announced afterwards."
+    ],
+    "compounds": [
+      {
+        "formula": "Cm2O3",
+        "name": "Curium sesquioxide",
+        "nameZh": "三氧化二锔",
+        "about": "The most common oxide, a white glowing solid."
+      },
+      {
+        "formula": "CmO2",
+        "name": "Curium dioxide",
+        "nameZh": "二氧化锔",
+        "about": "A black solid of the +4 state."
+      },
+      {
+        "formula": "CmCl3",
+        "name": "Curium trichloride",
+        "nameZh": "三氯化锔",
+        "about": "A pale green solid used in research."
+      },
+      {
+        "formula": "CmF3",
+        "name": "Curium trifluoride",
+        "nameZh": "三氟化锔",
+        "about": "A white solid used to make curium metal."
+      },
+      {
+        "formula": "CmF4",
+        "name": "Curium tetrafluoride",
+        "nameZh": "四氟化锔",
+        "about": "A tan solid of the higher oxidation state."
+      },
+      {
+        "formula": "CmBr3",
+        "name": "Curium tribromide",
+        "about": "A colorless solid studied by chemists."
+      },
+      {
+        "formula": "CmI3",
+        "name": "Curium triiodide",
+        "about": "A colorless solid made in tiny amounts."
+      },
+      {
+        "formula": "Cm(NO3)3",
+        "name": "Curium nitrate",
+        "about": "A soluble salt used in separations."
+      },
+      {
+        "formula": "CmPO4",
+        "name": "Curium phosphate",
+        "about": "Studied for locking away nuclear waste safely."
+      },
+      {
+        "formula": "Cm-244 source",
+        "name": "Curium-244 source",
+        "about": "The X-ray source carried aboard Mars rovers."
+      }
+    ],
+    "compoundsNote": "Curium is synthetic and intensely radioactive, so its compounds are made only in specialized laboratories."
+  },
+  {
+    "atomicNumber": 97,
+    "symbol": "Bk",
+    "name": "Berkelium",
+    "nameZh": "锫",
+    "pinyin": "péi",
+    "category": "Actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "atomicMass": 247,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1949,
+      "by": "Thompson, Ghiorso and Seaborg"
+    },
+    "nameMeaning": "After Berkeley, California",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [
+        3
+      ],
+      "all": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "description": "Berkelium is named after the town of Berkeley in California, where the laboratory that discovered a whole string of new elements was based. Only a few grams have ever been made, and it played a starring role in creating element 117, tennessine.",
+    "funFacts": [
+      "Berkelium is named after Berkeley, California, home of the lab that found many new elements.",
+      "Less than a few grams have ever been produced in total.",
+      "Making 22 milligrams of it once took 250 days inside a reactor.",
+      "Berkelium was the target used to create tennessine, element 117.",
+      "It is one of the most expensive substances on Earth to produce."
+    ],
+    "compounds": [
+      {
+        "formula": "BkO2",
+        "name": "Berkelium dioxide",
+        "nameZh": "二氧化锫",
+        "about": "A brown solid of the +4 state."
+      },
+      {
+        "formula": "Bk2O3",
+        "name": "Berkelium sesquioxide",
+        "nameZh": "三氧化二锫",
+        "about": "A yellow-green solid of the +3 state."
+      },
+      {
+        "formula": "BkCl3",
+        "name": "Berkelium trichloride",
+        "nameZh": "三氯化锫",
+        "about": "A green solid used in research."
+      },
+      {
+        "formula": "BkF3",
+        "name": "Berkelium trifluoride",
+        "nameZh": "三氟化锫",
+        "about": "A yellow-green solid used to make the metal."
+      },
+      {
+        "formula": "BkF4",
+        "name": "Berkelium tetrafluoride",
+        "nameZh": "四氟化锫",
+        "about": "A yellow solid of the +4 state."
+      },
+      {
+        "formula": "BkBr3",
+        "name": "Berkelium tribromide",
+        "about": "A yellow-green solid made in trace amounts."
+      },
+      {
+        "formula": "BkI3",
+        "name": "Berkelium triiodide",
+        "about": "A yellow solid studied by radiochemists."
+      },
+      {
+        "formula": "Bk(NO3)3",
+        "name": "Berkelium nitrate",
+        "about": "A soluble salt used in separations."
+      },
+      {
+        "formula": "BkOCl",
+        "name": "Berkelium oxychloride",
+        "about": "Formed when the chloride meets oxygen."
+      },
+      {
+        "formula": "BkPO4",
+        "name": "Berkelium phosphate",
+        "about": "An insoluble compound studied in the laboratory."
+      }
+    ],
+    "compoundsNote": "Berkelium exists only in microgram to milligram amounts; all its compounds are research curiosities."
+  },
+  {
+    "atomicNumber": 98,
+    "symbol": "Cf",
+    "name": "Californium",
+    "nameZh": "锎",
+    "pinyin": "kāi",
+    "category": "Actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "atomicMass": 251,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1950,
+      "by": "Thompson, Street, Ghiorso and Seaborg"
+    },
+    "nameMeaning": "After the state of California",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [
+        3
+      ],
+      "all": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "description": "Californium is a neutron machine: a single microgram fires out 170 million neutrons every minute. That makes it genuinely useful — it starts up nuclear reactors, finds gold and oil underground, and scans luggage and cargo for hidden explosives.",
+    "funFacts": [
+      "One microgram of californium releases about 170 million neutrons per minute.",
+      "It is one of the most expensive materials on Earth, worth millions per gram.",
+      "Californium neutron sources help find gold and oil deep underground.",
+      "Only about half a gram is made worldwide each year.",
+      "It is used to start up nuclear reactors, like a spark plug for an engine."
+    ],
+    "compounds": [
+      {
+        "formula": "Cf2O3",
+        "name": "Californium sesquioxide",
+        "nameZh": "三氧化二锎",
+        "about": "A yellow-green solid of the +3 state."
+      },
+      {
+        "formula": "CfO2",
+        "name": "Californium dioxide",
+        "nameZh": "二氧化锎",
+        "about": "A black solid of the +4 state."
+      },
+      {
+        "formula": "CfCl3",
+        "name": "Californium trichloride",
+        "nameZh": "三氯化锎",
+        "about": "A green solid used in research."
+      },
+      {
+        "formula": "CfF3",
+        "name": "Californium trifluoride",
+        "nameZh": "三氟化锎",
+        "about": "A bright green solid used to make the metal."
+      },
+      {
+        "formula": "CfBr3",
+        "name": "Californium tribromide",
+        "nameZh": "三溴化锎",
+        "about": "A yellow-green solid made in trace amounts."
+      },
+      {
+        "formula": "CfI3",
+        "name": "Californium triiodide",
+        "about": "A lemon-yellow solid studied by chemists."
+      },
+      {
+        "formula": "CfOCl",
+        "name": "Californium oxychloride",
+        "about": "Formed when the chloride meets oxygen."
+      },
+      {
+        "formula": "Cf(NO3)3",
+        "name": "Californium nitrate",
+        "about": "A soluble salt used in separations."
+      },
+      {
+        "formula": "CfF4",
+        "name": "Californium tetrafluoride",
+        "about": "A compound of the higher oxidation state."
+      },
+      {
+        "formula": "Cf-252 source",
+        "name": "Californium-252 source",
+        "about": "The sealed neutron source used in industry and medicine."
+      }
+    ],
+    "compoundsNote": "Californium is synthetic and made in tiny quantities; its compounds are studied in a handful of laboratories worldwide."
+  },
+  {
+    "atomicNumber": 99,
+    "symbol": "Es",
+    "name": "Einsteinium",
+    "nameZh": "锿",
+    "pinyin": "āi",
+    "category": "Actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "atomicMass": 252,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1952,
+      "by": "Albert Ghiorso and colleagues"
+    },
+    "nameMeaning": "After Albert Einstein",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [
+        3
+      ],
+      "all": [
+        2,
+        3,
+        4
+      ]
+    },
+    "description": "Einsteinium was found in a very surprising place: the fallout from the first hydrogen bomb test in 1952. Scientists flew planes through the cloud on filter paper and discovered two brand new elements. It is named after Albert Einstein, and it glows blue in the dark.",
+    "funFacts": [
+      "Einsteinium was first found in the debris of a hydrogen bomb test.",
+      "It glows blue in the dark from its own intense radioactivity.",
+      "The discovery was kept secret for several years for military reasons.",
+      "Only a few milligrams have ever been made at once.",
+      "In 2021 scientists finally measured its basic chemistry for the first time."
+    ],
+    "compounds": [
+      {
+        "formula": "Es2O3",
+        "name": "Einsteinium sesquioxide",
+        "nameZh": "三氧化二锿",
+        "about": "A colorless solid, the main oxide."
+      },
+      {
+        "formula": "EsCl3",
+        "name": "Einsteinium trichloride",
+        "nameZh": "三氯化锿",
+        "about": "An orange solid that glows in the dark."
+      },
+      {
+        "formula": "EsF3",
+        "name": "Einsteinium trifluoride",
+        "nameZh": "三氟化锿",
+        "about": "Used to prepare einsteinium metal."
+      },
+      {
+        "formula": "EsBr3",
+        "name": "Einsteinium tribromide",
+        "nameZh": "三溴化锿",
+        "about": "A straw-yellow solid made in trace amounts."
+      },
+      {
+        "formula": "EsI3",
+        "name": "Einsteinium triiodide",
+        "nameZh": "三碘化锿",
+        "about": "An amber solid studied by radiochemists."
+      },
+      {
+        "formula": "EsOCl",
+        "name": "Einsteinium oxychloride",
+        "about": "Formed when the chloride meets oxygen."
+      },
+      {
+        "formula": "Es(NO3)3",
+        "name": "Einsteinium nitrate",
+        "about": "A soluble salt used in separations."
+      },
+      {
+        "formula": "EsO2",
+        "name": "Einsteinium dioxide",
+        "about": "A proposed compound of the higher oxidation state."
+      },
+      {
+        "formula": "Es-DOTA",
+        "name": "Einsteinium complex",
+        "about": "The molecule used in the first modern chemistry study of einsteinium."
+      },
+      {
+        "formula": "EsH2",
+        "name": "Einsteinium hydride",
+        "about": "A predicted compound with hydrogen."
+      }
+    ],
+    "compoundsNote": "Einsteinium is made only in nanogram to microgram amounts, so nearly all of its chemistry is at the frontier of what is measurable."
+  },
+  {
+    "atomicNumber": 100,
+    "symbol": "Fm",
+    "name": "Fermium",
+    "nameZh": "镄",
+    "pinyin": "fèi",
+    "category": "Actinide",
+    "group": null,
+    "period": 7,
+    "block": "f",
+    "atomicMass": 257,
+    "stateAtRoomTemp": "solid",
+    "discovered": {
+      "year": 1952,
+      "by": "Albert Ghiorso and colleagues"
+    },
+    "nameMeaning": "After Enrico Fermi, the nuclear physicist",
+    "zhRadical": {
+      "radical": "钅",
+      "means": "metal",
+      "note": "The 钅(metal) radical — this element is a metal."
+    },
+    "crustAbundancePpm": 0,
+    "charges": {
+      "common": [
+        3
+      ],
+      "all": [
+        2,
+        3
+      ]
+    },
+    "description": "Fermium was discovered alongside einsteinium in the fallout of the same hydrogen bomb test. It is the heaviest element that can be made in useful amounts inside a nuclear reactor — beyond fermium, scientists have to smash atoms together in particle accelerators instead.",
+    "funFacts": [
+      "Fermium was found in the debris of the first hydrogen bomb test, in 1952.",
+      "It is named after Enrico Fermi, who built the first nuclear reactor.",
+      "Fermium is the last element that reactors can produce in weighable quantities.",
+      "Nobody has ever made enough fermium to see with the naked eye.",
+      "Its most stable form lasts about 100 days before decaying."
+    ],
+    "compounds": [
+      {
+        "formula": "Fm2O3",
+        "name": "Fermium sesquioxide",
+        "nameZh": "三氧化二镄",
+        "about": "The expected main oxide, studied only in traces."
+      },
+      {
+        "formula": "FmCl3",
+        "name": "Fermium trichloride",
+        "nameZh": "三氯化镄",
+        "about": "Detected in trace ion-exchange experiments."
+      },
+      {
+        "formula": "FmF3",
+        "name": "Fermium trifluoride",
+        "nameZh": "三氟化镄",
+        "about": "An insoluble compound used in separations."
+      },
+      {
+        "formula": "FmCl2",
+        "name": "Fermium dichloride",
+        "nameZh": "二氯化镄",
+        "about": "A rare +2 state compound."
+      },
+      {
+        "formula": "Fm(NO3)3",
+        "name": "Fermium nitrate",
+        "nameZh": "硝酸镄",
+        "about": "The soluble form used in chemistry experiments."
+      },
+      {
+        "formula": "FmBr3",
+        "name": "Fermium tribromide",
+        "about": "Inferred from the behavior of neighboring elements."
+      },
+      {
+        "formula": "FmI3",
+        "name": "Fermium triiodide",
+        "about": "A predicted compound in the halide series."
+      },
+      {
+        "formula": "Fm(OH)3",
+        "name": "Fermium hydroxide",
+        "about": "Precipitates from solution with alkali."
+      },
+      {
+        "formula": "FmPO4",
+        "name": "Fermium phosphate",
+        "about": "An insoluble compound used in separations."
+      },
+      {
+        "formula": "Fm-EDTA",
+        "name": "Fermium complex",
+        "about": "Used to separate fermium from other actinides."
+      }
+    ],
+    "compoundsNote": "Fermium has never been produced in visible amounts. Its chemistry is worked out from experiments on just a few thousand atoms at a time."
+  }
+]
